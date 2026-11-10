@@ -1,0 +1,142 @@
+[
+ {
+  "slug": "freelance-rate-calculator",
+  "name": "Freelance Rate Calculator",
+  "category": "Money & finance",
+  "logo_bytes": 9476,
+  "feature_bytes": 24160
+ },
+ {
+  "slug": "invoice-maker",
+  "name": "Invoice Maker",
+  "category": "Business & invoicing",
+  "logo_bytes": 9134,
+  "feature_bytes": 20692
+ },
+ {
+  "slug": "mortgage-calculator",
+  "name": "Mortgage Calculator",
+  "category": "Real estate",
+  "logo_bytes": 10783,
+  "feature_bytes": 26085
+ },
+ {
+  "slug": "bmi-calculator",
+  "name": "BMI Calculator",
+  "category": "Health & fitness",
+  "logo_bytes": 11457,
+  "feature_bytes": 23055
+ },
+ {
+  "slug": "meeting-time-planner",
+  "name": "Meeting Time Planner",
+  "category": "Productivity & time",
+  "logo_bytes": 9285,
+  "feature_bytes": 22005
+ },
+ {
+  "slug": "word-counter-pro",
+  "name": "Word Counter Pro",
+  "category": "Writing & documents",
+  "logo_bytes": 15810,
+  "feature_bytes": 29981
+ },
+ {
+  "slug": "image-resizer-pro",
+  "name": "Image Resizer Pro",
+  "category": "Images & design",
+  "logo_bytes": 9617,
+  "feature_bytes": 22131
+ },
+ {
+  "slug": "audio-trimmer-offline",
+  "name": "Audio Trimmer Offline",
+  "category": "Audio & video",
+  "logo_bytes": 9142,
+  "feature_bytes": 22486
+ },
+ {
+  "slug": "flashcard-deck-builder",
+  "name": "Flashcard Deck Builder",
+  "category": "Education & learning",
+  "logo_bytes": 9568,
+  "feature_bytes": 24221
+ },
+ {
+  "slug": "cleaning-schedule-builder",
+  "name": "Cleaning Schedule Builder",
+  "category": "Home & household",
+  "logo_bytes": 13862,
+  "feature_bytes": 32644
+ },
+ {
+  "slug": "packing-list-builder",
+  "name": "Packing List Builder",
+  "category": "Travel",
+  "logo_bytes": 5182,
+  "feature_bytes": 19710
+ },
+ {
+  "slug": "recipe-scaler",
+  "name": "Recipe Scaler",
+  "category": "Food & recipes",
+  "logo_bytes": 13175,
+  "feature_bytes": 24810
+ },
+ {
+  "slug": "baby-name-finder",
+  "name": "Baby Name Finder",
+  "category": "Parenting & family",
+  "logo_bytes": 10452,
+  "feature_bytes": 23922
+ },
+ {
+  "slug": "rental-agreement-template",
+  "name": "Rental Agreement Template",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 12761,
+  "feature_bytes": 30361
+ },
+ {
+  "slug": "resume-builder",
+  "name": "Resume Builder",
+  "category": "Career & jobs",
+  "logo_bytes": 10962,
+  "feature_bytes": 22214
+ },
+ {
+  "slug": "social-media-caption-generator",
+  "name": "Social Media Caption Generator",
+  "category": "Marketing & social",
+  "logo_bytes": 13382,
+  "feature_bytes": 34108
+ },
+ {
+  "slug": "qr-code-generator",
+  "name": "QR Code Generator",
+  "category": "Developers & web",
+  "logo_bytes": 15800,
+  "feature_bytes": 33223
+ },
+ {
+  "slug": "csv-to-table-viewer",
+  "name": "CSV to Table Viewer",
+  "category": "Data & files",
+  "logo_bytes": 9021,
+  "feature_bytes": 26050
+ },
+ {
+  "slug": "secure-password-generator",
+  "name": "Secure Password Generator",
+  "category": "Security & privacy",
+  "logo_bytes": 13385,
+  "feature_bytes": 33953
+ },
+ {
+  "slug": "unit-converter-pro",
+  "name": "Unit Converter Pro",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 13874,
+  "feature_bytes": 26686
+ }
+]
