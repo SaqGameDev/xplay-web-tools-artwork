@@ -7,11 +7,697 @@
   "feature_bytes": 24160
  },
  {
+  "slug": "budget-planner-50-30-20",
+  "name": "Budget Planner 50-30-20",
+  "category": "Money & finance",
+  "logo_bytes": 10805,
+  "feature_bytes": 27142
+ },
+ {
+  "slug": "compound-interest-calculator",
+  "name": "Compound Interest Calculator",
+  "category": "Money & finance",
+  "logo_bytes": 10509,
+  "feature_bytes": 29596
+ },
+ {
+  "slug": "loan-payoff-planner",
+  "name": "Loan Payoff Planner",
+  "category": "Money & finance",
+  "logo_bytes": 8501,
+  "feature_bytes": 20868
+ },
+ {
+  "slug": "debt-snowball-planner",
+  "name": "Debt Snowball Planner",
+  "category": "Money & finance",
+  "logo_bytes": 13612,
+  "feature_bytes": 30153
+ },
+ {
+  "slug": "credit-card-payoff-calculator",
+  "name": "Credit Card Payoff Calculator",
+  "category": "Money & finance",
+  "logo_bytes": 10669,
+  "feature_bytes": 29903
+ },
+ {
+  "slug": "savings-goal-tracker",
+  "name": "Savings Goal Tracker",
+  "category": "Money & finance",
+  "logo_bytes": 14273,
+  "feature_bytes": 32103
+ },
+ {
+  "slug": "emergency-fund-calculator",
+  "name": "Emergency Fund Calculator",
+  "category": "Money & finance",
+  "logo_bytes": 6999,
+  "feature_bytes": 23415
+ },
+ {
+  "slug": "retirement-savings-planner",
+  "name": "Retirement Savings Planner",
+  "category": "Money & finance",
+  "logo_bytes": 13637,
+  "feature_bytes": 31877
+ },
+ {
+  "slug": "roth-vs-traditional-ira-comparator",
+  "name": "Roth vs Traditional IRA Comparator",
+  "category": "Money & finance",
+  "logo_bytes": 12541,
+  "feature_bytes": 34158
+ },
+ {
+  "slug": "salary-after-tax-calculator",
+  "name": "Salary After Tax Calculator",
+  "category": "Money & finance",
+  "logo_bytes": 14262,
+  "feature_bytes": 32424
+ },
+ {
+  "slug": "paycheck-budget-splitter",
+  "name": "Paycheck Budget Splitter",
+  "category": "Money & finance",
+  "logo_bytes": 10788,
+  "feature_bytes": 28635
+ },
+ {
+  "slug": "net-worth-tracker",
+  "name": "Net Worth Tracker",
+  "category": "Money & finance",
+  "logo_bytes": 12727,
+  "feature_bytes": 26277
+ },
+ {
+  "slug": "expense-tracker-offline",
+  "name": "Expense Tracker Offline",
+  "category": "Money & finance",
+  "logo_bytes": 7042,
+  "feature_bytes": 22004
+ },
+ {
+  "slug": "subscription-cost-audit",
+  "name": "Subscription Cost Audit",
+  "category": "Money & finance",
+  "logo_bytes": 14304,
+  "feature_bytes": 33078
+ },
+ {
+  "slug": "car-loan-calculator",
+  "name": "Car Loan Calculator",
+  "category": "Money & finance",
+  "logo_bytes": 10527,
+  "feature_bytes": 24707
+ },
+ {
+  "slug": "personal-loan-comparator",
+  "name": "Personal Loan Comparator",
+  "category": "Money & finance",
+  "logo_bytes": 8499,
+  "feature_bytes": 24303
+ },
+ {
+  "slug": "apr-to-apy-converter",
+  "name": "APR to APY Converter",
+  "category": "Money & finance",
+  "logo_bytes": 10030,
+  "feature_bytes": 25075
+ },
+ {
+  "slug": "tip-calculator-splitter",
+  "name": "Tip Calculator Splitter",
+  "category": "Money & finance",
+  "logo_bytes": 10534,
+  "feature_bytes": 25582
+ },
+ {
+  "slug": "currency-converter-manual-rates",
+  "name": "Currency Converter Manual Rates",
+  "category": "Money & finance",
+  "logo_bytes": 10669,
+  "feature_bytes": 32134
+ },
+ {
+  "slug": "crypto-portfolio-tracker-manual",
+  "name": "Crypto Portfolio Tracker Manual",
+  "category": "Money & finance",
+  "logo_bytes": 11900,
+  "feature_bytes": 29065
+ },
+ {
+  "slug": "stock-dividend-calculator",
+  "name": "Stock Dividend Calculator",
+  "category": "Money & finance",
+  "logo_bytes": 13590,
+  "feature_bytes": 32207
+ },
+ {
+  "slug": "dollar-cost-averaging-planner",
+  "name": "Dollar Cost Averaging Planner",
+  "category": "Money & finance",
+  "logo_bytes": 12955,
+  "feature_bytes": 32998
+ },
+ {
+  "slug": "inflation-impact-calculator",
+  "name": "Inflation Impact Calculator",
+  "category": "Money & finance",
+  "logo_bytes": 6918,
+  "feature_bytes": 21788
+ },
+ {
+  "slug": "rent-affordability-calculator",
+  "name": "Rent Affordability Calculator",
+  "category": "Money & finance",
+  "logo_bytes": 12353,
+  "feature_bytes": 32154
+ },
+ {
+  "slug": "home-down-payment-saver",
+  "name": "Home Down Payment Saver",
+  "category": "Money & finance",
+  "logo_bytes": 9603,
+  "feature_bytes": 27022
+ },
+ {
+  "slug": "college-savings-planner",
+  "name": "College Savings Planner",
+  "category": "Money & finance",
+  "logo_bytes": 14279,
+  "feature_bytes": 32971
+ },
+ {
+  "slug": "wedding-budget-planner",
+  "name": "Wedding Budget Planner",
+  "category": "Money & finance",
+  "logo_bytes": 13568,
+  "feature_bytes": 30532
+ },
+ {
+  "slug": "vacation-savings-planner",
+  "name": "Vacation Savings Planner",
+  "category": "Money & finance",
+  "logo_bytes": 14328,
+  "feature_bytes": 34164
+ },
+ {
+  "slug": "tax-refund-estimator",
+  "name": "Tax Refund Estimator",
+  "category": "Money & finance",
+  "logo_bytes": 9480,
+  "feature_bytes": 24553
+ },
+ {
+  "slug": "side-hustle-income-tracker",
+  "name": "Side Hustle Income Tracker",
+  "category": "Money & finance",
+  "logo_bytes": 11212,
+  "feature_bytes": 27277
+ },
+ {
+  "slug": "late-fee-interest-calculator",
+  "name": "Late Fee Interest Calculator",
+  "category": "Money & finance",
+  "logo_bytes": 7000,
+  "feature_bytes": 21909
+ },
+ {
+  "slug": "cash-flow-forecast-simple",
+  "name": "Cash Flow Forecast Simple",
+  "category": "Money & finance",
+  "logo_bytes": 10557,
+  "feature_bytes": 30070
+ },
+ {
+  "slug": "hourly-to-salary-converter",
+  "name": "Hourly to Salary Converter",
+  "category": "Money & finance",
+  "logo_bytes": 7020,
+  "feature_bytes": 23754
+ },
+ {
+  "slug": "salary-to-hourly-converter",
+  "name": "Salary to Hourly Converter",
+  "category": "Money & finance",
+  "logo_bytes": 11198,
+  "feature_bytes": 29929
+ },
+ {
+  "slug": "overtime-pay-calculator",
+  "name": "Overtime Pay Calculator",
+  "category": "Money & finance",
+  "logo_bytes": 12997,
+  "feature_bytes": 30596
+ },
+ {
+  "slug": "401k-contribution-calculator",
+  "name": "401k Contribution Calculator",
+  "category": "Money & finance",
+  "logo_bytes": 11863,
+  "feature_bytes": 29870
+ },
+ {
+  "slug": "loan-amortization-schedule",
+  "name": "Loan Amortization Schedule",
+  "category": "Money & finance",
+  "logo_bytes": 10017,
+  "feature_bytes": 28155
+ },
+ {
+  "slug": "refinance-savings-calculator",
+  "name": "Refinance Savings Calculator",
+  "category": "Money & finance",
+  "logo_bytes": 13637,
+  "feature_bytes": 34237
+ },
+ {
+  "slug": "lease-vs-buy-car-calculator",
+  "name": "Lease vs Buy Car Calculator",
+  "category": "Money & finance",
+  "logo_bytes": 10168,
+  "feature_bytes": 27200
+ },
+ {
+  "slug": "insurance-deductible-comparator",
+  "name": "Insurance Deductible Comparator",
+  "category": "Money & finance",
+  "logo_bytes": 9544,
+  "feature_bytes": 30234
+ },
+ {
+  "slug": "bank-fee-audit-checklist",
+  "name": "Bank Fee Audit Checklist",
+  "category": "Money & finance",
+  "logo_bytes": 9355,
+  "feature_bytes": 26025
+ },
+ {
+  "slug": "bill-due-date-tracker",
+  "name": "Bill Due Date Tracker",
+  "category": "Money & finance",
+  "logo_bytes": 11760,
+  "feature_bytes": 24920
+ },
+ {
+  "slug": "savings-challenge-52-week",
+  "name": "52 Week Savings Challenge",
+  "category": "Money & finance",
+  "logo_bytes": 13701,
+  "feature_bytes": 34432
+ },
+ {
+  "slug": "debt-free-date-calculator",
+  "name": "Debt Free Date Calculator",
+  "category": "Money & finance",
+  "logo_bytes": 9584,
+  "feature_bytes": 24222
+ },
+ {
+  "slug": "financial-independence-calculator",
+  "name": "Financial Independence Calculator",
+  "category": "Money & finance",
+  "logo_bytes": 6979,
+  "feature_bytes": 23046
+ },
+ {
+  "slug": "gift-budget-planner",
+  "name": "Gift Budget Planner",
+  "category": "Money & finance",
+  "logo_bytes": 12710,
+  "feature_bytes": 27201
+ },
+ {
+  "slug": "money-goal-thermometer",
+  "name": "Money Goal Thermometer",
+  "category": "Money & finance",
+  "logo_bytes": 12671,
+  "feature_bytes": 27769
+ },
+ {
+  "slug": "paycheck-deduction-explainer",
+  "name": "Paycheck Deduction Explainer",
+  "category": "Money & finance",
+  "logo_bytes": 10961,
+  "feature_bytes": 32038
+ },
+ {
+  "slug": "allowance-planner-kids",
+  "name": "Allowance Planner Kids",
+  "category": "Money & finance",
+  "logo_bytes": 11440,
+  "feature_bytes": 29151
+ },
+ {
   "slug": "invoice-maker",
   "name": "Invoice Maker",
   "category": "Business & invoicing",
   "logo_bytes": 9134,
   "feature_bytes": 20692
+ },
+ {
+  "slug": "quote-generator-pro",
+  "name": "Quote Generator Pro",
+  "category": "Business & invoicing",
+  "logo_bytes": 14741,
+  "feature_bytes": 30311
+ },
+ {
+  "slug": "receipt-maker",
+  "name": "Receipt Maker",
+  "category": "Business & invoicing",
+  "logo_bytes": 11414,
+  "feature_bytes": 22481
+ },
+ {
+  "slug": "expense-report-builder",
+  "name": "Expense Report Builder",
+  "category": "Business & invoicing",
+  "logo_bytes": 9463,
+  "feature_bytes": 24577
+ },
+ {
+  "slug": "mileage-log-tracker",
+  "name": "Mileage Log Tracker",
+  "category": "Business & invoicing",
+  "logo_bytes": 9148,
+  "feature_bytes": 22593
+ },
+ {
+  "slug": "business-name-generator",
+  "name": "Business Name Generator",
+  "category": "Business & invoicing",
+  "logo_bytes": 10904,
+  "feature_bytes": 27105
+ },
+ {
+  "slug": "llc-vs-sole-prop-comparator",
+  "name": "LLC vs Sole Prop Comparator",
+  "category": "Business & invoicing",
+  "logo_bytes": 10054,
+  "feature_bytes": 29722
+ },
+ {
+  "slug": "startup-cost-calculator",
+  "name": "Startup Cost Calculator",
+  "category": "Business & invoicing",
+  "logo_bytes": 13996,
+  "feature_bytes": 32420
+ },
+ {
+  "slug": "break-even-calculator-business",
+  "name": "Break Even Calculator Business",
+  "category": "Business & invoicing",
+  "logo_bytes": 9352,
+  "feature_bytes": 27731
+ },
+ {
+  "slug": "profit-margin-calculator",
+  "name": "Profit Margin Calculator",
+  "category": "Business & invoicing",
+  "logo_bytes": 10542,
+  "feature_bytes": 25843
+ },
+ {
+  "slug": "markup-calculator",
+  "name": "Markup Calculator",
+  "category": "Business & invoicing",
+  "logo_bytes": 12389,
+  "feature_bytes": 26070
+ },
+ {
+  "slug": "discount-calculator-business",
+  "name": "Discount Calculator Business",
+  "category": "Business & invoicing",
+  "logo_bytes": 12715,
+  "feature_bytes": 31378
+ },
+ {
+  "slug": "sales-tax-calculator",
+  "name": "Sales Tax Calculator",
+  "category": "Business & invoicing",
+  "logo_bytes": 11082,
+  "feature_bytes": 26565
+ },
+ {
+  "slug": "vat-calculator",
+  "name": "VAT Calculator",
+  "category": "Business & invoicing",
+  "logo_bytes": 13312,
+  "feature_bytes": 26210
+ },
+ {
+  "slug": "invoice-overdue-reminder-drafter",
+  "name": "Invoice Overdue Reminder Drafter",
+  "category": "Business & invoicing",
+  "logo_bytes": 11450,
+  "feature_bytes": 30000
+ },
+ {
+  "slug": "payment-terms-explainer",
+  "name": "Payment Terms Explainer",
+  "category": "Business & invoicing",
+  "logo_bytes": 8544,
+  "feature_bytes": 23878
+ },
+ {
+  "slug": "client-contract-checklist",
+  "name": "Client Contract Checklist",
+  "category": "Business & invoicing",
+  "logo_bytes": 10567,
+  "feature_bytes": 26624
+ },
+ {
+  "slug": "scope-of-work-builder",
+  "name": "Scope of Work Builder",
+  "category": "Business & invoicing",
+  "logo_bytes": 15041,
+  "feature_bytes": 32164
+ },
+ {
+  "slug": "project-estimate-builder",
+  "name": "Project Estimate Builder",
+  "category": "Business & invoicing",
+  "logo_bytes": 8549,
+  "feature_bytes": 24447
+ },
+ {
+  "slug": "time-billing-invoice",
+  "name": "Time Billing Invoice",
+  "category": "Business & invoicing",
+  "logo_bytes": 9350,
+  "feature_bytes": 22340
+ },
+ {
+  "slug": "retainer-tracker",
+  "name": "Retainer Tracker",
+  "category": "Business & invoicing",
+  "logo_bytes": 9446,
+  "feature_bytes": 21689
+ },
+ {
+  "slug": "business-budget-planner",
+  "name": "Business Budget Planner",
+  "category": "Business & invoicing",
+  "logo_bytes": 9530,
+  "feature_bytes": 24629
+ },
+ {
+  "slug": "cash-reserve-planner",
+  "name": "Cash Reserve Planner",
+  "category": "Business & invoicing",
+  "logo_bytes": 12623,
+  "feature_bytes": 27696
+ },
+ {
+  "slug": "payroll-cost-calculator",
+  "name": "Payroll Cost Calculator",
+  "category": "Business & invoicing",
+  "logo_bytes": 11752,
+  "feature_bytes": 28525
+ },
+ {
+  "slug": "employee-cost-calculator",
+  "name": "Employee Cost Calculator",
+  "category": "Business & invoicing",
+  "logo_bytes": 10474,
+  "feature_bytes": 27762
+ },
+ {
+  "slug": "contractor-vs-employee-comparator",
+  "name": "Contractor vs Employee Comparator",
+  "category": "Business & invoicing",
+  "logo_bytes": 13257,
+  "feature_bytes": 35985
+ },
+ {
+  "slug": "pricing-calculator-services",
+  "name": "Pricing Calculator Services",
+  "category": "Business & invoicing",
+  "logo_bytes": 11752,
+  "feature_bytes": 30831
+ },
+ {
+  "slug": "hourly-billing-tracker",
+  "name": "Hourly Billing Tracker",
+  "category": "Business & invoicing",
+  "logo_bytes": 9341,
+  "feature_bytes": 22772
+ },
+ {
+  "slug": "work-hours-invoice-export",
+  "name": "Work Hours Invoice Export",
+  "category": "Business & invoicing",
+  "logo_bytes": 11092,
+  "feature_bytes": 27649
+ },
+ {
+  "slug": "purchase-order-maker",
+  "name": "Purchase Order Maker",
+  "category": "Business & invoicing",
+  "logo_bytes": 12800,
+  "feature_bytes": 29394
+ },
+ {
+  "slug": "packing-slip-maker",
+  "name": "Packing Slip Maker",
+  "category": "Business & invoicing",
+  "logo_bytes": 12443,
+  "feature_bytes": 28335
+ },
+ {
+  "slug": "delivery-note-maker",
+  "name": "Delivery Note Maker",
+  "category": "Business & invoicing",
+  "logo_bytes": 11106,
+  "feature_bytes": 25430
+ },
+ {
+  "slug": "credit-note-maker",
+  "name": "Credit Note Maker",
+  "category": "Business & invoicing",
+  "logo_bytes": 12000,
+  "feature_bytes": 26004
+ },
+ {
+  "slug": "quote-to-invoice-converter",
+  "name": "Quote to Invoice Converter",
+  "category": "Business & invoicing",
+  "logo_bytes": 11987,
+  "feature_bytes": 30743
+ },
+ {
+  "slug": "business-card-qr-maker",
+  "name": "Business Card QR Maker",
+  "category": "Business & invoicing",
+  "logo_bytes": 12488,
+  "feature_bytes": 30743
+ },
+ {
+  "slug": "logo-cost-estimator",
+  "name": "Logo Cost Estimator",
+  "category": "Business & invoicing",
+  "logo_bytes": 10435,
+  "feature_bytes": 24733
+ },
+ {
+  "slug": "brand-kit-checklist",
+  "name": "Brand Kit Checklist",
+  "category": "Business & invoicing",
+  "logo_bytes": 11628,
+  "feature_bytes": 26588
+ },
+ {
+  "slug": "business-plan-one-page",
+  "name": "One Page Business Plan",
+  "category": "Business & invoicing",
+  "logo_bytes": 12774,
+  "feature_bytes": 28922
+ },
+ {
+  "slug": "swot-analysis-builder",
+  "name": "SWOT Analysis Builder",
+  "category": "Business & invoicing",
+  "logo_bytes": 13932,
+  "feature_bytes": 31953
+ },
+ {
+  "slug": "competitor-price-tracker",
+  "name": "Competitor Price Tracker",
+  "category": "Business & invoicing",
+  "logo_bytes": 11725,
+  "feature_bytes": 27100
+ },
+ {
+  "slug": "customer-feedback-form-builder",
+  "name": "Customer Feedback Form Builder",
+  "category": "Business & invoicing",
+  "logo_bytes": 10462,
+  "feature_bytes": 31561
+ },
+ {
+  "slug": "refund-policy-generator",
+  "name": "Refund Policy Generator",
+  "category": "Business & invoicing",
+  "logo_bytes": 10718,
+  "feature_bytes": 27751
+ },
+ {
+  "slug": "terms-of-sale-generator",
+  "name": "Terms of Sale Generator",
+  "category": "Business & invoicing",
+  "logo_bytes": 11475,
+  "feature_bytes": 28089
+ },
+ {
+  "slug": "shipping-cost-calculator",
+  "name": "Shipping Cost Calculator",
+  "category": "Business & invoicing",
+  "logo_bytes": 13996,
+  "feature_bytes": 32598
+ },
+ {
+  "slug": "packaging-cost-calculator",
+  "name": "Packaging Cost Calculator",
+  "category": "Business & invoicing",
+  "logo_bytes": 11752,
+  "feature_bytes": 30235
+ },
+ {
+  "slug": "inventory-value-tracker",
+  "name": "Inventory Value Tracker",
+  "category": "Business & invoicing",
+  "logo_bytes": 10032,
+  "feature_bytes": 26349
+ },
+ {
+  "slug": "reorder-point-calculator",
+  "name": "Reorder Point Calculator",
+  "category": "Business & invoicing",
+  "logo_bytes": 10718,
+  "feature_bytes": 25997
+ },
+ {
+  "slug": "stock-count-sheet",
+  "name": "Stock Count Sheet",
+  "category": "Business & invoicing",
+  "logo_bytes": 13996,
+  "feature_bytes": 29431
+ },
+ {
+  "slug": "profit-loss-statement-simple",
+  "name": "Profit Loss Statement Simple",
+  "category": "Business & invoicing",
+  "logo_bytes": 8518,
+  "feature_bytes": 25267
+ },
+ {
+  "slug": "balance-sheet-simple",
+  "name": "Balance Sheet Simple",
+  "category": "Business & invoicing",
+  "logo_bytes": 13296,
+  "feature_bytes": 28402
  },
  {
   "slug": "mortgage-calculator",
@@ -21,11 +707,697 @@
   "feature_bytes": 26085
  },
  {
+  "slug": "rent-vs-buy-calculator",
+  "name": "Rent vs Buy Calculator",
+  "category": "Real estate",
+  "logo_bytes": 10644,
+  "feature_bytes": 27772
+ },
+ {
+  "slug": "house-flipping-profit-calculator",
+  "name": "House Flipping Profit Calculator",
+  "category": "Real estate",
+  "logo_bytes": 5170,
+  "feature_bytes": 23208
+ },
+ {
+  "slug": "rental-income-calculator",
+  "name": "Rental Income Calculator",
+  "category": "Real estate",
+  "logo_bytes": 7617,
+  "feature_bytes": 23323
+ },
+ {
+  "slug": "cap-rate-calculator",
+  "name": "Cap Rate Calculator",
+  "category": "Real estate",
+  "logo_bytes": 11034,
+  "feature_bytes": 26211
+ },
+ {
+  "slug": "cash-on-cash-return-calculator",
+  "name": "Cash on Cash Return Calculator",
+  "category": "Real estate",
+  "logo_bytes": 12772,
+  "feature_bytes": 31309
+ },
+ {
+  "slug": "gross-rent-multiplier-calculator",
+  "name": "Gross Rent Multiplier Calculator",
+  "category": "Real estate",
+  "logo_bytes": 11028,
+  "feature_bytes": 31060
+ },
+ {
+  "slug": "home-valuation-worksheet",
+  "name": "Home Valuation Worksheet",
+  "category": "Real estate",
+  "logo_bytes": 8341,
+  "feature_bytes": 25744
+ },
+ {
+  "slug": "closing-cost-estimator",
+  "name": "Closing Cost Estimator",
+  "category": "Real estate",
+  "logo_bytes": 8863,
+  "feature_bytes": 23608
+ },
+ {
+  "slug": "home-buying-checklist",
+  "name": "Home Buying Checklist",
+  "category": "Real estate",
+  "logo_bytes": 7571,
+  "feature_bytes": 24062
+ },
+ {
+  "slug": "home-selling-checklist",
+  "name": "Home Selling Checklist",
+  "category": "Real estate",
+  "logo_bytes": 9434,
+  "feature_bytes": 25330
+ },
+ {
+  "slug": "moving-cost-estimator",
+  "name": "Moving Cost Estimator",
+  "category": "Real estate",
+  "logo_bytes": 10783,
+  "feature_bytes": 26660
+ },
+ {
+  "slug": "home-renovation-budgeter",
+  "name": "Home Renovation Budgeter",
+  "category": "Real estate",
+  "logo_bytes": 7665,
+  "feature_bytes": 25465
+ },
+ {
+  "slug": "rehab-cost-estimator",
+  "name": "Rehab Cost Estimator",
+  "category": "Real estate",
+  "logo_bytes": 11059,
+  "feature_bytes": 28082
+ },
+ {
+  "slug": "arv-estimator-worksheet",
+  "name": "ARV Estimator Worksheet",
+  "category": "Real estate",
+  "logo_bytes": 8252,
+  "feature_bytes": 27041
+ },
+ {
+  "slug": "wholesale-deal-analyzer",
+  "name": "Wholesale Deal Analyzer",
+  "category": "Real estate",
+  "logo_bytes": 11746,
+  "feature_bytes": 28477
+ },
+ {
+  "slug": "assignment-fee-calculator",
+  "name": "Assignment Fee Calculator",
+  "category": "Real estate",
+  "logo_bytes": 8233,
+  "feature_bytes": 24436
+ },
+ {
+  "slug": "home-inspection-checklist",
+  "name": "Home Inspection Checklist",
+  "category": "Real estate",
+  "logo_bytes": 5128,
+  "feature_bytes": 23022
+ },
+ {
+  "slug": "landlord-expense-tracker",
+  "name": "Landlord Expense Tracker",
+  "category": "Real estate",
+  "logo_bytes": 5154,
+  "feature_bytes": 21444
+ },
+ {
+  "slug": "rent-increase-calculator",
+  "name": "Rent Increase Calculator",
+  "category": "Real estate",
+  "logo_bytes": 7617,
+  "feature_bytes": 22888
+ },
+ {
+  "slug": "security-deposit-tracker",
+  "name": "Security Deposit Tracker",
+  "category": "Real estate",
+  "logo_bytes": 11729,
+  "feature_bytes": 29981
+ },
+ {
+  "slug": "tenant-screening-checklist",
+  "name": "Tenant Screening Checklist",
+  "category": "Real estate",
+  "logo_bytes": 9417,
+  "feature_bytes": 27642
+ },
+ {
+  "slug": "lease-agreement-template",
+  "name": "Lease Agreement Template",
+  "category": "Real estate",
+  "logo_bytes": 8178,
+  "feature_bytes": 25236
+ },
+ {
+  "slug": "roommate-expense-splitter",
+  "name": "Roommate Expense Splitter",
+  "category": "Real estate",
+  "logo_bytes": 7688,
+  "feature_bytes": 25851
+ },
+ {
+  "slug": "home-office-deduction-estimator",
+  "name": "Home Office Deduction Estimator",
+  "category": "Real estate",
+  "logo_bytes": 9872,
+  "feature_bytes": 30003
+ },
+ {
+  "slug": "property-tax-estimator",
+  "name": "Property Tax Estimator",
+  "category": "Real estate",
+  "logo_bytes": 6661,
+  "feature_bytes": 22791
+ },
+ {
+  "slug": "hoa-fee-comparator",
+  "name": "HOA Fee Comparator",
+  "category": "Real estate",
+  "logo_bytes": 5170,
+  "feature_bytes": 18611
+ },
+ {
+  "slug": "flood-risk-checklist",
+  "name": "Flood Risk Checklist",
+  "category": "Real estate",
+  "logo_bytes": 7656,
+  "feature_bytes": 22098
+ },
+ {
+  "slug": "home-warranty-comparator",
+  "name": "Home Warranty Comparator",
+  "category": "Real estate",
+  "logo_bytes": 9287,
+  "feature_bytes": 26995
+ },
+ {
+  "slug": "mortgage-refinance-checklist",
+  "name": "Mortgage Refinance Checklist",
+  "category": "Real estate",
+  "logo_bytes": 9755,
+  "feature_bytes": 29611
+ },
+ {
+  "slug": "biweekly-mortgage-calculator",
+  "name": "Biweekly Mortgage Calculator",
+  "category": "Real estate",
+  "logo_bytes": 9640,
+  "feature_bytes": 29703
+ },
+ {
+  "slug": "extra-payment-mortgage-calculator",
+  "name": "Extra Payment Mortgage Calculator",
+  "category": "Real estate",
+  "logo_bytes": 6671,
+  "feature_bytes": 28363
+ },
+ {
+  "slug": "pmi-removal-calculator",
+  "name": "PMI Removal Calculator",
+  "category": "Real estate",
+  "logo_bytes": 9044,
+  "feature_bytes": 25365
+ },
+ {
+  "slug": "home-equity-calculator",
+  "name": "Home Equity Calculator",
+  "category": "Real estate",
+  "logo_bytes": 5191,
+  "feature_bytes": 20037
+ },
+ {
+  "slug": "heloc-payment-calculator",
+  "name": "HELOC Payment Calculator",
+  "category": "Real estate",
+  "logo_bytes": 6659,
+  "feature_bytes": 23695
+ },
+ {
+  "slug": "land-value-estimator",
+  "name": "Land Value Estimator",
+  "category": "Real estate",
+  "logo_bytes": 8300,
+  "feature_bytes": 22928
+ },
+ {
+  "slug": "commercial-lease-calculator",
+  "name": "Commercial Lease Calculator",
+  "category": "Real estate",
+  "logo_bytes": 8725,
+  "feature_bytes": 27784
+ },
+ {
+  "slug": "airbnb-income-estimator",
+  "name": "Airbnb Income Estimator",
+  "category": "Real estate",
+  "logo_bytes": 8165,
+  "feature_bytes": 23905
+ },
+ {
+  "slug": "short-term-rental-expense-tracker",
+  "name": "Short Term Rental Expense Tracker",
+  "category": "Real estate",
+  "logo_bytes": 9416,
+  "feature_bytes": 30152
+ },
+ {
+  "slug": "eviction-timeline-checklist",
+  "name": "Eviction Timeline Checklist",
+  "category": "Real estate",
+  "logo_bytes": 5198,
+  "feature_bytes": 20464
+ },
+ {
+  "slug": "move-in-inspection-form",
+  "name": "Move In Inspection Form",
+  "category": "Real estate",
+  "logo_bytes": 7330,
+  "feature_bytes": 24039
+ },
+ {
+  "slug": "rent-roll-tracker",
+  "name": "Rent Roll Tracker",
+  "category": "Real estate",
+  "logo_bytes": 7845,
+  "feature_bytes": 19503
+ },
+ {
+  "slug": "maintenance-request-form",
+  "name": "Maintenance Request Form",
+  "category": "Real estate",
+  "logo_bytes": 9755,
+  "feature_bytes": 25253
+ },
+ {
+  "slug": "property-management-fee-calculator",
+  "name": "Property Management Fee Calculator",
+  "category": "Real estate",
+  "logo_bytes": 8867,
+  "feature_bytes": 30098
+ },
+ {
+  "slug": "home-staging-budget-planner",
+  "name": "Home Staging Budget Planner",
+  "category": "Real estate",
+  "logo_bytes": 9434,
+  "feature_bytes": 27967
+ },
+ {
+  "slug": "curb-appeal-checklist",
+  "name": "Curb Appeal Checklist",
+  "category": "Real estate",
+  "logo_bytes": 11550,
+  "feature_bytes": 28147
+ },
+ {
+  "slug": "open-house-sign-in-sheet",
+  "name": "Open House Sign In Sheet",
+  "category": "Real estate",
+  "logo_bytes": 9870,
+  "feature_bytes": 25552
+ },
+ {
+  "slug": "offer-comparison-worksheet",
+  "name": "Offer Comparison Worksheet",
+  "category": "Real estate",
+  "logo_bytes": 12768,
+  "feature_bytes": 34372
+ },
+ {
+  "slug": "earnest-money-tracker",
+  "name": "Earnest Money Tracker",
+  "category": "Real estate",
+  "logo_bytes": 7411,
+  "feature_bytes": 22543
+ },
+ {
+  "slug": "down-payment-assistance-checklist",
+  "name": "Down Payment Assistance Checklist",
+  "category": "Real estate",
+  "logo_bytes": 9143,
+  "feature_bytes": 32799
+ },
+ {
   "slug": "bmi-calculator",
   "name": "BMI Calculator",
   "category": "Health & fitness",
   "logo_bytes": 11457,
   "feature_bytes": 23055
+ },
+ {
+  "slug": "body-fat-percentage-calculator",
+  "name": "Body Fat Percentage Calculator",
+  "category": "Health & fitness",
+  "logo_bytes": 8190,
+  "feature_bytes": 28294
+ },
+ {
+  "slug": "daily-calorie-needs-calculator",
+  "name": "Daily Calorie Needs Calculator",
+  "category": "Health & fitness",
+  "logo_bytes": 11641,
+  "feature_bytes": 31698
+ },
+ {
+  "slug": "macro-split-calculator",
+  "name": "Macro Split Calculator",
+  "category": "Health & fitness",
+  "logo_bytes": 12070,
+  "feature_bytes": 27997
+ },
+ {
+  "slug": "protein-intake-calculator",
+  "name": "Protein Intake Calculator",
+  "category": "Health & fitness",
+  "logo_bytes": 7246,
+  "feature_bytes": 21811
+ },
+ {
+  "slug": "water-intake-calculator",
+  "name": "Water Intake Calculator",
+  "category": "Health & fitness",
+  "logo_bytes": 9780,
+  "feature_bytes": 26240
+ },
+ {
+  "slug": "sleep-cycle-planner",
+  "name": "Sleep Cycle Planner",
+  "category": "Health & fitness",
+  "logo_bytes": 12992,
+  "feature_bytes": 28641
+ },
+ {
+  "slug": "sleep-debt-tracker",
+  "name": "Sleep Debt Tracker",
+  "category": "Health & fitness",
+  "logo_bytes": 12363,
+  "feature_bytes": 25738
+ },
+ {
+  "slug": "step-goal-planner",
+  "name": "Step Goal Planner",
+  "category": "Health & fitness",
+  "logo_bytes": 12953,
+  "feature_bytes": 28346
+ },
+ {
+  "slug": "workout-planner-builder",
+  "name": "Workout Planner Builder",
+  "category": "Health & fitness",
+  "logo_bytes": 11348,
+  "feature_bytes": 25537
+ },
+ {
+  "slug": "hiit-timer",
+  "name": "HIIT Timer",
+  "category": "Health & fitness",
+  "logo_bytes": 5825,
+  "feature_bytes": 11868
+ },
+ {
+  "slug": "tabata-timer",
+  "name": "Tabata Timer",
+  "category": "Health & fitness",
+  "logo_bytes": 5761,
+  "feature_bytes": 13998
+ },
+ {
+  "slug": "plank-challenge-tracker",
+  "name": "Plank Challenge Tracker",
+  "category": "Health & fitness",
+  "logo_bytes": 10670,
+  "feature_bytes": 27154
+ },
+ {
+  "slug": "pushup-challenge-tracker",
+  "name": "Pushup Challenge Tracker",
+  "category": "Health & fitness",
+  "logo_bytes": 10670,
+  "feature_bytes": 28091
+ },
+ {
+  "slug": "running-pace-calculator",
+  "name": "Running Pace Calculator",
+  "category": "Health & fitness",
+  "logo_bytes": 9630,
+  "feature_bytes": 25515
+ },
+ {
+  "slug": "marathon-training-planner",
+  "name": "Marathon Training Planner",
+  "category": "Health & fitness",
+  "logo_bytes": 8044,
+  "feature_bytes": 22564
+ },
+ {
+  "slug": "5k-training-planner",
+  "name": "5K Training Planner",
+  "category": "Health & fitness",
+  "logo_bytes": 8323,
+  "feature_bytes": 20699
+ },
+ {
+  "slug": "heart-rate-zone-calculator",
+  "name": "Heart Rate Zone Calculator",
+  "category": "Health & fitness",
+  "logo_bytes": 8271,
+  "feature_bytes": 23162
+ },
+ {
+  "slug": "resting-heart-rate-tracker",
+  "name": "Resting Heart Rate Tracker",
+  "category": "Health & fitness",
+  "logo_bytes": 8274,
+  "feature_bytes": 23831
+ },
+ {
+  "slug": "blood-pressure-log",
+  "name": "Blood Pressure Log",
+  "category": "Health & fitness",
+  "logo_bytes": 9606,
+  "feature_bytes": 22873
+ },
+ {
+  "slug": "blood-sugar-log",
+  "name": "Blood Sugar Log",
+  "category": "Health & fitness",
+  "logo_bytes": 12242,
+  "feature_bytes": 26642
+ },
+ {
+  "slug": "medication-reminder-schedule",
+  "name": "Medication Reminder Schedule",
+  "category": "Health & fitness",
+  "logo_bytes": 10358,
+  "feature_bytes": 29875
+ },
+ {
+  "slug": "vitamin-schedule-tracker",
+  "name": "Vitamin Schedule Tracker",
+  "category": "Health & fitness",
+  "logo_bytes": 12996,
+  "feature_bytes": 30759
+ },
+ {
+  "slug": "meal-calorie-tracker",
+  "name": "Meal Calorie Tracker",
+  "category": "Health & fitness",
+  "logo_bytes": 11415,
+  "feature_bytes": 24872
+ },
+ {
+  "slug": "food-diary-simple",
+  "name": "Food Diary Simple",
+  "category": "Health & fitness",
+  "logo_bytes": 8413,
+  "feature_bytes": 22106
+ },
+ {
+  "slug": "weight-loss-goal-planner",
+  "name": "Weight Loss Goal Planner",
+  "category": "Health & fitness",
+  "logo_bytes": 9808,
+  "feature_bytes": 27062
+ },
+ {
+  "slug": "weight-gain-meal-planner",
+  "name": "Weight Gain Meal Planner",
+  "category": "Health & fitness",
+  "logo_bytes": 13360,
+  "feature_bytes": 28605
+ },
+ {
+  "slug": "intermittent-fasting-timer",
+  "name": "Intermittent Fasting Timer",
+  "category": "Health & fitness",
+  "logo_bytes": 5785,
+  "feature_bytes": 18641
+ },
+ {
+  "slug": "fasting-schedule-planner",
+  "name": "Fasting Schedule Planner",
+  "category": "Health & fitness",
+  "logo_bytes": 9958,
+  "feature_bytes": 26895
+ },
+ {
+  "slug": "yoga-routine-builder",
+  "name": "Yoga Routine Builder",
+  "category": "Health & fitness",
+  "logo_bytes": 10614,
+  "feature_bytes": 26012
+ },
+ {
+  "slug": "stretching-routine-builder",
+  "name": "Stretching Routine Builder",
+  "category": "Health & fitness",
+  "logo_bytes": 12330,
+  "feature_bytes": 28876
+ },
+ {
+  "slug": "posture-check-reminder",
+  "name": "Posture Check Reminder",
+  "category": "Health & fitness",
+  "logo_bytes": 10670,
+  "feature_bytes": 27735
+ },
+ {
+  "slug": "desk-exercise-guide",
+  "name": "Desk Exercise Guide",
+  "category": "Health & fitness",
+  "logo_bytes": 8428,
+  "feature_bytes": 22526
+ },
+ {
+  "slug": "pregnancy-due-date-calculator",
+  "name": "Pregnancy Due Date Calculator",
+  "category": "Health & fitness",
+  "logo_bytes": 9754,
+  "feature_bytes": 28862
+ },
+ {
+  "slug": "ovulation-cycle-tracker",
+  "name": "Ovulation Cycle Tracker",
+  "category": "Health & fitness",
+  "logo_bytes": 13262,
+  "feature_bytes": 31650
+ },
+ {
+  "slug": "baby-feeding-log",
+  "name": "Baby Feeding Log",
+  "category": "Health & fitness",
+  "logo_bytes": 8190,
+  "feature_bytes": 22345
+ },
+ {
+  "slug": "growth-chart-tracker-kids",
+  "name": "Growth Chart Tracker Kids",
+  "category": "Health & fitness",
+  "logo_bytes": 11534,
+  "feature_bytes": 29362
+ },
+ {
+  "slug": "allergy-food-log",
+  "name": "Allergy Food Log",
+  "category": "Health & fitness",
+  "logo_bytes": 8881,
+  "feature_bytes": 22750
+ },
+ {
+  "slug": "symptom-diary",
+  "name": "Symptom Diary",
+  "category": "Health & fitness",
+  "logo_bytes": 12363,
+  "feature_bytes": 24886
+ },
+ {
+  "slug": "headache-trigger-log",
+  "name": "Headache Trigger Log",
+  "category": "Health & fitness",
+  "logo_bytes": 5825,
+  "feature_bytes": 18172
+ },
+ {
+  "slug": "migraine-diary",
+  "name": "Migraine Diary",
+  "category": "Health & fitness",
+  "logo_bytes": 10456,
+  "feature_bytes": 21301
+ },
+ {
+  "slug": "mood-tracker-daily",
+  "name": "Mood Tracker Daily",
+  "category": "Health & fitness",
+  "logo_bytes": 8044,
+  "feature_bytes": 21812
+ },
+ {
+  "slug": "anxiety-breathing-timer",
+  "name": "Anxiety Breathing Timer",
+  "category": "Health & fitness",
+  "logo_bytes": 11115,
+  "feature_bytes": 28205
+ },
+ {
+  "slug": "meditation-timer",
+  "name": "Meditation Timer",
+  "category": "Health & fitness",
+  "logo_bytes": 8044,
+  "feature_bytes": 19846
+ },
+ {
+  "slug": "habit-tracker-health",
+  "name": "Habit Tracker Health",
+  "category": "Health & fitness",
+  "logo_bytes": 5825,
+  "feature_bytes": 17553
+ },
+ {
+  "slug": "gym-membership-cost-comparator",
+  "name": "Gym Membership Cost Comparator",
+  "category": "Health & fitness",
+  "logo_bytes": 11425,
+  "feature_bytes": 27206
+ },
+ {
+  "slug": "home-gym-budget-planner",
+  "name": "Home Gym Budget Planner",
+  "category": "Health & fitness",
+  "logo_bytes": 9382,
+  "feature_bytes": 25782
+ },
+ {
+  "slug": "running-shoe-mileage-log",
+  "name": "Running Shoe Mileage Log",
+  "category": "Health & fitness",
+  "logo_bytes": 12333,
+  "feature_bytes": 29204
+ },
+ {
+  "slug": "injury-recovery-tracker",
+  "name": "Injury Recovery Tracker",
+  "category": "Health & fitness",
+  "logo_bytes": 8223,
+  "feature_bytes": 23587
+ },
+ {
+  "slug": "stretching-before-run-guide",
+  "name": "Stretching Before Run Guide",
+  "category": "Health & fitness",
+  "logo_bytes": 12272,
+  "feature_bytes": 31433
  },
  {
   "slug": "meeting-time-planner",
@@ -35,11 +1407,697 @@
   "feature_bytes": 22005
  },
  {
+  "slug": "pomodoro-timer-pro",
+  "name": "Pomodoro Timer Pro",
+  "category": "Productivity & time",
+  "logo_bytes": 8563,
+  "feature_bytes": 20865
+ },
+ {
+  "slug": "time-block-planner",
+  "name": "Time Block Planner",
+  "category": "Productivity & time",
+  "logo_bytes": 9399,
+  "feature_bytes": 22598
+ },
+ {
+  "slug": "daily-schedule-builder",
+  "name": "Daily Schedule Builder",
+  "category": "Productivity & time",
+  "logo_bytes": 13510,
+  "feature_bytes": 30289
+ },
+ {
+  "slug": "weekly-planner-printable",
+  "name": "Weekly Planner Printable",
+  "category": "Productivity & time",
+  "logo_bytes": 12638,
+  "feature_bytes": 28757
+ },
+ {
+  "slug": "habit-tracker-daily",
+  "name": "Habit Tracker Daily",
+  "category": "Productivity & time",
+  "logo_bytes": 7103,
+  "feature_bytes": 19485
+ },
+ {
+  "slug": "goal-tracker-90-day",
+  "name": "90 Day Goal Tracker",
+  "category": "Productivity & time",
+  "logo_bytes": 13429,
+  "feature_bytes": 30877
+ },
+ {
+  "slug": "task-prioritizer-eisenhower",
+  "name": "Task Prioritizer Eisenhower",
+  "category": "Productivity & time",
+  "logo_bytes": 8563,
+  "feature_bytes": 24926
+ },
+ {
+  "slug": "to-do-list-offline",
+  "name": "To Do List Offline",
+  "category": "Productivity & time",
+  "logo_bytes": 9588,
+  "feature_bytes": 21104
+ },
+ {
+  "slug": "kanban-board-simple",
+  "name": "Kanban Board Simple",
+  "category": "Productivity & time",
+  "logo_bytes": 11852,
+  "feature_bytes": 27547
+ },
+ {
+  "slug": "deadline-countdown-tracker",
+  "name": "Deadline Countdown Tracker",
+  "category": "Productivity & time",
+  "logo_bytes": 12834,
+  "feature_bytes": 31545
+ },
+ {
+  "slug": "project-timeline-builder",
+  "name": "Project Timeline Builder",
+  "category": "Productivity & time",
+  "logo_bytes": 8563,
+  "feature_bytes": 23178
+ },
+ {
+  "slug": "gantt-chart-simple",
+  "name": "Gantt Chart Simple",
+  "category": "Productivity & time",
+  "logo_bytes": 12699,
+  "feature_bytes": 26585
+ },
+ {
+  "slug": "time-tracker-freelance",
+  "name": "Time Tracker Freelance",
+  "category": "Productivity & time",
+  "logo_bytes": 7037,
+  "feature_bytes": 19630
+ },
+ {
+  "slug": "billable-hours-log",
+  "name": "Billable Hours Log",
+  "category": "Productivity & time",
+  "logo_bytes": 9398,
+  "feature_bytes": 22875
+ },
+ {
+  "slug": "focus-session-timer",
+  "name": "Focus Session Timer",
+  "category": "Productivity & time",
+  "logo_bytes": 11168,
+  "feature_bytes": 24972
+ },
+ {
+  "slug": "distraction-log",
+  "name": "Distraction Log",
+  "category": "Productivity & time",
+  "logo_bytes": 9565,
+  "feature_bytes": 21612
+ },
+ {
+  "slug": "meeting-agenda-builder",
+  "name": "Meeting Agenda Builder",
+  "category": "Productivity & time",
+  "logo_bytes": 12063,
+  "feature_bytes": 28051
+ },
+ {
+  "slug": "meeting-notes-template",
+  "name": "Meeting Notes Template",
+  "category": "Productivity & time",
+  "logo_bytes": 10818,
+  "feature_bytes": 25915
+ },
+ {
+  "slug": "meeting-cost-calculator",
+  "name": "Meeting Cost Calculator",
+  "category": "Productivity & time",
+  "logo_bytes": 12628,
+  "feature_bytes": 29555
+ },
+ {
+  "slug": "decision-matrix-maker",
+  "name": "Decision Matrix Maker",
+  "category": "Productivity & time",
+  "logo_bytes": 11652,
+  "feature_bytes": 28139
+ },
+ {
+  "slug": "pros-cons-list-maker",
+  "name": "Pros Cons List Maker",
+  "category": "Productivity & time",
+  "logo_bytes": 11856,
+  "feature_bytes": 26441
+ },
+ {
+  "slug": "brain-dump-organizer",
+  "name": "Brain Dump Organizer",
+  "category": "Productivity & time",
+  "logo_bytes": 11729,
+  "feature_bytes": 28174
+ },
+ {
+  "slug": "morning-routine-builder",
+  "name": "Morning Routine Builder",
+  "category": "Productivity & time",
+  "logo_bytes": 11605,
+  "feature_bytes": 26396
+ },
+ {
+  "slug": "evening-routine-builder",
+  "name": "Evening Routine Builder",
+  "category": "Productivity & time",
+  "logo_bytes": 9519,
+  "feature_bytes": 24201
+ },
+ {
+  "slug": "weekly-review-checklist",
+  "name": "Weekly Review Checklist",
+  "category": "Productivity & time",
+  "logo_bytes": 13501,
+  "feature_bytes": 30783
+ },
+ {
+  "slug": "monthly-planning-worksheet",
+  "name": "Monthly Planning Worksheet",
+  "category": "Productivity & time",
+  "logo_bytes": 10679,
+  "feature_bytes": 28624
+ },
+ {
+  "slug": "yearly-goal-planner",
+  "name": "Yearly Goal Planner",
+  "category": "Productivity & time",
+  "logo_bytes": 12783,
+  "feature_bytes": 28140
+ },
+ {
+  "slug": "vision-board-builder",
+  "name": "Vision Board Builder",
+  "category": "Productivity & time",
+  "logo_bytes": 12428,
+  "feature_bytes": 28251
+ },
+ {
+  "slug": "journal-prompts-daily",
+  "name": "Journal Prompts Daily",
+  "category": "Productivity & time",
+  "logo_bytes": 9268,
+  "feature_bytes": 25334
+ },
+ {
+  "slug": "gratitude-journal",
+  "name": "Gratitude Journal",
+  "category": "Productivity & time",
+  "logo_bytes": 11251,
+  "feature_bytes": 25078
+ },
+ {
+  "slug": "reading-tracker",
+  "name": "Reading Tracker",
+  "category": "Productivity & time",
+  "logo_bytes": 9503,
+  "feature_bytes": 23421
+ },
+ {
+  "slug": "book-notes-organizer",
+  "name": "Book Notes Organizer",
+  "category": "Productivity & time",
+  "logo_bytes": 11046,
+  "feature_bytes": 27737
+ },
+ {
+  "slug": "study-session-timer",
+  "name": "Study Session Timer",
+  "category": "Productivity & time",
+  "logo_bytes": 11186,
+  "feature_bytes": 26411
+ },
+ {
+  "slug": "exam-countdown-planner",
+  "name": "Exam Countdown Planner",
+  "category": "Productivity & time",
+  "logo_bytes": 10557,
+  "feature_bytes": 27304
+ },
+ {
+  "slug": "assignment-deadline-tracker",
+  "name": "Assignment Deadline Tracker",
+  "category": "Productivity & time",
+  "logo_bytes": 12522,
+  "feature_bytes": 31649
+ },
+ {
+  "slug": "lecture-notes-template",
+  "name": "Lecture Notes Template",
+  "category": "Productivity & time",
+  "logo_bytes": 8747,
+  "feature_bytes": 23310
+ },
+ {
+  "slug": "flashcard-maker-simple",
+  "name": "Flashcard Maker Simple",
+  "category": "Productivity & time",
+  "logo_bytes": 9294,
+  "feature_bytes": 25285
+ },
+ {
+  "slug": "spaced-repetition-planner",
+  "name": "Spaced Repetition Planner",
+  "category": "Productivity & time",
+  "logo_bytes": 13546,
+  "feature_bytes": 32582
+ },
+ {
+  "slug": "calendar-printable-monthly",
+  "name": "Calendar Printable Monthly",
+  "category": "Productivity & time",
+  "logo_bytes": 11846,
+  "feature_bytes": 30373
+ },
+ {
+  "slug": "shift-schedule-planner",
+  "name": "Shift Schedule Planner",
+  "category": "Productivity & time",
+  "logo_bytes": 11186,
+  "feature_bytes": 25467
+ },
+ {
+  "slug": "rota-planner-small-team",
+  "name": "Rota Planner Small Team",
+  "category": "Productivity & time",
+  "logo_bytes": 10843,
+  "feature_bytes": 25502
+ },
+ {
+  "slug": "on-call-schedule-planner",
+  "name": "On Call Schedule Planner",
+  "category": "Productivity & time",
+  "logo_bytes": 14410,
+  "feature_bytes": 32475
+ },
+ {
+  "slug": "travel-time-planner",
+  "name": "Travel Time Planner",
+  "category": "Productivity & time",
+  "logo_bytes": 7037,
+  "feature_bytes": 18525
+ },
+ {
+  "slug": "appointment-reminder-sheet",
+  "name": "Appointment Reminder Sheet",
+  "category": "Productivity & time",
+  "logo_bytes": 12338,
+  "feature_bytes": 29460
+ },
+ {
+  "slug": "waiting-time-calculator",
+  "name": "Waiting Time Calculator",
+  "category": "Productivity & time",
+  "logo_bytes": 11149,
+  "feature_bytes": 27758
+ },
+ {
+  "slug": "timezone-meeting-finder",
+  "name": "Timezone Meeting Finder",
+  "category": "Productivity & time",
+  "logo_bytes": 9283,
+  "feature_bytes": 23002
+ },
+ {
+  "slug": "daylight-hours-planner",
+  "name": "Daylight Hours Planner",
+  "category": "Productivity & time",
+  "logo_bytes": 9612,
+  "feature_bytes": 25094
+ },
+ {
+  "slug": "countdown-timer-event",
+  "name": "Countdown Timer Event",
+  "category": "Productivity & time",
+  "logo_bytes": 10522,
+  "feature_bytes": 25025
+ },
+ {
+  "slug": "stopwatch-lap-tracker",
+  "name": "Stopwatch Lap Tracker",
+  "category": "Productivity & time",
+  "logo_bytes": 11151,
+  "feature_bytes": 27478
+ },
+ {
   "slug": "word-counter-pro",
   "name": "Word Counter Pro",
   "category": "Writing & documents",
   "logo_bytes": 15810,
   "feature_bytes": 29981
+ },
+ {
+  "slug": "character-counter",
+  "name": "Character Counter",
+  "category": "Writing & documents",
+  "logo_bytes": 11898,
+  "feature_bytes": 26533
+ },
+ {
+  "slug": "reading-time-calculator",
+  "name": "Reading Time Calculator",
+  "category": "Writing & documents",
+  "logo_bytes": 10610,
+  "feature_bytes": 26900
+ },
+ {
+  "slug": "readability-score-checker",
+  "name": "Readability Score Checker",
+  "category": "Writing & documents",
+  "logo_bytes": 14918,
+  "feature_bytes": 33376
+ },
+ {
+  "slug": "grammar-checklist-self",
+  "name": "Grammar Checklist Self",
+  "category": "Writing & documents",
+  "logo_bytes": 14053,
+  "feature_bytes": 29925
+ },
+ {
+  "slug": "spell-check-wordlist",
+  "name": "Spell Check Wordlist",
+  "category": "Writing & documents",
+  "logo_bytes": 15606,
+  "feature_bytes": 33396
+ },
+ {
+  "slug": "essay-outline-builder",
+  "name": "Essay Outline Builder",
+  "category": "Writing & documents",
+  "logo_bytes": 12857,
+  "feature_bytes": 28286
+ },
+ {
+  "slug": "cover-letter-builder",
+  "name": "Cover Letter Builder",
+  "category": "Writing & documents",
+  "logo_bytes": 11675,
+  "feature_bytes": 25321
+ },
+ {
+  "slug": "thank-you-letter-maker",
+  "name": "Thank You Letter Maker",
+  "category": "Writing & documents",
+  "logo_bytes": 10605,
+  "feature_bytes": 24424
+ },
+ {
+  "slug": "apology-letter-maker",
+  "name": "Apology Letter Maker",
+  "category": "Writing & documents",
+  "logo_bytes": 11098,
+  "feature_bytes": 27362
+ },
+ {
+  "slug": "resignation-letter-template",
+  "name": "Resignation Letter Template",
+  "category": "Writing & documents",
+  "logo_bytes": 10602,
+  "feature_bytes": 26856
+ },
+ {
+  "slug": "reference-letter-template",
+  "name": "Reference Letter Template",
+  "category": "Writing & documents",
+  "logo_bytes": 10602,
+  "feature_bytes": 23803
+ },
+ {
+  "slug": "permission-slip-maker",
+  "name": "Permission Slip Maker",
+  "category": "Writing & documents",
+  "logo_bytes": 13797,
+  "feature_bytes": 30791
+ },
+ {
+  "slug": "meeting-minutes-template",
+  "name": "Meeting Minutes Template",
+  "category": "Writing & documents",
+  "logo_bytes": 10577,
+  "feature_bytes": 26531
+ },
+ {
+  "slug": "report-outline-builder",
+  "name": "Report Outline Builder",
+  "category": "Writing & documents",
+  "logo_bytes": 15137,
+  "feature_bytes": 30536
+ },
+ {
+  "slug": "research-notes-organizer",
+  "name": "Research Notes Organizer",
+  "category": "Writing & documents",
+  "logo_bytes": 12251,
+  "feature_bytes": 30963
+ },
+ {
+  "slug": "citation-formatter-apa",
+  "name": "Citation Formatter APA",
+  "category": "Writing & documents",
+  "logo_bytes": 11704,
+  "feature_bytes": 26960
+ },
+ {
+  "slug": "citation-formatter-mla",
+  "name": "Citation Formatter MLA",
+  "category": "Writing & documents",
+  "logo_bytes": 11704,
+  "feature_bytes": 27208
+ },
+ {
+  "slug": "bibliography-builder",
+  "name": "Bibliography Builder",
+  "category": "Writing & documents",
+  "logo_bytes": 10698,
+  "feature_bytes": 25904
+ },
+ {
+  "slug": "plagiarism-self-check-guide",
+  "name": "Plagiarism Self Check Guide",
+  "category": "Writing & documents",
+  "logo_bytes": 13797,
+  "feature_bytes": 33505
+ },
+ {
+  "slug": "paraphrase-helper",
+  "name": "Paraphrase Helper",
+  "category": "Writing & documents",
+  "logo_bytes": 9621,
+  "feature_bytes": 21917
+ },
+ {
+  "slug": "sentence-rewriter-checklist",
+  "name": "Sentence Rewriter Checklist",
+  "category": "Writing & documents",
+  "logo_bytes": 14891,
+  "feature_bytes": 33421
+ },
+ {
+  "slug": "headline-generator",
+  "name": "Headline Generator",
+  "category": "Writing & documents",
+  "logo_bytes": 11716,
+  "feature_bytes": 25311
+ },
+ {
+  "slug": "blog-post-outline-builder",
+  "name": "Blog Post Outline Builder",
+  "category": "Writing & documents",
+  "logo_bytes": 11926,
+  "feature_bytes": 27973
+ },
+ {
+  "slug": "story-plot-planner",
+  "name": "Story Plot Planner",
+  "category": "Writing & documents",
+  "logo_bytes": 13787,
+  "feature_bytes": 27650
+ },
+ {
+  "slug": "character-profile-builder",
+  "name": "Character Profile Builder",
+  "category": "Writing & documents",
+  "logo_bytes": 13112,
+  "feature_bytes": 29026
+ },
+ {
+  "slug": "poem-structure-helper",
+  "name": "Poem Structure Helper",
+  "category": "Writing & documents",
+  "logo_bytes": 13797,
+  "feature_bytes": 28561
+ },
+ {
+  "slug": "speech-outline-builder",
+  "name": "Speech Outline Builder",
+  "category": "Writing & documents",
+  "logo_bytes": 16688,
+  "feature_bytes": 32908
+ },
+ {
+  "slug": "wedding-speech-helper",
+  "name": "Wedding Speech Helper",
+  "category": "Writing & documents",
+  "logo_bytes": 16644,
+  "feature_bytes": 32059
+ },
+ {
+  "slug": "eulogy-outline-builder",
+  "name": "Eulogy Outline Builder",
+  "category": "Writing & documents",
+  "logo_bytes": 12857,
+  "feature_bytes": 28726
+ },
+ {
+  "slug": "wedding-vows-writer",
+  "name": "Wedding Vows Writer",
+  "category": "Writing & documents",
+  "logo_bytes": 15119,
+  "feature_bytes": 33248
+ },
+ {
+  "slug": "birthday-card-message-maker",
+  "name": "Birthday Card Message Maker",
+  "category": "Writing & documents",
+  "logo_bytes": 13930,
+  "feature_bytes": 32052
+ },
+ {
+  "slug": "condolence-message-helper",
+  "name": "Condolence Message Helper",
+  "category": "Writing & documents",
+  "logo_bytes": 13758,
+  "feature_bytes": 30602
+ },
+ {
+  "slug": "invitation-wording-helper",
+  "name": "Invitation Wording Helper",
+  "category": "Writing & documents",
+  "logo_bytes": 12157,
+  "feature_bytes": 30183
+ },
+ {
+  "slug": "newsletter-outline-builder",
+  "name": "Newsletter Outline Builder",
+  "category": "Writing & documents",
+  "logo_bytes": 14385,
+  "feature_bytes": 29899
+ },
+ {
+  "slug": "press-release-template",
+  "name": "Press Release Template",
+  "category": "Writing & documents",
+  "logo_bytes": 11985,
+  "feature_bytes": 26213
+ },
+ {
+  "slug": "memo-template",
+  "name": "Memo Template",
+  "category": "Writing & documents",
+  "logo_bytes": 10326,
+  "feature_bytes": 21017
+ },
+ {
+  "slug": "business-letter-template",
+  "name": "Business Letter Template",
+  "category": "Writing & documents",
+  "logo_bytes": 10472,
+  "feature_bytes": 24116
+ },
+ {
+  "slug": "formal-email-drafter",
+  "name": "Formal Email Drafter",
+  "category": "Writing & documents",
+  "logo_bytes": 8159,
+  "feature_bytes": 19632
+ },
+ {
+  "slug": "complaint-letter-template",
+  "name": "Complaint Letter Template",
+  "category": "Writing & documents",
+  "logo_bytes": 11675,
+  "feature_bytes": 26933
+ },
+ {
+  "slug": "dispute-letter-template",
+  "name": "Dispute Letter Template",
+  "category": "Writing & documents",
+  "logo_bytes": 10659,
+  "feature_bytes": 24713
+ },
+ {
+  "slug": "refund-request-letter",
+  "name": "Refund Request Letter",
+  "category": "Writing & documents",
+  "logo_bytes": 10806,
+  "feature_bytes": 22971
+ },
+ {
+  "slug": "rental-application-letter",
+  "name": "Rental Application Letter",
+  "category": "Writing & documents",
+  "logo_bytes": 13500,
+  "feature_bytes": 29871
+ },
+ {
+  "slug": "landlord-notice-letter",
+  "name": "Landlord Notice Letter",
+  "category": "Writing & documents",
+  "logo_bytes": 9817,
+  "feature_bytes": 23070
+ },
+ {
+  "slug": "job-offer-acceptance-letter",
+  "name": "Job Offer Acceptance Letter",
+  "category": "Writing & documents",
+  "logo_bytes": 13544,
+  "feature_bytes": 31911
+ },
+ {
+  "slug": "salary-negotiation-letter",
+  "name": "Salary Negotiation Letter",
+  "category": "Writing & documents",
+  "logo_bytes": 14080,
+  "feature_bytes": 30753
+ },
+ {
+  "slug": "book-summary-builder",
+  "name": "Book Summary Builder",
+  "category": "Writing & documents",
+  "logo_bytes": 14733,
+  "feature_bytes": 31202
+ },
+ {
+  "slug": "lesson-plan-builder",
+  "name": "Lesson Plan Builder",
+  "category": "Writing & documents",
+  "logo_bytes": 9599,
+  "feature_bytes": 23127
+ },
+ {
+  "slug": "worksheet-maker-teachers",
+  "name": "Worksheet Maker Teachers",
+  "category": "Writing & documents",
+  "logo_bytes": 14191,
+  "feature_bytes": 31690
+ },
+ {
+  "slug": "quiz-maker-simple",
+  "name": "Quiz Maker Simple",
+  "category": "Writing & documents",
+  "logo_bytes": 15380,
+  "feature_bytes": 30304
  },
  {
   "slug": "image-resizer-pro",
@@ -49,11 +2107,697 @@
   "feature_bytes": 22131
  },
  {
+  "slug": "image-compressor-offline",
+  "name": "Image Compressor Offline",
+  "category": "Images & design",
+  "logo_bytes": 10644,
+  "feature_bytes": 28400
+ },
+ {
+  "slug": "image-cropper-tool",
+  "name": "Image Cropper Tool",
+  "category": "Images & design",
+  "logo_bytes": 10644,
+  "feature_bytes": 23619
+ },
+ {
+  "slug": "image-format-converter",
+  "name": "Image Format Converter",
+  "category": "Images & design",
+  "logo_bytes": 7245,
+  "feature_bytes": 21283
+ },
+ {
+  "slug": "photo-filter-studio",
+  "name": "Photo Filter Studio",
+  "category": "Images & design",
+  "logo_bytes": 8700,
+  "feature_bytes": 20275
+ },
+ {
+  "slug": "color-picker-tool",
+  "name": "Color Picker Tool",
+  "category": "Images & design",
+  "logo_bytes": 12032,
+  "feature_bytes": 23597
+ },
+ {
+  "slug": "palette-generator",
+  "name": "Palette Generator",
+  "category": "Images & design",
+  "logo_bytes": 12058,
+  "feature_bytes": 24386
+ },
+ {
+  "slug": "gradient-generator",
+  "name": "Gradient Generator",
+  "category": "Images & design",
+  "logo_bytes": 10710,
+  "feature_bytes": 24663
+ },
+ {
+  "slug": "contrast-checker-accessibility",
+  "name": "Contrast Checker Accessibility",
+  "category": "Images & design",
+  "logo_bytes": 10794,
+  "feature_bytes": 31012
+ },
+ {
+  "slug": "color-blind-simulator",
+  "name": "Color Blind Simulator",
+  "category": "Images & design",
+  "logo_bytes": 12790,
+  "feature_bytes": 27130
+ },
+ {
+  "slug": "font-pairing-finder",
+  "name": "Font Pairing Finder",
+  "category": "Images & design",
+  "logo_bytes": 8702,
+  "feature_bytes": 20049
+ },
+ {
+  "slug": "logo-grid-builder",
+  "name": "Logo Grid Builder",
+  "category": "Images & design",
+  "logo_bytes": 10672,
+  "feature_bytes": 23242
+ },
+ {
+  "slug": "business-card-designer",
+  "name": "Business Card Designer",
+  "category": "Images & design",
+  "logo_bytes": 12794,
+  "feature_bytes": 29344
+ },
+ {
+  "slug": "flyer-maker-simple",
+  "name": "Flyer Maker Simple",
+  "category": "Images & design",
+  "logo_bytes": 9425,
+  "feature_bytes": 22058
+ },
+ {
+  "slug": "poster-maker-simple",
+  "name": "Poster Maker Simple",
+  "category": "Images & design",
+  "logo_bytes": 10817,
+  "feature_bytes": 25048
+ },
+ {
+  "slug": "social-post-designer",
+  "name": "Social Post Designer",
+  "category": "Images & design",
+  "logo_bytes": 12732,
+  "feature_bytes": 28588
+ },
+ {
+  "slug": "instagram-grid-planner",
+  "name": "Instagram Grid Planner",
+  "category": "Images & design",
+  "logo_bytes": 10652,
+  "feature_bytes": 25186
+ },
+ {
+  "slug": "thumbnail-maker-youtube",
+  "name": "Thumbnail Maker YouTube",
+  "category": "Images & design",
+  "logo_bytes": 9411,
+  "feature_bytes": 23724
+ },
+ {
+  "slug": "banner-maker-simple",
+  "name": "Banner Maker Simple",
+  "category": "Images & design",
+  "logo_bytes": 11570,
+  "feature_bytes": 24558
+ },
+ {
+  "slug": "meme-maker-simple",
+  "name": "Meme Maker Simple",
+  "category": "Images & design",
+  "logo_bytes": 9679,
+  "feature_bytes": 21252
+ },
+ {
+  "slug": "certificate-maker",
+  "name": "Certificate Maker",
+  "category": "Images & design",
+  "logo_bytes": 12749,
+  "feature_bytes": 24925
+ },
+ {
+  "slug": "badge-maker",
+  "name": "Badge Maker",
+  "category": "Images & design",
+  "logo_bytes": 11570,
+  "feature_bytes": 22167
+ },
+ {
+  "slug": "sticker-maker-printable",
+  "name": "Sticker Maker Printable",
+  "category": "Images & design",
+  "logo_bytes": 13420,
+  "feature_bytes": 27701
+ },
+ {
+  "slug": "label-maker-printable",
+  "name": "Label Maker Printable",
+  "category": "Images & design",
+  "logo_bytes": 9385,
+  "feature_bytes": 22174
+ },
+ {
+  "slug": "seating-chart-designer",
+  "name": "Seating Chart Designer",
+  "category": "Images & design",
+  "logo_bytes": 14362,
+  "feature_bytes": 31582
+ },
+ {
+  "slug": "floor-plan-sketch-simple",
+  "name": "Floor Plan Sketch Simple",
+  "category": "Images & design",
+  "logo_bytes": 8702,
+  "feature_bytes": 22161
+ },
+ {
+  "slug": "room-layout-planner",
+  "name": "Room Layout Planner",
+  "category": "Images & design",
+  "logo_bytes": 9652,
+  "feature_bytes": 22454
+ },
+ {
+  "slug": "mood-board-builder",
+  "name": "Mood Board Builder",
+  "category": "Images & design",
+  "logo_bytes": 11596,
+  "feature_bytes": 23773
+ },
+ {
+  "slug": "favicon-generator",
+  "name": "Favicon Generator",
+  "category": "Images & design",
+  "logo_bytes": 10699,
+  "feature_bytes": 24067
+ },
+ {
+  "slug": "icon-set-preview",
+  "name": "Icon Set Preview",
+  "category": "Images & design",
+  "logo_bytes": 11301,
+  "feature_bytes": 24543
+ },
+ {
+  "slug": "svg-shape-generator",
+  "name": "SVG Shape Generator",
+  "category": "Images & design",
+  "logo_bytes": 11407,
+  "feature_bytes": 28049
+ },
+ {
+  "slug": "pattern-generator",
+  "name": "Pattern Generator",
+  "category": "Images & design",
+  "logo_bytes": 12058,
+  "feature_bytes": 24906
+ },
+ {
+  "slug": "texture-maker",
+  "name": "Texture Maker",
+  "category": "Images & design",
+  "logo_bytes": 9411,
+  "feature_bytes": 18807
+ },
+ {
+  "slug": "photo-collage-maker",
+  "name": "Photo Collage Maker",
+  "category": "Images & design",
+  "logo_bytes": 12045,
+  "feature_bytes": 27123
+ },
+ {
+  "slug": "before-after-slider-maker",
+  "name": "Before After Slider Maker",
+  "category": "Images & design",
+  "logo_bytes": 12454,
+  "feature_bytes": 27959
+ },
+ {
+  "slug": "image-watermark-tool",
+  "name": "Image Watermark Tool",
+  "category": "Images & design",
+  "logo_bytes": 11299,
+  "feature_bytes": 27499
+ },
+ {
+  "slug": "exif-viewer-tool",
+  "name": "EXIF Viewer Tool",
+  "category": "Images & design",
+  "logo_bytes": 10405,
+  "feature_bytes": 21349
+ },
+ {
+  "slug": "photo-metadata-stripper",
+  "name": "Photo Metadata Stripper",
+  "category": "Images & design",
+  "logo_bytes": 10817,
+  "feature_bytes": 24582
+ },
+ {
+  "slug": "image-splitter-grid",
+  "name": "Image Splitter Grid",
+  "category": "Images & design",
+  "logo_bytes": 11301,
+  "feature_bytes": 24919
+ },
+ {
+  "slug": "sprite-sheet-splitter",
+  "name": "Sprite Sheet Splitter",
+  "category": "Images & design",
+  "logo_bytes": 11407,
+  "feature_bytes": 24305
+ },
+ {
+  "slug": "pixel-art-editor",
+  "name": "Pixel Art Editor",
+  "category": "Images & design",
+  "logo_bytes": 11605,
+  "feature_bytes": 22470
+ },
+ {
+  "slug": "color-palette-from-photo",
+  "name": "Color Palette From Photo",
+  "category": "Images & design",
+  "logo_bytes": 12032,
+  "feature_bytes": 25664
+ },
+ {
+  "slug": "image-to-ascii-converter",
+  "name": "Image to ASCII Converter",
+  "category": "Images & design",
+  "logo_bytes": 7241,
+  "feature_bytes": 24363
+ },
+ {
+  "slug": "photo-frame-maker",
+  "name": "Photo Frame Maker",
+  "category": "Images & design",
+  "logo_bytes": 8700,
+  "feature_bytes": 21414
+ },
+ {
+  "slug": "calendar-photo-maker",
+  "name": "Calendar Photo Maker",
+  "category": "Images & design",
+  "logo_bytes": 12032,
+  "feature_bytes": 27079
+ },
+ {
+  "slug": "greeting-card-designer",
+  "name": "Greeting Card Designer",
+  "category": "Images & design",
+  "logo_bytes": 12920,
+  "feature_bytes": 29710
+ },
+ {
+  "slug": "wedding-invitation-designer",
+  "name": "Wedding Invitation Designer",
+  "category": "Images & design",
+  "logo_bytes": 11298,
+  "feature_bytes": 30612
+ },
+ {
+  "slug": "menu-designer-restaurant",
+  "name": "Menu Designer Restaurant",
+  "category": "Images & design",
+  "logo_bytes": 11769,
+  "feature_bytes": 26850
+ },
+ {
+  "slug": "price-list-designer",
+  "name": "Price List Designer",
+  "category": "Images & design",
+  "logo_bytes": 8683,
+  "feature_bytes": 21420
+ },
+ {
+  "slug": "infographic-outline-builder",
+  "name": "Infographic Outline Builder",
+  "category": "Images & design",
+  "logo_bytes": 11695,
+  "feature_bytes": 27944
+ },
+ {
   "slug": "audio-trimmer-offline",
   "name": "Audio Trimmer Offline",
   "category": "Audio & video",
   "logo_bytes": 9142,
   "feature_bytes": 22486
+ },
+ {
+  "slug": "audio-merger-simple",
+  "name": "Audio Merger Simple",
+  "category": "Audio & video",
+  "logo_bytes": 10951,
+  "feature_bytes": 26146
+ },
+ {
+  "slug": "voice-recorder-browser",
+  "name": "Voice Recorder Browser",
+  "category": "Audio & video",
+  "logo_bytes": 11469,
+  "feature_bytes": 28326
+ },
+ {
+  "slug": "metronome-tool",
+  "name": "Metronome Tool",
+  "category": "Audio & video",
+  "logo_bytes": 8370,
+  "feature_bytes": 18440
+ },
+ {
+  "slug": "guitar-tuner-tool",
+  "name": "Guitar Tuner Tool",
+  "category": "Audio & video",
+  "logo_bytes": 9685,
+  "feature_bytes": 19860
+ },
+ {
+  "slug": "piano-keyboard-tool",
+  "name": "Piano Keyboard Tool",
+  "category": "Audio & video",
+  "logo_bytes": 9915,
+  "feature_bytes": 23962
+ },
+ {
+  "slug": "drum-pad-tool",
+  "name": "Drum Pad Tool",
+  "category": "Audio & video",
+  "logo_bytes": 10020,
+  "feature_bytes": 20225
+ },
+ {
+  "slug": "audio-volume-normalizer-guide",
+  "name": "Audio Volume Normalizer Guide",
+  "category": "Audio & video",
+  "logo_bytes": 11692,
+  "feature_bytes": 32184
+ },
+ {
+  "slug": "podcast-episode-planner",
+  "name": "Podcast Episode Planner",
+  "category": "Audio & video",
+  "logo_bytes": 7727,
+  "feature_bytes": 25150
+ },
+ {
+  "slug": "podcast-script-builder",
+  "name": "Podcast Script Builder",
+  "category": "Audio & video",
+  "logo_bytes": 11600,
+  "feature_bytes": 28192
+ },
+ {
+  "slug": "video-trim-planner",
+  "name": "Video Trim Planner",
+  "category": "Audio & video",
+  "logo_bytes": 9266,
+  "feature_bytes": 22491
+ },
+ {
+  "slug": "video-storyboard-builder",
+  "name": "Video Storyboard Builder",
+  "category": "Audio & video",
+  "logo_bytes": 13214,
+  "feature_bytes": 33026
+ },
+ {
+  "slug": "video-script-builder",
+  "name": "Video Script Builder",
+  "category": "Audio & video",
+  "logo_bytes": 13214,
+  "feature_bytes": 29799
+ },
+ {
+  "slug": "teleprompter-tool",
+  "name": "Teleprompter Tool",
+  "category": "Audio & video",
+  "logo_bytes": 6246,
+  "feature_bytes": 15665
+ },
+ {
+  "slug": "subtitle-timer-planner",
+  "name": "Subtitle Timer Planner",
+  "category": "Audio & video",
+  "logo_bytes": 10277,
+  "feature_bytes": 23325
+ },
+ {
+  "slug": "video-length-calculator",
+  "name": "Video Length Calculator",
+  "category": "Audio & video",
+  "logo_bytes": 9251,
+  "feature_bytes": 25399
+ },
+ {
+  "slug": "aspect-ratio-calculator",
+  "name": "Aspect Ratio Calculator",
+  "category": "Audio & video",
+  "logo_bytes": 11315,
+  "feature_bytes": 28807
+ },
+ {
+  "slug": "video-file-size-estimator",
+  "name": "Video File Size Estimator",
+  "category": "Audio & video",
+  "logo_bytes": 9301,
+  "feature_bytes": 24768
+ },
+ {
+  "slug": "screen-recording-planner",
+  "name": "Screen Recording Planner",
+  "category": "Audio & video",
+  "logo_bytes": 12562,
+  "feature_bytes": 30864
+ },
+ {
+  "slug": "webinar-run-sheet",
+  "name": "Webinar Run Sheet",
+  "category": "Audio & video",
+  "logo_bytes": 12555,
+  "feature_bytes": 26131
+ },
+ {
+  "slug": "live-stream-checklist",
+  "name": "Live Stream Checklist",
+  "category": "Audio & video",
+  "logo_bytes": 10251,
+  "feature_bytes": 25720
+ },
+ {
+  "slug": "ringtone-maker-simple",
+  "name": "Ringtone Maker Simple",
+  "category": "Audio & video",
+  "logo_bytes": 10607,
+  "feature_bytes": 26213
+ },
+ {
+  "slug": "alarm-sound-picker",
+  "name": "Alarm Sound Picker",
+  "category": "Audio & video",
+  "logo_bytes": 13069,
+  "feature_bytes": 28787
+ },
+ {
+  "slug": "white-noise-generator",
+  "name": "White Noise Generator",
+  "category": "Audio & video",
+  "logo_bytes": 11752,
+  "feature_bytes": 27137
+ },
+ {
+  "slug": "rain-sound-generator",
+  "name": "Rain Sound Generator",
+  "category": "Audio & video",
+  "logo_bytes": 12578,
+  "feature_bytes": 28542
+ },
+ {
+  "slug": "focus-sound-mixer",
+  "name": "Focus Sound Mixer",
+  "category": "Audio & video",
+  "logo_bytes": 10276,
+  "feature_bytes": 24314
+ },
+ {
+  "slug": "sleep-sound-mixer",
+  "name": "Sleep Sound Mixer",
+  "category": "Audio & video",
+  "logo_bytes": 10362,
+  "feature_bytes": 24506
+ },
+ {
+  "slug": "baby-sleep-sound-timer",
+  "name": "Baby Sleep Sound Timer",
+  "category": "Audio & video",
+  "logo_bytes": 12456,
+  "feature_bytes": 29696
+ },
+ {
+  "slug": "audio-note-organizer",
+  "name": "Audio Note Organizer",
+  "category": "Audio & video",
+  "logo_bytes": 10571,
+  "feature_bytes": 26438
+ },
+ {
+  "slug": "interview-question-bank",
+  "name": "Interview Question Bank",
+  "category": "Audio & video",
+  "logo_bytes": 11155,
+  "feature_bytes": 28316
+ },
+ {
+  "slug": "voice-warmup-guide",
+  "name": "Voice Warmup Guide",
+  "category": "Audio & video",
+  "logo_bytes": 12932,
+  "feature_bytes": 29671
+ },
+ {
+  "slug": "singing-practice-log",
+  "name": "Singing Practice Log",
+  "category": "Audio & video",
+  "logo_bytes": 11599,
+  "feature_bytes": 26204
+ },
+ {
+  "slug": "instrument-practice-log",
+  "name": "Instrument Practice Log",
+  "category": "Audio & video",
+  "logo_bytes": 7672,
+  "feature_bytes": 21893
+ },
+ {
+  "slug": "song-structure-planner",
+  "name": "Song Structure Planner",
+  "category": "Audio & video",
+  "logo_bytes": 10362,
+  "feature_bytes": 25439
+ },
+ {
+  "slug": "lyrics-organizer",
+  "name": "Lyrics Organizer",
+  "category": "Audio & video",
+  "logo_bytes": 10684,
+  "feature_bytes": 24730
+ },
+ {
+  "slug": "chord-chart-builder",
+  "name": "Chord Chart Builder",
+  "category": "Audio & video",
+  "logo_bytes": 9796,
+  "feature_bytes": 22933
+ },
+ {
+  "slug": "setlist-builder",
+  "name": "Setlist Builder",
+  "category": "Audio & video",
+  "logo_bytes": 12463,
+  "feature_bytes": 23684
+ },
+ {
+  "slug": "dj-set-planner",
+  "name": "DJ Set Planner",
+  "category": "Audio & video",
+  "logo_bytes": 12525,
+  "feature_bytes": 23352
+ },
+ {
+  "slug": "wedding-playlist-builder",
+  "name": "Wedding Playlist Builder",
+  "category": "Audio & video",
+  "logo_bytes": 11660,
+  "feature_bytes": 28269
+ },
+ {
+  "slug": "workout-playlist-timer",
+  "name": "Workout Playlist Timer",
+  "category": "Audio & video",
+  "logo_bytes": 11660,
+  "feature_bytes": 26020
+ },
+ {
+  "slug": "meditation-sound-timer",
+  "name": "Meditation Sound Timer",
+  "category": "Audio & video",
+  "logo_bytes": 12261,
+  "feature_bytes": 28046
+ },
+ {
+  "slug": "breathing-sound-guide",
+  "name": "Breathing Sound Guide",
+  "category": "Audio & video",
+  "logo_bytes": 12456,
+  "feature_bytes": 28648
+ },
+ {
+  "slug": "audiobook-chapter-planner",
+  "name": "Audiobook Chapter Planner",
+  "category": "Audio & video",
+  "logo_bytes": 12357,
+  "feature_bytes": 30715
+ },
+ {
+  "slug": "narration-script-timer",
+  "name": "Narration Script Timer",
+  "category": "Audio & video",
+  "logo_bytes": 11850,
+  "feature_bytes": 25940
+ },
+ {
+  "slug": "voiceover-rate-calculator",
+  "name": "Voiceover Rate Calculator",
+  "category": "Audio & video",
+  "logo_bytes": 11469,
+  "feature_bytes": 28814
+ },
+ {
+  "slug": "video-caption-checklist",
+  "name": "Video Caption Checklist",
+  "category": "Audio & video",
+  "logo_bytes": 12519,
+  "feature_bytes": 30818
+ },
+ {
+  "slug": "thumbnail-a-b-planner",
+  "name": "Thumbnail A B Planner",
+  "category": "Audio & video",
+  "logo_bytes": 9137,
+  "feature_bytes": 22247
+ },
+ {
+  "slug": "upload-schedule-planner",
+  "name": "Upload Schedule Planner",
+  "category": "Audio & video",
+  "logo_bytes": 11656,
+  "feature_bytes": 29167
+ },
+ {
+  "slug": "channel-content-calendar",
+  "name": "Channel Content Calendar",
+  "category": "Audio & video",
+  "logo_bytes": 9796,
+  "feature_bytes": 26654
+ },
+ {
+  "slug": "video-idea-bank",
+  "name": "Video Idea Bank",
+  "category": "Audio & video",
+  "logo_bytes": 9230,
+  "feature_bytes": 22269
  },
  {
   "slug": "flashcard-deck-builder",
@@ -63,11 +2807,697 @@
   "feature_bytes": 24221
  },
  {
+  "slug": "quiz-builder-teachers",
+  "name": "Quiz Builder Teachers",
+  "category": "Education & learning",
+  "logo_bytes": 14143,
+  "feature_bytes": 29383
+ },
+ {
+  "slug": "multiplication-tables-trainer",
+  "name": "Multiplication Tables Trainer",
+  "category": "Education & learning",
+  "logo_bytes": 9195,
+  "feature_bytes": 24058
+ },
+ {
+  "slug": "spelling-practice-tool",
+  "name": "Spelling Practice Tool",
+  "category": "Education & learning",
+  "logo_bytes": 12530,
+  "feature_bytes": 27767
+ },
+ {
+  "slug": "vocabulary-builder",
+  "name": "Vocabulary Builder",
+  "category": "Education & learning",
+  "logo_bytes": 12233,
+  "feature_bytes": 27774
+ },
+ {
+  "slug": "grammar-practice-tool",
+  "name": "Grammar Practice Tool",
+  "category": "Education & learning",
+  "logo_bytes": 11861,
+  "feature_bytes": 25014
+ },
+ {
+  "slug": "math-practice-generator",
+  "name": "Math Practice Generator",
+  "category": "Education & learning",
+  "logo_bytes": 10577,
+  "feature_bytes": 25188
+ },
+ {
+  "slug": "fractions-trainer",
+  "name": "Fractions Trainer",
+  "category": "Education & learning",
+  "logo_bytes": 7148,
+  "feature_bytes": 18534
+ },
+ {
+  "slug": "algebra-helper-steps",
+  "name": "Algebra Helper Steps",
+  "category": "Education & learning",
+  "logo_bytes": 9979,
+  "feature_bytes": 24956
+ },
+ {
+  "slug": "geometry-formula-finder",
+  "name": "Geometry Formula Finder",
+  "category": "Education & learning",
+  "logo_bytes": 10541,
+  "feature_bytes": 26429
+ },
+ {
+  "slug": "chemistry-element-finder",
+  "name": "Chemistry Element Finder",
+  "category": "Education & learning",
+  "logo_bytes": 10539,
+  "feature_bytes": 25035
+ },
+ {
+  "slug": "periodic-table-quiz",
+  "name": "Periodic Table Quiz",
+  "category": "Education & learning",
+  "logo_bytes": 8571,
+  "feature_bytes": 21835
+ },
+ {
+  "slug": "biology-diagram-labeler",
+  "name": "Biology Diagram Labeler",
+  "category": "Education & learning",
+  "logo_bytes": 11658,
+  "feature_bytes": 28107
+ },
+ {
+  "slug": "history-timeline-builder",
+  "name": "History Timeline Builder",
+  "category": "Education & learning",
+  "logo_bytes": 7149,
+  "feature_bytes": 20522
+ },
+ {
+  "slug": "geography-quiz-tool",
+  "name": "Geography Quiz Tool",
+  "category": "Education & learning",
+  "logo_bytes": 14871,
+  "feature_bytes": 31720
+ },
+ {
+  "slug": "capital-cities-trainer",
+  "name": "Capital Cities Trainer",
+  "category": "Education & learning",
+  "logo_bytes": 10632,
+  "feature_bytes": 23654
+ },
+ {
+  "slug": "language-phrasebook-builder",
+  "name": "Language Phrasebook Builder",
+  "category": "Education & learning",
+  "logo_bytes": 8545,
+  "feature_bytes": 27032
+ },
+ {
+  "slug": "spanish-verb-trainer",
+  "name": "Spanish Verb Trainer",
+  "category": "Education & learning",
+  "logo_bytes": 14131,
+  "feature_bytes": 29762
+ },
+ {
+  "slug": "french-vocab-trainer",
+  "name": "French Vocab Trainer",
+  "category": "Education & learning",
+  "logo_bytes": 10133,
+  "feature_bytes": 24640
+ },
+ {
+  "slug": "sign-language-alphabet-guide",
+  "name": "Sign Language Alphabet Guide",
+  "category": "Education & learning",
+  "logo_bytes": 11151,
+  "feature_bytes": 28773
+ },
+ {
+  "slug": "typing-speed-test",
+  "name": "Typing Speed Test",
+  "category": "Education & learning",
+  "logo_bytes": 11164,
+  "feature_bytes": 25338
+ },
+ {
+  "slug": "typing-practice-tool",
+  "name": "Typing Practice Tool",
+  "category": "Education & learning",
+  "logo_bytes": 8572,
+  "feature_bytes": 21494
+ },
+ {
+  "slug": "piano-notes-trainer",
+  "name": "Piano Notes Trainer",
+  "category": "Education & learning",
+  "logo_bytes": 10176,
+  "feature_bytes": 23331
+ },
+ {
+  "slug": "music-theory-quiz",
+  "name": "Music Theory Quiz",
+  "category": "Education & learning",
+  "logo_bytes": 9195,
+  "feature_bytes": 22962
+ },
+ {
+  "slug": "coding-concept-flashcards",
+  "name": "Coding Concept Flashcards",
+  "category": "Education & learning",
+  "logo_bytes": 10632,
+  "feature_bytes": 27682
+ },
+ {
+  "slug": "science-experiment-log",
+  "name": "Science Experiment Log",
+  "category": "Education & learning",
+  "logo_bytes": 11191,
+  "feature_bytes": 26803
+ },
+ {
+  "slug": "lab-report-template",
+  "name": "Lab Report Template",
+  "category": "Education & learning",
+  "logo_bytes": 9461,
+  "feature_bytes": 23159
+ },
+ {
+  "slug": "study-planner-exam",
+  "name": "Study Planner Exam",
+  "category": "Education & learning",
+  "logo_bytes": 12530,
+  "feature_bytes": 27669
+ },
+ {
+  "slug": "revision-timetable-builder",
+  "name": "Revision Timetable Builder",
+  "category": "Education & learning",
+  "logo_bytes": 9477,
+  "feature_bytes": 26316
+ },
+ {
+  "slug": "homework-tracker-kids",
+  "name": "Homework Tracker Kids",
+  "category": "Education & learning",
+  "logo_bytes": 7149,
+  "feature_bytes": 22329
+ },
+ {
+  "slug": "school-supply-checklist",
+  "name": "School Supply Checklist",
+  "category": "Education & learning",
+  "logo_bytes": 11243,
+  "feature_bytes": 27620
+ },
+ {
+  "slug": "college-application-tracker",
+  "name": "College Application Tracker",
+  "category": "Education & learning",
+  "logo_bytes": 13234,
+  "feature_bytes": 32336
+ },
+ {
+  "slug": "scholarship-search-checklist",
+  "name": "Scholarship Search Checklist",
+  "category": "Education & learning",
+  "logo_bytes": 11243,
+  "feature_bytes": 33154
+ },
+ {
+  "slug": "student-budget-planner",
+  "name": "Student Budget Planner",
+  "category": "Education & learning",
+  "logo_bytes": 13442,
+  "feature_bytes": 28089
+ },
+ {
+  "slug": "student-loan-payoff-planner",
+  "name": "Student Loan Payoff Planner",
+  "category": "Education & learning",
+  "logo_bytes": 11151,
+  "feature_bytes": 28158
+ },
+ {
+  "slug": "exam-grade-calculator",
+  "name": "Exam Grade Calculator",
+  "category": "Education & learning",
+  "logo_bytes": 10572,
+  "feature_bytes": 26193
+ },
+ {
+  "slug": "gpa-calculator",
+  "name": "GPA Calculator",
+  "category": "Education & learning",
+  "logo_bytes": 12712,
+  "feature_bytes": 25077
+ },
+ {
+  "slug": "final-grade-calculator",
+  "name": "Final Grade Calculator",
+  "category": "Education & learning",
+  "logo_bytes": 10547,
+  "feature_bytes": 24838
+ },
+ {
+  "slug": "class-schedule-builder",
+  "name": "Class Schedule Builder",
+  "category": "Education & learning",
+  "logo_bytes": 14156,
+  "feature_bytes": 31333
+ },
+ {
+  "slug": "teacher-attendance-sheet",
+  "name": "Teacher Attendance Sheet",
+  "category": "Education & learning",
+  "logo_bytes": 9940,
+  "feature_bytes": 26742
+ },
+ {
+  "slug": "gradebook-simple",
+  "name": "Gradebook Simple",
+  "category": "Education & learning",
+  "logo_bytes": 14069,
+  "feature_bytes": 30334
+ },
+ {
+  "slug": "seating-plan-classroom",
+  "name": "Seating Plan Classroom",
+  "category": "Education & learning",
+  "logo_bytes": 12530,
+  "feature_bytes": 29059
+ },
+ {
+  "slug": "parent-teacher-notes",
+  "name": "Parent Teacher Notes",
+  "category": "Education & learning",
+  "logo_bytes": 8571,
+  "feature_bytes": 21399
+ },
+ {
+  "slug": "reading-log-kids",
+  "name": "Reading Log Kids",
+  "category": "Education & learning",
+  "logo_bytes": 9466,
+  "feature_bytes": 22975
+ },
+ {
+  "slug": "phonics-practice-tool",
+  "name": "Phonics Practice Tool",
+  "category": "Education & learning",
+  "logo_bytes": 8668,
+  "feature_bytes": 21834
+ },
+ {
+  "slug": "handwriting-practice-sheet",
+  "name": "Handwriting Practice Sheet",
+  "category": "Education & learning",
+  "logo_bytes": 8568,
+  "feature_bytes": 23817
+ },
+ {
+  "slug": "drawing-practice-kids",
+  "name": "Drawing Practice Kids",
+  "category": "Education & learning",
+  "logo_bytes": 10883,
+  "feature_bytes": 26792
+ },
+ {
+  "slug": "color-mixing-guide-kids",
+  "name": "Color Mixing Guide Kids",
+  "category": "Education & learning",
+  "logo_bytes": 12445,
+  "feature_bytes": 28278
+ },
+ {
+  "slug": "shapes-trainer-kids",
+  "name": "Shapes Trainer Kids",
+  "category": "Education & learning",
+  "logo_bytes": 11165,
+  "feature_bytes": 24995
+ },
+ {
+  "slug": "counting-trainer-kids",
+  "name": "Counting Trainer Kids",
+  "category": "Education & learning",
+  "logo_bytes": 10510,
+  "feature_bytes": 25212
+ },
+ {
   "slug": "cleaning-schedule-builder",
   "name": "Cleaning Schedule Builder",
   "category": "Home & household",
   "logo_bytes": 13862,
   "feature_bytes": 32644
+ },
+ {
+  "slug": "deep-clean-checklist",
+  "name": "Deep Clean Checklist",
+  "category": "Home & household",
+  "logo_bytes": 12463,
+  "feature_bytes": 27767
+ },
+ {
+  "slug": "laundry-sort-guide",
+  "name": "Laundry Sort Guide",
+  "category": "Home & household",
+  "logo_bytes": 10834,
+  "feature_bytes": 25509
+ },
+ {
+  "slug": "stain-removal-finder",
+  "name": "Stain Removal Finder",
+  "category": "Home & household",
+  "logo_bytes": 13219,
+  "feature_bytes": 27775
+ },
+ {
+  "slug": "declutter-plan-30-day",
+  "name": "Declutter Plan 30 Day",
+  "category": "Home & household",
+  "logo_bytes": 10617,
+  "feature_bytes": 25641
+ },
+ {
+  "slug": "storage-inventory-tracker",
+  "name": "Storage Inventory Tracker",
+  "category": "Home & household",
+  "logo_bytes": 10821,
+  "feature_bytes": 29912
+ },
+ {
+  "slug": "pantry-inventory-tracker",
+  "name": "Pantry Inventory Tracker",
+  "category": "Home & household",
+  "logo_bytes": 8221,
+  "feature_bytes": 24025
+ },
+ {
+  "slug": "fridge-expiry-tracker",
+  "name": "Fridge Expiry Tracker",
+  "category": "Home & household",
+  "logo_bytes": 6797,
+  "feature_bytes": 20454
+ },
+ {
+  "slug": "freezer-inventory-tracker",
+  "name": "Freezer Inventory Tracker",
+  "category": "Home & household",
+  "logo_bytes": 6776,
+  "feature_bytes": 20792
+ },
+ {
+  "slug": "grocery-list-builder",
+  "name": "Grocery List Builder",
+  "category": "Home & household",
+  "logo_bytes": 10227,
+  "feature_bytes": 24739
+ },
+ {
+  "slug": "meal-plan-weekly",
+  "name": "Meal Plan Weekly",
+  "category": "Home & household",
+  "logo_bytes": 10361,
+  "feature_bytes": 22297
+ },
+ {
+  "slug": "leftovers-tracker",
+  "name": "Leftovers Tracker",
+  "category": "Home & household",
+  "logo_bytes": 6794,
+  "feature_bytes": 18744
+ },
+ {
+  "slug": "home-maintenance-schedule",
+  "name": "Home Maintenance Schedule",
+  "category": "Home & household",
+  "logo_bytes": 8995,
+  "feature_bytes": 24679
+ },
+ {
+  "slug": "appliance-manual-organizer",
+  "name": "Appliance Manual Organizer",
+  "category": "Home & household",
+  "logo_bytes": 11777,
+  "feature_bytes": 29338
+ },
+ {
+  "slug": "appliance-lifespan-tracker",
+  "name": "Appliance Lifespan Tracker",
+  "category": "Home & household",
+  "logo_bytes": 9782,
+  "feature_bytes": 27373
+ },
+ {
+  "slug": "energy-bill-tracker",
+  "name": "Energy Bill Tracker",
+  "category": "Home & household",
+  "logo_bytes": 9119,
+  "feature_bytes": 21745
+ },
+ {
+  "slug": "electricity-usage-calculator",
+  "name": "Electricity Usage Calculator",
+  "category": "Home & household",
+  "logo_bytes": 8572,
+  "feature_bytes": 25819
+ },
+ {
+  "slug": "water-usage-calculator",
+  "name": "Water Usage Calculator",
+  "category": "Home & household",
+  "logo_bytes": 12390,
+  "feature_bytes": 28430
+ },
+ {
+  "slug": "heating-cost-estimator",
+  "name": "Heating Cost Estimator",
+  "category": "Home & household",
+  "logo_bytes": 10250,
+  "feature_bytes": 25826
+ },
+ {
+  "slug": "home-insurance-inventory",
+  "name": "Home Insurance Inventory",
+  "category": "Home & household",
+  "logo_bytes": 6773,
+  "feature_bytes": 22821
+ },
+ {
+  "slug": "emergency-kit-checklist",
+  "name": "Emergency Kit Checklist",
+  "category": "Home & household",
+  "logo_bytes": 9270,
+  "feature_bytes": 25405
+ },
+ {
+  "slug": "fire-safety-checklist",
+  "name": "Fire Safety Checklist",
+  "category": "Home & household",
+  "logo_bytes": 10853,
+  "feature_bytes": 25758
+ },
+ {
+  "slug": "first-aid-kit-checklist",
+  "name": "First Aid Kit Checklist",
+  "category": "Home & household",
+  "logo_bytes": 9826,
+  "feature_bytes": 23839
+ },
+ {
+  "slug": "pet-feeding-schedule",
+  "name": "Pet Feeding Schedule",
+  "category": "Home & household",
+  "logo_bytes": 8256,
+  "feature_bytes": 21447
+ },
+ {
+  "slug": "pet-vaccination-tracker",
+  "name": "Pet Vaccination Tracker",
+  "category": "Home & household",
+  "logo_bytes": 11354,
+  "feature_bytes": 26290
+ },
+ {
+  "slug": "pet-medication-log",
+  "name": "Pet Medication Log",
+  "category": "Home & household",
+  "logo_bytes": 10354,
+  "feature_bytes": 23177
+ },
+ {
+  "slug": "plant-watering-schedule",
+  "name": "Plant Watering Schedule",
+  "category": "Home & household",
+  "logo_bytes": 12236,
+  "feature_bytes": 27950
+ },
+ {
+  "slug": "plant-care-guide-finder",
+  "name": "Plant Care Guide Finder",
+  "category": "Home & household",
+  "logo_bytes": 11500,
+  "feature_bytes": 25312
+ },
+ {
+  "slug": "garden-planning-calendar",
+  "name": "Garden Planning Calendar",
+  "category": "Home & household",
+  "logo_bytes": 11574,
+  "feature_bytes": 28453
+ },
+ {
+  "slug": "seed-starting-planner",
+  "name": "Seed Starting Planner",
+  "category": "Home & household",
+  "logo_bytes": 10863,
+  "feature_bytes": 25070
+ },
+ {
+  "slug": "compost-tracker",
+  "name": "Compost Tracker",
+  "category": "Home & household",
+  "logo_bytes": 10221,
+  "feature_bytes": 23419
+ },
+ {
+  "slug": "pest-control-log",
+  "name": "Pest Control Log",
+  "category": "Home & household",
+  "logo_bytes": 11500,
+  "feature_bytes": 24551
+ },
+ {
+  "slug": "paint-color-planner",
+  "name": "Paint Color Planner",
+  "category": "Home & household",
+  "logo_bytes": 11500,
+  "feature_bytes": 24253
+ },
+ {
+  "slug": "paint-quantity-calculator",
+  "name": "Paint Quantity Calculator",
+  "category": "Home & household",
+  "logo_bytes": 13081,
+  "feature_bytes": 28306
+ },
+ {
+  "slug": "wallpaper-quantity-calculator",
+  "name": "Wallpaper Quantity Calculator",
+  "category": "Home & household",
+  "logo_bytes": 15621,
+  "feature_bytes": 33991
+ },
+ {
+  "slug": "flooring-quantity-calculator",
+  "name": "Flooring Quantity Calculator",
+  "category": "Home & household",
+  "logo_bytes": 11822,
+  "feature_bytes": 29423
+ },
+ {
+  "slug": "tile-quantity-calculator",
+  "name": "Tile Quantity Calculator",
+  "category": "Home & household",
+  "logo_bytes": 11794,
+  "feature_bytes": 27013
+ },
+ {
+  "slug": "furniture-measurement-planner",
+  "name": "Furniture Measurement Planner",
+  "category": "Home & household",
+  "logo_bytes": 8996,
+  "feature_bytes": 24449
+ },
+ {
+  "slug": "moving-box-label-maker",
+  "name": "Moving Box Label Maker",
+  "category": "Home & household",
+  "logo_bytes": 11163,
+  "feature_bytes": 25905
+ },
+ {
+  "slug": "moving-inventory-list",
+  "name": "Moving Inventory List",
+  "category": "Home & household",
+  "logo_bytes": 8941,
+  "feature_bytes": 23485
+ },
+ {
+  "slug": "utility-setup-checklist",
+  "name": "Utility Setup Checklist",
+  "category": "Home & household",
+  "logo_bytes": 12308,
+  "feature_bytes": 27892
+ },
+ {
+  "slug": "address-change-checklist",
+  "name": "Address Change Checklist",
+  "category": "Home & household",
+  "logo_bytes": 13026,
+  "feature_bytes": 32606
+ },
+ {
+  "slug": "home-wifi-planner",
+  "name": "Home WiFi Planner",
+  "category": "Home & household",
+  "logo_bytes": 10810,
+  "feature_bytes": 22535
+ },
+ {
+  "slug": "smart-home-device-list",
+  "name": "Smart Home Device List",
+  "category": "Home & household",
+  "logo_bytes": 10862,
+  "feature_bytes": 25651
+ },
+ {
+  "slug": "chore-chart-kids",
+  "name": "Chore Chart Kids",
+  "category": "Home & household",
+  "logo_bytes": 10299,
+  "feature_bytes": 22631
+ },
+ {
+  "slug": "family-calendar-shared-printable",
+  "name": "Family Calendar Shared Printable",
+  "category": "Home & household",
+  "logo_bytes": 10240,
+  "feature_bytes": 30330
+ },
+ {
+  "slug": "household-budget-splitter",
+  "name": "Household Budget Splitter",
+  "category": "Home & household",
+  "logo_bytes": 9113,
+  "feature_bytes": 25008
+ },
+ {
+  "slug": "roommate-chore-rotator",
+  "name": "Roommate Chore Rotator",
+  "category": "Home & household",
+  "logo_bytes": 12418,
+  "feature_bytes": 28020
+ },
+ {
+  "slug": "car-maintenance-log",
+  "name": "Car Maintenance Log",
+  "category": "Home & household",
+  "logo_bytes": 12287,
+  "feature_bytes": 25412
+ },
+ {
+  "slug": "bike-maintenance-log",
+  "name": "Bike Maintenance Log",
+  "category": "Home & household",
+  "logo_bytes": 11149,
+  "feature_bytes": 24307
  },
  {
   "slug": "packing-list-builder",
@@ -77,11 +3507,697 @@
   "feature_bytes": 19710
  },
  {
+  "slug": "travel-budget-planner",
+  "name": "Travel Budget Planner",
+  "category": "Travel",
+  "logo_bytes": 6119,
+  "feature_bytes": 21224
+ },
+ {
+  "slug": "trip-itinerary-builder",
+  "name": "Trip Itinerary Builder",
+  "category": "Travel",
+  "logo_bytes": 3718,
+  "feature_bytes": 16950
+ },
+ {
+  "slug": "flight-price-log",
+  "name": "Flight Price Log",
+  "category": "Travel",
+  "logo_bytes": 5196,
+  "feature_bytes": 16142
+ },
+ {
+  "slug": "road-trip-planner",
+  "name": "Road Trip Planner",
+  "category": "Travel",
+  "logo_bytes": 6223,
+  "feature_bytes": 19664
+ },
+ {
+  "slug": "road-trip-fuel-calculator",
+  "name": "Road Trip Fuel Calculator",
+  "category": "Travel",
+  "logo_bytes": 6223,
+  "feature_bytes": 22826
+ },
+ {
+  "slug": "travel-time-estimator",
+  "name": "Travel Time Estimator",
+  "category": "Travel",
+  "logo_bytes": 3697,
+  "feature_bytes": 16810
+ },
+ {
+  "slug": "jet-lag-planner",
+  "name": "Jet Lag Planner",
+  "category": "Travel",
+  "logo_bytes": 4494,
+  "feature_bytes": 14523
+ },
+ {
+  "slug": "travel-insurance-checklist",
+  "name": "Travel Insurance Checklist",
+  "category": "Travel",
+  "logo_bytes": 3718,
+  "feature_bytes": 21649
+ },
+ {
+  "slug": "passport-expiry-tracker",
+  "name": "Passport Expiry Tracker",
+  "category": "Travel",
+  "logo_bytes": 5220,
+  "feature_bytes": 21525
+ },
+ {
+  "slug": "visa-requirements-checklist",
+  "name": "Visa Requirements Checklist",
+  "category": "Travel",
+  "logo_bytes": 9296,
+  "feature_bytes": 29631
+ },
+ {
+  "slug": "travel-document-organizer",
+  "name": "Travel Document Organizer",
+  "category": "Travel",
+  "logo_bytes": 6287,
+  "feature_bytes": 25956
+ },
+ {
+  "slug": "hotel-comparison-sheet",
+  "name": "Hotel Comparison Sheet",
+  "category": "Travel",
+  "logo_bytes": 7335,
+  "feature_bytes": 24546
+ },
+ {
+  "slug": "vacation-rental-checklist",
+  "name": "Vacation Rental Checklist",
+  "category": "Travel",
+  "logo_bytes": 9296,
+  "feature_bytes": 27080
+ },
+ {
+  "slug": "camping-packing-list",
+  "name": "Camping Packing List",
+  "category": "Travel",
+  "logo_bytes": 8660,
+  "feature_bytes": 25928
+ },
+ {
+  "slug": "hiking-trip-planner",
+  "name": "Hiking Trip Planner",
+  "category": "Travel",
+  "logo_bytes": 3765,
+  "feature_bytes": 15477
+ },
+ {
+  "slug": "trail-difficulty-log",
+  "name": "Trail Difficulty Log",
+  "category": "Travel",
+  "logo_bytes": 6287,
+  "feature_bytes": 18903
+ },
+ {
+  "slug": "beach-trip-checklist",
+  "name": "Beach Trip Checklist",
+  "category": "Travel",
+  "logo_bytes": 6122,
+  "feature_bytes": 21755
+ },
+ {
+  "slug": "ski-trip-checklist",
+  "name": "Ski Trip Checklist",
+  "category": "Travel",
+  "logo_bytes": 7998,
+  "feature_bytes": 22068
+ },
+ {
+  "slug": "business-trip-checklist",
+  "name": "Business Trip Checklist",
+  "category": "Travel",
+  "logo_bytes": 6122,
+  "feature_bytes": 21708
+ },
+ {
+  "slug": "travel-expense-tracker",
+  "name": "Travel Expense Tracker",
+  "category": "Travel",
+  "logo_bytes": 3789,
+  "feature_bytes": 18934
+ },
+ {
+  "slug": "currency-spending-log",
+  "name": "Currency Spending Log",
+  "category": "Travel",
+  "logo_bytes": 10970,
+  "feature_bytes": 29589
+ },
+ {
+  "slug": "tipping-guide-by-country",
+  "name": "Tipping Guide By Country",
+  "category": "Travel",
+  "logo_bytes": 7307,
+  "feature_bytes": 24256
+ },
+ {
+  "slug": "emergency-contacts-travel-card",
+  "name": "Emergency Contacts Travel Card",
+  "category": "Travel",
+  "logo_bytes": 7341,
+  "feature_bytes": 29537
+ },
+ {
+  "slug": "phrasebook-travel-builder",
+  "name": "Phrasebook Travel Builder",
+  "category": "Travel",
+  "logo_bytes": 5210,
+  "feature_bytes": 22436
+ },
+ {
+  "slug": "food-allergy-travel-card",
+  "name": "Food Allergy Travel Card",
+  "category": "Travel",
+  "logo_bytes": 6813,
+  "feature_bytes": 24216
+ },
+ {
+  "slug": "medication-travel-list",
+  "name": "Medication Travel List",
+  "category": "Travel",
+  "logo_bytes": 5927,
+  "feature_bytes": 21555
+ },
+ {
+  "slug": "kids-travel-entertainment-kit",
+  "name": "Kids Travel Entertainment Kit",
+  "category": "Travel",
+  "logo_bytes": 6172,
+  "feature_bytes": 22404
+ },
+ {
+  "slug": "flight-entertainment-planner",
+  "name": "Flight Entertainment Planner",
+  "category": "Travel",
+  "logo_bytes": 3740,
+  "feature_bytes": 17676
+ },
+ {
+  "slug": "airport-layover-planner",
+  "name": "Airport Layover Planner",
+  "category": "Travel",
+  "logo_bytes": 6764,
+  "feature_bytes": 23018
+ },
+ {
+  "slug": "train-trip-planner",
+  "name": "Train Trip Planner",
+  "category": "Travel",
+  "logo_bytes": 3697,
+  "feature_bytes": 14331
+ },
+ {
+  "slug": "bus-trip-planner",
+  "name": "Bus Trip Planner",
+  "category": "Travel",
+  "logo_bytes": 6122,
+  "feature_bytes": 18127
+ },
+ {
+  "slug": "ferry-trip-planner",
+  "name": "Ferry Trip Planner",
+  "category": "Travel",
+  "logo_bytes": 3766,
+  "feature_bytes": 15305
+ },
+ {
+  "slug": "cruise-packing-list",
+  "name": "Cruise Packing List",
+  "category": "Travel",
+  "logo_bytes": 8660,
+  "feature_bytes": 24268
+ },
+ {
+  "slug": "cruise-excursion-planner",
+  "name": "Cruise Excursion Planner",
+  "category": "Travel",
+  "logo_bytes": 7347,
+  "feature_bytes": 25187
+ },
+ {
+  "slug": "travel-photography-shot-list",
+  "name": "Travel Photography Shot List",
+  "category": "Travel",
+  "logo_bytes": 5209,
+  "feature_bytes": 24458
+ },
+ {
+  "slug": "travel-journal-template",
+  "name": "Travel Journal Template",
+  "category": "Travel",
+  "logo_bytes": 4525,
+  "feature_bytes": 18799
+ },
+ {
+  "slug": "souvenir-budget-tracker",
+  "name": "Souvenir Budget Tracker",
+  "category": "Travel",
+  "logo_bytes": 10207,
+  "feature_bytes": 28645
+ },
+ {
+  "slug": "travel-scrapbook-planner",
+  "name": "Travel Scrapbook Planner",
+  "category": "Travel",
+  "logo_bytes": 8001,
+  "feature_bytes": 25985
+ },
+ {
+  "slug": "language-basics-flashcards",
+  "name": "Language Basics Flashcards",
+  "category": "Travel",
+  "logo_bytes": 6090,
+  "feature_bytes": 23983
+ },
+ {
+  "slug": "driving-abroad-checklist",
+  "name": "Driving Abroad Checklist",
+  "category": "Travel",
+  "logo_bytes": 9252,
+  "feature_bytes": 28453
+ },
+ {
+  "slug": "car-rental-comparison-sheet",
+  "name": "Car Rental Comparison Sheet",
+  "category": "Travel",
+  "logo_bytes": 9589,
+  "feature_bytes": 29867
+ },
+ {
+  "slug": "travel-sim-card-checklist",
+  "name": "Travel SIM Card Checklist",
+  "category": "Travel",
+  "logo_bytes": 8001,
+  "feature_bytes": 26112
+ },
+ {
+  "slug": "luggage-weight-calculator",
+  "name": "Luggage Weight Calculator",
+  "category": "Travel",
+  "logo_bytes": 7927,
+  "feature_bytes": 26919
+ },
+ {
+  "slug": "carry-on-packing-guide",
+  "name": "Carry On Packing Guide",
+  "category": "Travel",
+  "logo_bytes": 11240,
+  "feature_bytes": 30648
+ },
+ {
+  "slug": "travel-safety-checklist",
+  "name": "Travel Safety Checklist",
+  "category": "Travel",
+  "logo_bytes": 8001,
+  "feature_bytes": 24938
+ },
+ {
+  "slug": "solo-travel-checklist",
+  "name": "Solo Travel Checklist",
+  "category": "Travel",
+  "logo_bytes": 7998,
+  "feature_bytes": 24432
+ },
+ {
+  "slug": "group-trip-cost-splitter",
+  "name": "Group Trip Cost Splitter",
+  "category": "Travel",
+  "logo_bytes": 7309,
+  "feature_bytes": 22691
+ },
+ {
+  "slug": "travel-visa-photo-guide",
+  "name": "Travel Visa Photo Guide",
+  "category": "Travel",
+  "logo_bytes": 6901,
+  "feature_bytes": 23905
+ },
+ {
+  "slug": "world-clock-trip-planner",
+  "name": "World Clock Trip Planner",
+  "category": "Travel",
+  "logo_bytes": 11422,
+  "feature_bytes": 27266
+ },
+ {
   "slug": "recipe-scaler",
   "name": "Recipe Scaler",
   "category": "Food & recipes",
   "logo_bytes": 13175,
   "feature_bytes": 24810
+ },
+ {
+  "slug": "recipe-cost-calculator",
+  "name": "Recipe Cost Calculator",
+  "category": "Food & recipes",
+  "logo_bytes": 12423,
+  "feature_bytes": 29917
+ },
+ {
+  "slug": "meal-prep-planner",
+  "name": "Meal Prep Planner",
+  "category": "Food & recipes",
+  "logo_bytes": 10159,
+  "feature_bytes": 22660
+ },
+ {
+  "slug": "weekly-menu-planner",
+  "name": "Weekly Menu Planner",
+  "category": "Food & recipes",
+  "logo_bytes": 12591,
+  "feature_bytes": 26412
+ },
+ {
+  "slug": "pantry-recipe-finder",
+  "name": "Pantry Recipe Finder",
+  "category": "Food & recipes",
+  "logo_bytes": 10359,
+  "feature_bytes": 25143
+ },
+ {
+  "slug": "ingredient-substitution-finder",
+  "name": "Ingredient Substitution Finder",
+  "category": "Food & recipes",
+  "logo_bytes": 10697,
+  "feature_bytes": 28726
+ },
+ {
+  "slug": "cooking-time-converter",
+  "name": "Cooking Time Converter",
+  "category": "Food & recipes",
+  "logo_bytes": 10065,
+  "feature_bytes": 26693
+ },
+ {
+  "slug": "oven-temperature-converter",
+  "name": "Oven Temperature Converter",
+  "category": "Food & recipes",
+  "logo_bytes": 11164,
+  "feature_bytes": 30150
+ },
+ {
+  "slug": "baking-measurement-converter",
+  "name": "Baking Measurement Converter",
+  "category": "Food & recipes",
+  "logo_bytes": 10992,
+  "feature_bytes": 31052
+ },
+ {
+  "slug": "nutrition-label-reader",
+  "name": "Nutrition Label Reader",
+  "category": "Food & recipes",
+  "logo_bytes": 8226,
+  "feature_bytes": 23199
+ },
+ {
+  "slug": "calorie-counter-recipes",
+  "name": "Calorie Counter Recipes",
+  "category": "Food & recipes",
+  "logo_bytes": 10185,
+  "feature_bytes": 25978
+ },
+ {
+  "slug": "allergen-label-checker",
+  "name": "Allergen Label Checker",
+  "category": "Food & recipes",
+  "logo_bytes": 9580,
+  "feature_bytes": 25253
+ },
+ {
+  "slug": "grocery-budget-planner",
+  "name": "Grocery Budget Planner",
+  "category": "Food & recipes",
+  "logo_bytes": 12254,
+  "feature_bytes": 29638
+ },
+ {
+  "slug": "bulk-buying-calculator",
+  "name": "Bulk Buying Calculator",
+  "category": "Food & recipes",
+  "logo_bytes": 9076,
+  "feature_bytes": 23630
+ },
+ {
+  "slug": "freezer-meal-planner",
+  "name": "Freezer Meal Planner",
+  "category": "Food & recipes",
+  "logo_bytes": 8775,
+  "feature_bytes": 20591
+ },
+ {
+  "slug": "slow-cooker-time-converter",
+  "name": "Slow Cooker Time Converter",
+  "category": "Food & recipes",
+  "logo_bytes": 13875,
+  "feature_bytes": 32964
+ },
+ {
+  "slug": "air-fryer-time-guide",
+  "name": "Air Fryer Time Guide",
+  "category": "Food & recipes",
+  "logo_bytes": 9623,
+  "feature_bytes": 22890
+ },
+ {
+  "slug": "grilling-time-guide",
+  "name": "Grilling Time Guide",
+  "category": "Food & recipes",
+  "logo_bytes": 10068,
+  "feature_bytes": 23464
+ },
+ {
+  "slug": "bread-baking-timer",
+  "name": "Bread Baking Timer",
+  "category": "Food & recipes",
+  "logo_bytes": 9076,
+  "feature_bytes": 22178
+ },
+ {
+  "slug": "sourdough-schedule-planner",
+  "name": "Sourdough Schedule Planner",
+  "category": "Food & recipes",
+  "logo_bytes": 10782,
+  "feature_bytes": 30349
+ },
+ {
+  "slug": "coffee-brew-ratio-calculator",
+  "name": "Coffee Brew Ratio Calculator",
+  "category": "Food & recipes",
+  "logo_bytes": 12248,
+  "feature_bytes": 29565
+ },
+ {
+  "slug": "tea-brewing-guide",
+  "name": "Tea Brewing Guide",
+  "category": "Food & recipes",
+  "logo_bytes": 8892,
+  "feature_bytes": 23289
+ },
+ {
+  "slug": "cocktail-recipe-scaler",
+  "name": "Cocktail Recipe Scaler",
+  "category": "Food & recipes",
+  "logo_bytes": 12397,
+  "feature_bytes": 29845
+ },
+ {
+  "slug": "party-food-quantity-calculator",
+  "name": "Party Food Quantity Calculator",
+  "category": "Food & recipes",
+  "logo_bytes": 8000,
+  "feature_bytes": 27962
+ },
+ {
+  "slug": "bbq-guest-calculator",
+  "name": "BBQ Guest Calculator",
+  "category": "Food & recipes",
+  "logo_bytes": 12304,
+  "feature_bytes": 28864
+ },
+ {
+  "slug": "potluck-signup-sheet",
+  "name": "Potluck Signup Sheet",
+  "category": "Food & recipes",
+  "logo_bytes": 12165,
+  "feature_bytes": 28655
+ },
+ {
+  "slug": "holiday-menu-planner",
+  "name": "Holiday Menu Planner",
+  "category": "Food & recipes",
+  "logo_bytes": 8781,
+  "feature_bytes": 23086
+ },
+ {
+  "slug": "thanksgiving-dinner-planner",
+  "name": "Thanksgiving Dinner Planner",
+  "category": "Food & recipes",
+  "logo_bytes": 9075,
+  "feature_bytes": 23690
+ },
+ {
+  "slug": "christmas-dinner-planner",
+  "name": "Christmas Dinner Planner",
+  "category": "Food & recipes",
+  "logo_bytes": 12401,
+  "feature_bytes": 26748
+ },
+ {
+  "slug": "birthday-party-menu-planner",
+  "name": "Birthday Party Menu Planner",
+  "category": "Food & recipes",
+  "logo_bytes": 10315,
+  "feature_bytes": 25557
+ },
+ {
+  "slug": "lunchbox-planner-kids",
+  "name": "Lunchbox Planner Kids",
+  "category": "Food & recipes",
+  "logo_bytes": 7986,
+  "feature_bytes": 23327
+ },
+ {
+  "slug": "school-lunch-planner",
+  "name": "School Lunch Planner",
+  "category": "Food & recipes",
+  "logo_bytes": 10716,
+  "feature_bytes": 23676
+ },
+ {
+  "slug": "baby-food-introduction-log",
+  "name": "Baby Food Introduction Log",
+  "category": "Food & recipes",
+  "logo_bytes": 8881,
+  "feature_bytes": 26387
+ },
+ {
+  "slug": "toddler-meal-planner",
+  "name": "Toddler Meal Planner",
+  "category": "Food & recipes",
+  "logo_bytes": 8762,
+  "feature_bytes": 21950
+ },
+ {
+  "slug": "diabetic-meal-planner",
+  "name": "Diabetic Meal Planner",
+  "category": "Food & recipes",
+  "logo_bytes": 11182,
+  "feature_bytes": 24727
+ },
+ {
+  "slug": "low-sodium-meal-guide",
+  "name": "Low Sodium Meal Guide",
+  "category": "Food & recipes",
+  "logo_bytes": 10715,
+  "feature_bytes": 27178
+ },
+ {
+  "slug": "gluten-free-substitution-guide",
+  "name": "Gluten Free Substitution Guide",
+  "category": "Food & recipes",
+  "logo_bytes": 10099,
+  "feature_bytes": 28213
+ },
+ {
+  "slug": "vegan-substitution-guide",
+  "name": "Vegan Substitution Guide",
+  "category": "Food & recipes",
+  "logo_bytes": 13885,
+  "feature_bytes": 33752
+ },
+ {
+  "slug": "keto-macro-planner",
+  "name": "Keto Macro Planner",
+  "category": "Food & recipes",
+  "logo_bytes": 11198,
+  "feature_bytes": 25150
+ },
+ {
+  "slug": "protein-meal-planner",
+  "name": "Protein Meal Planner",
+  "category": "Food & recipes",
+  "logo_bytes": 10177,
+  "feature_bytes": 23441
+ },
+ {
+  "slug": "smoothie-recipe-builder",
+  "name": "Smoothie Recipe Builder",
+  "category": "Food & recipes",
+  "logo_bytes": 13161,
+  "feature_bytes": 29577
+ },
+ {
+  "slug": "salad-dressing-ratio-maker",
+  "name": "Salad Dressing Ratio Maker",
+  "category": "Food & recipes",
+  "logo_bytes": 13106,
+  "feature_bytes": 32632
+ },
+ {
+  "slug": "spice-blend-builder",
+  "name": "Spice Blend Builder",
+  "category": "Food & recipes",
+  "logo_bytes": 13097,
+  "feature_bytes": 28160
+ },
+ {
+  "slug": "marinade-builder",
+  "name": "Marinade Builder",
+  "category": "Food & recipes",
+  "logo_bytes": 10992,
+  "feature_bytes": 23548
+ },
+ {
+  "slug": "sauce-ratio-calculator",
+  "name": "Sauce Ratio Calculator",
+  "category": "Food & recipes",
+  "logo_bytes": 13161,
+  "feature_bytes": 30276
+ },
+ {
+  "slug": "dough-hydration-calculator",
+  "name": "Dough Hydration Calculator",
+  "category": "Food & recipes",
+  "logo_bytes": 9104,
+  "feature_bytes": 27937
+ },
+ {
+  "slug": "pizza-dough-calculator",
+  "name": "Pizza Dough Calculator",
+  "category": "Food & recipes",
+  "logo_bytes": 10445,
+  "feature_bytes": 26725
+ },
+ {
+  "slug": "cake-serving-calculator",
+  "name": "Cake Serving Calculator",
+  "category": "Food & recipes",
+  "logo_bytes": 13835,
+  "feature_bytes": 33039
+ },
+ {
+  "slug": "food-storage-guide",
+  "name": "Food Storage Guide",
+  "category": "Food & recipes",
+  "logo_bytes": 10737,
+  "feature_bytes": 26473
+ },
+ {
+  "slug": "expiry-date-tracker-food",
+  "name": "Expiry Date Tracker Food",
+  "category": "Food & recipes",
+  "logo_bytes": 9094,
+  "feature_bytes": 26086
  },
  {
   "slug": "baby-name-finder",
@@ -91,11 +4207,697 @@
   "feature_bytes": 23922
  },
  {
+  "slug": "baby-name-meaning-lookup",
+  "name": "Baby Name Meaning Lookup",
+  "category": "Parenting & family",
+  "logo_bytes": 10452,
+  "feature_bytes": 28850
+ },
+ {
+  "slug": "pregnancy-week-tracker",
+  "name": "Pregnancy Week Tracker",
+  "category": "Parenting & family",
+  "logo_bytes": 11861,
+  "feature_bytes": 28389
+ },
+ {
+  "slug": "baby-milestone-tracker",
+  "name": "Baby Milestone Tracker",
+  "category": "Parenting & family",
+  "logo_bytes": 10760,
+  "feature_bytes": 26891
+ },
+ {
+  "slug": "baby-sleep-log",
+  "name": "Baby Sleep Log",
+  "category": "Parenting & family",
+  "logo_bytes": 12743,
+  "feature_bytes": 26400
+ },
+ {
+  "slug": "diaper-change-log",
+  "name": "Diaper Change Log",
+  "category": "Parenting & family",
+  "logo_bytes": 12249,
+  "feature_bytes": 26598
+ },
+ {
+  "slug": "breastfeeding-log",
+  "name": "Breastfeeding Log",
+  "category": "Parenting & family",
+  "logo_bytes": 8879,
+  "feature_bytes": 22744
+ },
+ {
+  "slug": "bottle-feeding-log",
+  "name": "Bottle Feeding Log",
+  "category": "Parenting & family",
+  "logo_bytes": 8892,
+  "feature_bytes": 21641
+ },
+ {
+  "slug": "baby-vaccination-schedule",
+  "name": "Baby Vaccination Schedule",
+  "category": "Parenting & family",
+  "logo_bytes": 11755,
+  "feature_bytes": 30704
+ },
+ {
+  "slug": "baby-growth-tracker",
+  "name": "Baby Growth Tracker",
+  "category": "Parenting & family",
+  "logo_bytes": 12061,
+  "feature_bytes": 28643
+ },
+ {
+  "slug": "toddler-routine-builder",
+  "name": "Toddler Routine Builder",
+  "category": "Parenting & family",
+  "logo_bytes": 8982,
+  "feature_bytes": 22459
+ },
+ {
+  "slug": "potty-training-tracker",
+  "name": "Potty Training Tracker",
+  "category": "Parenting & family",
+  "logo_bytes": 8102,
+  "feature_bytes": 21931
+ },
+ {
+  "slug": "kids-chore-chart",
+  "name": "Kids Chore Chart",
+  "category": "Parenting & family",
+  "logo_bytes": 12234,
+  "feature_bytes": 27590
+ },
+ {
+  "slug": "kids-allowance-tracker",
+  "name": "Kids Allowance Tracker",
+  "category": "Parenting & family",
+  "logo_bytes": 11622,
+  "feature_bytes": 29372
+ },
+ {
+  "slug": "homework-help-scheduler",
+  "name": "Homework Help Scheduler",
+  "category": "Parenting & family",
+  "logo_bytes": 6655,
+  "feature_bytes": 21611
+ },
+ {
+  "slug": "school-lunch-idea-bank",
+  "name": "School Lunch Idea Bank",
+  "category": "Parenting & family",
+  "logo_bytes": 10596,
+  "feature_bytes": 24687
+ },
+ {
+  "slug": "kids-birthday-party-planner",
+  "name": "Kids Birthday Party Planner",
+  "category": "Parenting & family",
+  "logo_bytes": 11137,
+  "feature_bytes": 27561
+ },
+ {
+  "slug": "birthday-party-budget-kids",
+  "name": "Birthday Party Budget Kids",
+  "category": "Parenting & family",
+  "logo_bytes": 10218,
+  "feature_bytes": 26669
+ },
+ {
+  "slug": "kids-screen-time-tracker",
+  "name": "Kids Screen Time Tracker",
+  "category": "Parenting & family",
+  "logo_bytes": 12951,
+  "feature_bytes": 29406
+ },
+ {
+  "slug": "family-meeting-agenda",
+  "name": "Family Meeting Agenda",
+  "category": "Parenting & family",
+  "logo_bytes": 8704,
+  "feature_bytes": 24794
+ },
+ {
+  "slug": "family-rules-chart",
+  "name": "Family Rules Chart",
+  "category": "Parenting & family",
+  "logo_bytes": 8976,
+  "feature_bytes": 22581
+ },
+ {
+  "slug": "sibling-conflict-mediator-guide",
+  "name": "Sibling Conflict Mediator Guide",
+  "category": "Parenting & family",
+  "logo_bytes": 13480,
+  "feature_bytes": 33730
+ },
+ {
+  "slug": "grandparent-visit-planner",
+  "name": "Grandparent Visit Planner",
+  "category": "Parenting & family",
+  "logo_bytes": 12811,
+  "feature_bytes": 29756
+ },
+ {
+  "slug": "family-tree-builder-simple",
+  "name": "Family Tree Builder Simple",
+  "category": "Parenting & family",
+  "logo_bytes": 6695,
+  "feature_bytes": 21145
+ },
+ {
+  "slug": "family-history-interview-kit",
+  "name": "Family History Interview Kit",
+  "category": "Parenting & family",
+  "logo_bytes": 6684,
+  "feature_bytes": 20754
+ },
+ {
+  "slug": "baby-shower-planner",
+  "name": "Baby Shower Planner",
+  "category": "Parenting & family",
+  "logo_bytes": 12743,
+  "feature_bytes": 29829
+ },
+ {
+  "slug": "gender-reveal-planner",
+  "name": "Gender Reveal Planner",
+  "category": "Parenting & family",
+  "logo_bytes": 12138,
+  "feature_bytes": 26857
+ },
+ {
+  "slug": "adoption-paperwork-checklist",
+  "name": "Adoption Paperwork Checklist",
+  "category": "Parenting & family",
+  "logo_bytes": 10797,
+  "feature_bytes": 32011
+ },
+ {
+  "slug": "foster-care-checklist",
+  "name": "Foster Care Checklist",
+  "category": "Parenting & family",
+  "logo_bytes": 10015,
+  "feature_bytes": 25775
+ },
+ {
+  "slug": "child-safety-checklist-home",
+  "name": "Child Safety Checklist Home",
+  "category": "Parenting & family",
+  "logo_bytes": 13446,
+  "feature_bytes": 33500
+ },
+ {
+  "slug": "car-seat-checklist",
+  "name": "Car Seat Checklist",
+  "category": "Parenting & family",
+  "logo_bytes": 13446,
+  "feature_bytes": 29639
+ },
+ {
+  "slug": "school-enrollment-checklist",
+  "name": "School Enrollment Checklist",
+  "category": "Parenting & family",
+  "logo_bytes": 10633,
+  "feature_bytes": 28328
+ },
+ {
+  "slug": "kids-medical-records-log",
+  "name": "Kids Medical Records Log",
+  "category": "Parenting & family",
+  "logo_bytes": 10851,
+  "feature_bytes": 28500
+ },
+ {
+  "slug": "kids-dental-visit-tracker",
+  "name": "Kids Dental Visit Tracker",
+  "category": "Parenting & family",
+  "logo_bytes": 11393,
+  "feature_bytes": 28564
+ },
+ {
+  "slug": "kids-vision-tracker",
+  "name": "Kids Vision Tracker",
+  "category": "Parenting & family",
+  "logo_bytes": 11767,
+  "feature_bytes": 26395
+ },
+ {
+  "slug": "kids-allergy-action-plan",
+  "name": "Kids Allergy Action Plan",
+  "category": "Parenting & family",
+  "logo_bytes": 11622,
+  "feature_bytes": 29151
+ },
+ {
+  "slug": "emergency-contact-card-kids",
+  "name": "Emergency Contact Card Kids",
+  "category": "Parenting & family",
+  "logo_bytes": 10030,
+  "feature_bytes": 28935
+ },
+ {
+  "slug": "kids-travel-kit-planner",
+  "name": "Kids Travel Kit Planner",
+  "category": "Parenting & family",
+  "logo_bytes": 8918,
+  "feature_bytes": 23026
+ },
+ {
+  "slug": "rainy-day-activity-bank",
+  "name": "Rainy Day Activity Bank",
+  "category": "Parenting & family",
+  "logo_bytes": 11348,
+  "feature_bytes": 27236
+ },
+ {
+  "slug": "kids-craft-idea-bank",
+  "name": "Kids Craft Idea Bank",
+  "category": "Parenting & family",
+  "logo_bytes": 12234,
+  "feature_bytes": 27487
+ },
+ {
+  "slug": "bedtime-story-idea-bank",
+  "name": "Bedtime Story Idea Bank",
+  "category": "Parenting & family",
+  "logo_bytes": 12743,
+  "feature_bytes": 30016
+ },
+ {
+  "slug": "bedtime-routine-builder",
+  "name": "Bedtime Routine Builder",
+  "category": "Parenting & family",
+  "logo_bytes": 11061,
+  "feature_bytes": 25757
+ },
+ {
+  "slug": "morning-routine-kids",
+  "name": "Morning Routine Kids",
+  "category": "Parenting & family",
+  "logo_bytes": 10865,
+  "feature_bytes": 25693
+ },
+ {
+  "slug": "school-morning-checklist",
+  "name": "School Morning Checklist",
+  "category": "Parenting & family",
+  "logo_bytes": 12523,
+  "feature_bytes": 28566
+ },
+ {
+  "slug": "kids-reading-challenge",
+  "name": "Kids Reading Challenge",
+  "category": "Parenting & family",
+  "logo_bytes": 11136,
+  "feature_bytes": 28274
+ },
+ {
+  "slug": "kids-savings-goal-tracker",
+  "name": "Kids Savings Goal Tracker",
+  "category": "Parenting & family",
+  "logo_bytes": 12951,
+  "feature_bytes": 31720
+ },
+ {
+  "slug": "kids-birthday-countdown",
+  "name": "Kids Birthday Countdown",
+  "category": "Parenting & family",
+  "logo_bytes": 11137,
+  "feature_bytes": 28127
+ },
+ {
+  "slug": "family-photo-organization-guide",
+  "name": "Family Photo Organization Guide",
+  "category": "Parenting & family",
+  "logo_bytes": 8086,
+  "feature_bytes": 27080
+ },
+ {
+  "slug": "family-recipe-book-builder",
+  "name": "Family Recipe Book Builder",
+  "category": "Parenting & family",
+  "logo_bytes": 8976,
+  "feature_bytes": 25105
+ },
+ {
+  "slug": "family-budget-meeting-sheet",
+  "name": "Family Budget Meeting Sheet",
+  "category": "Parenting & family",
+  "logo_bytes": 8889,
+  "feature_bytes": 25939
+ },
+ {
   "slug": "rental-agreement-template",
   "name": "Rental Agreement Template",
   "category": "Legal & contracts (templates only, never legal advice)",
   "logo_bytes": 12761,
   "feature_bytes": 30361
+ },
+ {
+  "slug": "roommate-agreement-template",
+  "name": "Roommate Agreement Template",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 12761,
+  "feature_bytes": 31834
+ },
+ {
+  "slug": "freelance-contract-template",
+  "name": "Freelance Contract Template",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 10944,
+  "feature_bytes": 28295
+ },
+ {
+  "slug": "nda-template-simple",
+  "name": "NDA Template Simple",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 9065,
+  "feature_bytes": 24233
+ },
+ {
+  "slug": "service-agreement-template",
+  "name": "Service Agreement Template",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 14743,
+  "feature_bytes": 33335
+ },
+ {
+  "slug": "consulting-agreement-template",
+  "name": "Consulting Agreement Template",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 13893,
+  "feature_bytes": 33877
+ },
+ {
+  "slug": "photography-contract-template",
+  "name": "Photography Contract Template",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 12345,
+  "feature_bytes": 33392
+ },
+ {
+  "slug": "event-planning-contract-template",
+  "name": "Event Planning Contract Template",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 8880,
+  "feature_bytes": 27723
+ },
+ {
+  "slug": "wedding-vendor-contract-template",
+  "name": "Wedding Vendor Contract Template",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 14507,
+  "feature_bytes": 34162
+ },
+ {
+  "slug": "loan-agreement-template-personal",
+  "name": "Loan Agreement Template Personal",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 10360,
+  "feature_bytes": 26851
+ },
+ {
+  "slug": "promissory-note-template",
+  "name": "Promissory Note Template",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 10572,
+  "feature_bytes": 26035
+ },
+ {
+  "slug": "bill-of-sale-template",
+  "name": "Bill of Sale Template",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 14283,
+  "feature_bytes": 28479
+ },
+ {
+  "slug": "vehicle-bill-of-sale",
+  "name": "Vehicle Bill of Sale",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 12787,
+  "feature_bytes": 27077
+ },
+ {
+  "slug": "pet-sale-agreement-template",
+  "name": "Pet Sale Agreement Template",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 13054,
+  "feature_bytes": 31554
+ },
+ {
+  "slug": "gift-letter-template",
+  "name": "Gift Letter Template",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 10916,
+  "feature_bytes": 22870
+ },
+ {
+  "slug": "permission-letter-template",
+  "name": "Permission Letter Template",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 8845,
+  "feature_bytes": 22869
+ },
+ {
+  "slug": "power-of-attorney-checklist",
+  "name": "Power of Attorney Checklist",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 13451,
+  "feature_bytes": 33303
+ },
+ {
+  "slug": "will-planning-checklist",
+  "name": "Will Planning Checklist",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 13193,
+  "feature_bytes": 28057
+ },
+ {
+  "slug": "living-will-template-guide",
+  "name": "Living Will Template Guide",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 11597,
+  "feature_bytes": 27234
+ },
+ {
+  "slug": "advance-directive-checklist",
+  "name": "Advance Directive Checklist",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 12867,
+  "feature_bytes": 33175
+ },
+ {
+  "slug": "guardianship-letter-template",
+  "name": "Guardianship Letter Template",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 10916,
+  "feature_bytes": 26611
+ },
+ {
+  "slug": "child-travel-consent-letter",
+  "name": "Child Travel Consent Letter",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 10931,
+  "feature_bytes": 26791
+ },
+ {
+  "slug": "employment-offer-letter-template",
+  "name": "Employment Offer Letter Template",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 12076,
+  "feature_bytes": 30024
+ },
+ {
+  "slug": "independent-contractor-agreement",
+  "name": "Independent Contractor Agreement",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 10896,
+  "feature_bytes": 29789
+ },
+ {
+  "slug": "non-compete-checklist-guide",
+  "name": "Non Compete Checklist Guide",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 12603,
+  "feature_bytes": 31262
+ },
+ {
+  "slug": "severance-review-checklist",
+  "name": "Severance Review Checklist",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 14078,
+  "feature_bytes": 34057
+ },
+ {
+  "slug": "complaint-letter-legal-template",
+  "name": "Complaint Letter Legal Template",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 10916,
+  "feature_bytes": 29230
+ },
+ {
+  "slug": "demand-letter-template",
+  "name": "Demand Letter Template",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 9900,
+  "feature_bytes": 23993
+ },
+ {
+  "slug": "small-claims-checklist",
+  "name": "Small Claims Checklist",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 14823,
+  "feature_bytes": 31151
+ },
+ {
+  "slug": "eviction-notice-template",
+  "name": "Eviction Notice Template",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 9108,
+  "feature_bytes": 23019
+ },
+ {
+  "slug": "lease-termination-letter",
+  "name": "Lease Termination Letter",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 7356,
+  "feature_bytes": 21033
+ },
+ {
+  "slug": "rent-increase-notice-template",
+  "name": "Rent Increase Notice Template",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 9806,
+  "feature_bytes": 27884
+ },
+ {
+  "slug": "security-deposit-demand-letter",
+  "name": "Security Deposit Demand Letter",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 14000,
+  "feature_bytes": 34891
+ },
+ {
+  "slug": "noise-complaint-letter",
+  "name": "Noise Complaint Letter",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 12603,
+  "feature_bytes": 28385
+ },
+ {
+  "slug": "hoa-dispute-letter",
+  "name": "HOA Dispute Letter",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 9950,
+  "feature_bytes": 22902
+ },
+ {
+  "slug": "warranty-claim-letter",
+  "name": "Warranty Claim Letter",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 15303,
+  "feature_bytes": 27927
+ },
+ {
+  "slug": "insurance-claim-letter",
+  "name": "Insurance Claim Letter",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 10896,
+  "feature_bytes": 24174
+ },
+ {
+  "slug": "accident-report-form",
+  "name": "Accident Report Form",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 12751,
+  "feature_bytes": 27573
+ },
+ {
+  "slug": "incident-report-form",
+  "name": "Incident Report Form",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 9805,
+  "feature_bytes": 23122
+ },
+ {
+  "slug": "witness-statement-form",
+  "name": "Witness Statement Form",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 16035,
+  "feature_bytes": 31781
+ },
+ {
+  "slug": "liability-waiver-template",
+  "name": "Liability Waiver Template",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 11597,
+  "feature_bytes": 27618
+ },
+ {
+  "slug": "photo-release-form",
+  "name": "Photo Release Form",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 11221,
+  "feature_bytes": 24434
+ },
+ {
+  "slug": "model-release-form",
+  "name": "Model Release Form",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 11965,
+  "feature_bytes": 25041
+ },
+ {
+  "slug": "volunteer-agreement-template",
+  "name": "Volunteer Agreement Template",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 13127,
+  "feature_bytes": 32578
+ },
+ {
+  "slug": "internship-agreement-template",
+  "name": "Internship Agreement Template",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 10339,
+  "feature_bytes": 28374
+ },
+ {
+  "slug": "partnership-agreement-checklist",
+  "name": "Partnership Agreement Checklist",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 11817,
+  "feature_bytes": 33148
+ },
+ {
+  "slug": "business-sale-checklist",
+  "name": "Business Sale Checklist",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 13992,
+  "feature_bytes": 30394
+ },
+ {
+  "slug": "trademark-search-checklist",
+  "name": "Trademark Search Checklist",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 11649,
+  "feature_bytes": 31432
+ },
+ {
+  "slug": "copyright-notice-template",
+  "name": "Copyright Notice Template",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 12596,
+  "feature_bytes": 31516
+ },
+ {
+  "slug": "privacy-policy-template-simple",
+  "name": "Privacy Policy Template Simple",
+  "category": "Legal & contracts (templates only, never legal advice)",
+  "logo_bytes": 8976,
+  "feature_bytes": 27296
  },
  {
   "slug": "resume-builder",
@@ -105,11 +4907,697 @@
   "feature_bytes": 22214
  },
  {
+  "slug": "cover-letter-generator",
+  "name": "Cover Letter Generator",
+  "category": "Career & jobs",
+  "logo_bytes": 9782,
+  "feature_bytes": 25218
+ },
+ {
+  "slug": "interview-prep-checklist",
+  "name": "Interview Prep Checklist",
+  "category": "Career & jobs",
+  "logo_bytes": 7737,
+  "feature_bytes": 23466
+ },
+ {
+  "slug": "interview-question-bank-jobs",
+  "name": "Interview Question Bank Jobs",
+  "category": "Career & jobs",
+  "logo_bytes": 11348,
+  "feature_bytes": 32721
+ },
+ {
+  "slug": "salary-negotiation-calculator",
+  "name": "Salary Negotiation Calculator",
+  "category": "Career & jobs",
+  "logo_bytes": 12107,
+  "feature_bytes": 32133
+ },
+ {
+  "slug": "job-offer-comparator",
+  "name": "Job Offer Comparator",
+  "category": "Career & jobs",
+  "logo_bytes": 11568,
+  "feature_bytes": 28306
+ },
+ {
+  "slug": "job-application-tracker",
+  "name": "Job Application Tracker",
+  "category": "Career & jobs",
+  "logo_bytes": 10008,
+  "feature_bytes": 25429
+ },
+ {
+  "slug": "networking-contact-tracker",
+  "name": "Networking Contact Tracker",
+  "category": "Career & jobs",
+  "logo_bytes": 11414,
+  "feature_bytes": 30172
+ },
+ {
+  "slug": "linkedin-profile-checklist",
+  "name": "LinkedIn Profile Checklist",
+  "category": "Career & jobs",
+  "logo_bytes": 7758,
+  "feature_bytes": 23228
+ },
+ {
+  "slug": "portfolio-builder-simple",
+  "name": "Portfolio Builder Simple",
+  "category": "Career & jobs",
+  "logo_bytes": 10005,
+  "feature_bytes": 24322
+ },
+ {
+  "slug": "skills-gap-analyzer",
+  "name": "Skills Gap Analyzer",
+  "category": "Career & jobs",
+  "logo_bytes": 13459,
+  "feature_bytes": 30843
+ },
+ {
+  "slug": "career-change-planner",
+  "name": "Career Change Planner",
+  "category": "Career & jobs",
+  "logo_bytes": 9886,
+  "feature_bytes": 24078
+ },
+ {
+  "slug": "promotion-case-builder",
+  "name": "Promotion Case Builder",
+  "category": "Career & jobs",
+  "logo_bytes": 11142,
+  "feature_bytes": 27772
+ },
+ {
+  "slug": "performance-review-prep",
+  "name": "Performance Review Prep",
+  "category": "Career & jobs",
+  "logo_bytes": 10073,
+  "feature_bytes": 27051
+ },
+ {
+  "slug": "360-feedback-worksheet",
+  "name": "360 Feedback Worksheet",
+  "category": "Career & jobs",
+  "logo_bytes": 9729,
+  "feature_bytes": 30251
+ },
+ {
+  "slug": "resignation-checklist",
+  "name": "Resignation Checklist",
+  "category": "Career & jobs",
+  "logo_bytes": 12033,
+  "feature_bytes": 29599
+ },
+ {
+  "slug": "exit-interview-prep",
+  "name": "Exit Interview Prep",
+  "category": "Career & jobs",
+  "logo_bytes": 6303,
+  "feature_bytes": 18717
+ },
+ {
+  "slug": "onboarding-checklist-new-job",
+  "name": "Onboarding Checklist New Job",
+  "category": "Career & jobs",
+  "logo_bytes": 13682,
+  "feature_bytes": 36158
+ },
+ {
+  "slug": "first-90-days-planner",
+  "name": "First 90 Days Planner",
+  "category": "Career & jobs",
+  "logo_bytes": 10488,
+  "feature_bytes": 26593
+ },
+ {
+  "slug": "work-anniversary-tracker",
+  "name": "Work Anniversary Tracker",
+  "category": "Career & jobs",
+  "logo_bytes": 12994,
+  "feature_bytes": 32056
+ },
+ {
+  "slug": "shift-swap-board",
+  "name": "Shift Swap Board",
+  "category": "Career & jobs",
+  "logo_bytes": 10504,
+  "feature_bytes": 25534
+ },
+ {
+  "slug": "overtime-tracker-work",
+  "name": "Overtime Tracker Work",
+  "category": "Career & jobs",
+  "logo_bytes": 10844,
+  "feature_bytes": 27400
+ },
+ {
+  "slug": "leave-tracker-annual",
+  "name": "Leave Tracker Annual",
+  "category": "Career & jobs",
+  "logo_bytes": 6302,
+  "feature_bytes": 18667
+ },
+ {
+  "slug": "sick-day-log",
+  "name": "Sick Day Log",
+  "category": "Career & jobs",
+  "logo_bytes": 12763,
+  "feature_bytes": 26327
+ },
+ {
+  "slug": "expense-claim-form-work",
+  "name": "Expense Claim Form Work",
+  "category": "Career & jobs",
+  "logo_bytes": 9823,
+  "feature_bytes": 26964
+ },
+ {
+  "slug": "travel-expense-claim-form",
+  "name": "Travel Expense Claim Form",
+  "category": "Career & jobs",
+  "logo_bytes": 6351,
+  "feature_bytes": 21860
+ },
+ {
+  "slug": "mileage-claim-form",
+  "name": "Mileage Claim Form",
+  "category": "Career & jobs",
+  "logo_bytes": 11801,
+  "feature_bytes": 25001
+ },
+ {
+  "slug": "commission-calculator-sales",
+  "name": "Commission Calculator Sales",
+  "category": "Career & jobs",
+  "logo_bytes": 9886,
+  "feature_bytes": 29328
+ },
+ {
+  "slug": "bonus-tracker-work",
+  "name": "Bonus Tracker Work",
+  "category": "Career & jobs",
+  "logo_bytes": 8665,
+  "feature_bytes": 24604
+ },
+ {
+  "slug": "freelance-client-tracker",
+  "name": "Freelance Client Tracker",
+  "category": "Career & jobs",
+  "logo_bytes": 9808,
+  "feature_bytes": 24491
+ },
+ {
+  "slug": "freelance-project-tracker",
+  "name": "Freelance Project Tracker",
+  "category": "Career & jobs",
+  "logo_bytes": 7775,
+  "feature_bytes": 22409
+ },
+ {
+  "slug": "proposal-template-freelance",
+  "name": "Proposal Template Freelance",
+  "category": "Career & jobs",
+  "logo_bytes": 7787,
+  "feature_bytes": 25150
+ },
+ {
+  "slug": "rate-card-builder",
+  "name": "Rate Card Builder",
+  "category": "Career & jobs",
+  "logo_bytes": 12033,
+  "feature_bytes": 26342
+ },
+ {
+  "slug": "availability-calendar-freelance",
+  "name": "Availability Calendar Freelance",
+  "category": "Career & jobs",
+  "logo_bytes": 12589,
+  "feature_bytes": 32135
+ },
+ {
+  "slug": "invoice-reminder-schedule",
+  "name": "Invoice Reminder Schedule",
+  "category": "Career & jobs",
+  "logo_bytes": 8714,
+  "feature_bytes": 27052
+ },
+ {
+  "slug": "client-onboarding-checklist",
+  "name": "Client Onboarding Checklist",
+  "category": "Career & jobs",
+  "logo_bytes": 13674,
+  "feature_bytes": 35004
+ },
+ {
+  "slug": "job-search-daily-planner",
+  "name": "Job Search Daily Planner",
+  "category": "Career & jobs",
+  "logo_bytes": 11162,
+  "feature_bytes": 29020
+ },
+ {
+  "slug": "application-deadline-tracker",
+  "name": "Application Deadline Tracker",
+  "category": "Career & jobs",
+  "logo_bytes": 11677,
+  "feature_bytes": 30739
+ },
+ {
+  "slug": "recruiter-contact-log",
+  "name": "Recruiter Contact Log",
+  "category": "Career & jobs",
+  "logo_bytes": 12033,
+  "feature_bytes": 27457
+ },
+ {
+  "slug": "reference-list-builder",
+  "name": "Reference List Builder",
+  "category": "Career & jobs",
+  "logo_bytes": 8748,
+  "feature_bytes": 22420
+ },
+ {
+  "slug": "thank-you-note-interview",
+  "name": "Thank You Note Interview",
+  "category": "Career & jobs",
+  "logo_bytes": 8766,
+  "feature_bytes": 24284
+ },
+ {
+  "slug": "salary-history-worksheet",
+  "name": "Salary History Worksheet",
+  "category": "Career & jobs",
+  "logo_bytes": 10471,
+  "feature_bytes": 28157
+ },
+ {
+  "slug": "benefits-comparator-jobs",
+  "name": "Benefits Comparator Jobs",
+  "category": "Career & jobs",
+  "logo_bytes": 11901,
+  "feature_bytes": 30384
+ },
+ {
+  "slug": "commute-cost-calculator",
+  "name": "Commute Cost Calculator",
+  "category": "Career & jobs",
+  "logo_bytes": 9886,
+  "feature_bytes": 26076
+ },
+ {
+  "slug": "relocation-cost-estimator",
+  "name": "Relocation Cost Estimator",
+  "category": "Career & jobs",
+  "logo_bytes": 12033,
+  "feature_bytes": 29592
+ },
+ {
+  "slug": "work-from-home-setup-checklist",
+  "name": "Work From Home Setup Checklist",
+  "category": "Career & jobs",
+  "logo_bytes": 10408,
+  "feature_bytes": 31217
+ },
+ {
+  "slug": "ergonomic-desk-checklist",
+  "name": "Ergonomic Desk Checklist",
+  "category": "Career & jobs",
+  "logo_bytes": 8875,
+  "feature_bytes": 25118
+ },
+ {
+  "slug": "burnout-self-check",
+  "name": "Burnout Self Check",
+  "category": "Career & jobs",
+  "logo_bytes": 12700,
+  "feature_bytes": 28141
+ },
+ {
+  "slug": "work-life-balance-tracker",
+  "name": "Work Life Balance Tracker",
+  "category": "Career & jobs",
+  "logo_bytes": 10353,
+  "feature_bytes": 25770
+ },
+ {
+  "slug": "meeting-free-day-planner",
+  "name": "Meeting Free Day Planner",
+  "category": "Career & jobs",
+  "logo_bytes": 8502,
+  "feature_bytes": 22938
+ },
+ {
   "slug": "social-media-caption-generator",
   "name": "Social Media Caption Generator",
   "category": "Marketing & social",
   "logo_bytes": 13382,
   "feature_bytes": 34108
+ },
+ {
+  "slug": "hashtag-finder-tool",
+  "name": "Hashtag Finder Tool",
+  "category": "Marketing & social",
+  "logo_bytes": 7528,
+  "feature_bytes": 18722
+ },
+ {
+  "slug": "content-calendar-planner",
+  "name": "Content Calendar Planner",
+  "category": "Marketing & social",
+  "logo_bytes": 10871,
+  "feature_bytes": 27662
+ },
+ {
+  "slug": "blog-idea-generator",
+  "name": "Blog Idea Generator",
+  "category": "Marketing & social",
+  "logo_bytes": 9661,
+  "feature_bytes": 24885
+ },
+ {
+  "slug": "email-subject-line-tester",
+  "name": "Email Subject Line Tester",
+  "category": "Marketing & social",
+  "logo_bytes": 11426,
+  "feature_bytes": 26047
+ },
+ {
+  "slug": "newsletter-signup-form-builder",
+  "name": "Newsletter Signup Form Builder",
+  "category": "Marketing & social",
+  "logo_bytes": 13006,
+  "feature_bytes": 32350
+ },
+ {
+  "slug": "landing-page-copy-checklist",
+  "name": "Landing Page Copy Checklist",
+  "category": "Marketing & social",
+  "logo_bytes": 8893,
+  "feature_bytes": 26299
+ },
+ {
+  "slug": "seo-title-checker",
+  "name": "SEO Title Checker",
+  "category": "Marketing & social",
+  "logo_bytes": 11405,
+  "feature_bytes": 24900
+ },
+ {
+  "slug": "meta-description-checker",
+  "name": "Meta Description Checker",
+  "category": "Marketing & social",
+  "logo_bytes": 11823,
+  "feature_bytes": 29565
+ },
+ {
+  "slug": "keyword-idea-bank",
+  "name": "Keyword Idea Bank",
+  "category": "Marketing & social",
+  "logo_bytes": 9687,
+  "feature_bytes": 24570
+ },
+ {
+  "slug": "ad-copy-generator",
+  "name": "Ad Copy Generator",
+  "category": "Marketing & social",
+  "logo_bytes": 13533,
+  "feature_bytes": 30004
+ },
+ {
+  "slug": "facebook-ad-size-guide",
+  "name": "Facebook Ad Size Guide",
+  "category": "Marketing & social",
+  "logo_bytes": 10369,
+  "feature_bytes": 27518
+ },
+ {
+  "slug": "instagram-caption-bank",
+  "name": "Instagram Caption Bank",
+  "category": "Marketing & social",
+  "logo_bytes": 10744,
+  "feature_bytes": 26717
+ },
+ {
+  "slug": "tiktok-idea-bank",
+  "name": "TikTok Idea Bank",
+  "category": "Marketing & social",
+  "logo_bytes": 7482,
+  "feature_bytes": 18725
+ },
+ {
+  "slug": "youtube-title-generator",
+  "name": "YouTube Title Generator",
+  "category": "Marketing & social",
+  "logo_bytes": 9792,
+  "feature_bytes": 24109
+ },
+ {
+  "slug": "youtube-description-builder",
+  "name": "YouTube Description Builder",
+  "category": "Marketing & social",
+  "logo_bytes": 12133,
+  "feature_bytes": 30874
+ },
+ {
+  "slug": "podcast-show-notes-builder",
+  "name": "Podcast Show Notes Builder",
+  "category": "Marketing & social",
+  "logo_bytes": 12729,
+  "feature_bytes": 32581
+ },
+ {
+  "slug": "webinar-title-generator",
+  "name": "Webinar Title Generator",
+  "category": "Marketing & social",
+  "logo_bytes": 11289,
+  "feature_bytes": 26705
+ },
+ {
+  "slug": "lead-magnet-idea-bank",
+  "name": "Lead Magnet Idea Bank",
+  "category": "Marketing & social",
+  "logo_bytes": 9501,
+  "feature_bytes": 24109
+ },
+ {
+  "slug": "opt-in-form-builder",
+  "name": "Opt In Form Builder",
+  "category": "Marketing & social",
+  "logo_bytes": 11788,
+  "feature_bytes": 25445
+ },
+ {
+  "slug": "survey-question-builder",
+  "name": "Survey Question Builder",
+  "category": "Marketing & social",
+  "logo_bytes": 15793,
+  "feature_bytes": 35442
+ },
+ {
+  "slug": "poll-maker-simple",
+  "name": "Poll Maker Simple",
+  "category": "Marketing & social",
+  "logo_bytes": 10915,
+  "feature_bytes": 24244
+ },
+ {
+  "slug": "contest-idea-bank",
+  "name": "Contest Idea Bank",
+  "category": "Marketing & social",
+  "logo_bytes": 10745,
+  "feature_bytes": 25029
+ },
+ {
+  "slug": "giveaway-picker-tool",
+  "name": "Giveaway Picker Tool",
+  "category": "Marketing & social",
+  "logo_bytes": 12110,
+  "feature_bytes": 27528
+ },
+ {
+  "slug": "referral-program-planner",
+  "name": "Referral Program Planner",
+  "category": "Marketing & social",
+  "logo_bytes": 11090,
+  "feature_bytes": 27113
+ },
+ {
+  "slug": "affiliate-link-organizer",
+  "name": "Affiliate Link Organizer",
+  "category": "Marketing & social",
+  "logo_bytes": 10324,
+  "feature_bytes": 25693
+ },
+ {
+  "slug": "influencer-outreach-tracker",
+  "name": "Influencer Outreach Tracker",
+  "category": "Marketing & social",
+  "logo_bytes": 11787,
+  "feature_bytes": 29229
+ },
+ {
+  "slug": "brand-voice-worksheet",
+  "name": "Brand Voice Worksheet",
+  "category": "Marketing & social",
+  "logo_bytes": 12614,
+  "feature_bytes": 31408
+ },
+ {
+  "slug": "customer-persona-builder",
+  "name": "Customer Persona Builder",
+  "category": "Marketing & social",
+  "logo_bytes": 12076,
+  "feature_bytes": 30221
+ },
+ {
+  "slug": "competitor-analysis-sheet",
+  "name": "Competitor Analysis Sheet",
+  "category": "Marketing & social",
+  "logo_bytes": 13520,
+  "feature_bytes": 31601
+ },
+ {
+  "slug": "marketing-budget-planner",
+  "name": "Marketing Budget Planner",
+  "category": "Marketing & social",
+  "logo_bytes": 11630,
+  "feature_bytes": 28274
+ },
+ {
+  "slug": "campaign-timeline-builder",
+  "name": "Campaign Timeline Builder",
+  "category": "Marketing & social",
+  "logo_bytes": 10768,
+  "feature_bytes": 26674
+ },
+ {
+  "slug": "launch-checklist-product",
+  "name": "Launch Checklist Product",
+  "category": "Marketing & social",
+  "logo_bytes": 10765,
+  "feature_bytes": 27664
+ },
+ {
+  "slug": "product-hunt-launch-checklist",
+  "name": "Product Hunt Launch Checklist",
+  "category": "Marketing & social",
+  "logo_bytes": 8917,
+  "feature_bytes": 25533
+ },
+ {
+  "slug": "press-kit-builder",
+  "name": "Press Kit Builder",
+  "category": "Marketing & social",
+  "logo_bytes": 11122,
+  "feature_bytes": 23661
+ },
+ {
+  "slug": "media-contact-list",
+  "name": "Media Contact List",
+  "category": "Marketing & social",
+  "logo_bytes": 12725,
+  "feature_bytes": 25775
+ },
+ {
+  "slug": "testimonial-request-letter",
+  "name": "Testimonial Request Letter",
+  "category": "Marketing & social",
+  "logo_bytes": 9789,
+  "feature_bytes": 24727
+ },
+ {
+  "slug": "review-request-template",
+  "name": "Review Request Template",
+  "category": "Marketing & social",
+  "logo_bytes": 9961,
+  "feature_bytes": 24704
+ },
+ {
+  "slug": "google-review-reply-helper",
+  "name": "Google Review Reply Helper",
+  "category": "Marketing & social",
+  "logo_bytes": 12893,
+  "feature_bytes": 29891
+ },
+ {
+  "slug": "social-proof-tracker",
+  "name": "Social Proof Tracker",
+  "category": "Marketing & social",
+  "logo_bytes": 12734,
+  "feature_bytes": 27126
+ },
+ {
+  "slug": "engagement-rate-calculator",
+  "name": "Engagement Rate Calculator",
+  "category": "Marketing & social",
+  "logo_bytes": 9812,
+  "feature_bytes": 25861
+ },
+ {
+  "slug": "follower-growth-tracker",
+  "name": "Follower Growth Tracker",
+  "category": "Marketing & social",
+  "logo_bytes": 10819,
+  "feature_bytes": 26776
+ },
+ {
+  "slug": "best-time-to-post-planner",
+  "name": "Best Time To Post Planner",
+  "category": "Marketing & social",
+  "logo_bytes": 9702,
+  "feature_bytes": 24721
+ },
+ {
+  "slug": "social-media-audit-checklist",
+  "name": "Social Media Audit Checklist",
+  "category": "Marketing & social",
+  "logo_bytes": 13382,
+  "feature_bytes": 31974
+ },
+ {
+  "slug": "content-repurposing-planner",
+  "name": "Content Repurposing Planner",
+  "category": "Marketing & social",
+  "logo_bytes": 12891,
+  "feature_bytes": 32146
+ },
+ {
+  "slug": "video-hook-generator",
+  "name": "Video Hook Generator",
+  "category": "Marketing & social",
+  "logo_bytes": 10504,
+  "feature_bytes": 25253
+ },
+ {
+  "slug": "cta-generator-tool",
+  "name": "CTA Generator Tool",
+  "category": "Marketing & social",
+  "logo_bytes": 12876,
+  "feature_bytes": 26388
+ },
+ {
+  "slug": "slogan-generator-tool",
+  "name": "Slogan Generator Tool",
+  "category": "Marketing & social",
+  "logo_bytes": 14259,
+  "feature_bytes": 30195
+ },
+ {
+  "slug": "tagline-generator-tool",
+  "name": "Tagline Generator Tool",
+  "category": "Marketing & social",
+  "logo_bytes": 10792,
+  "feature_bytes": 24343
+ },
+ {
+  "slug": "qr-code-menu-maker",
+  "name": "QR Code Menu Maker",
+  "category": "Marketing & social",
+  "logo_bytes": 15016,
+  "feature_bytes": 32406
  },
  {
   "slug": "qr-code-generator",
@@ -119,11 +5607,697 @@
   "feature_bytes": 33223
  },
  {
+  "slug": "json-formatter-validator",
+  "name": "JSON Formatter Validator",
+  "category": "Developers & web",
+  "logo_bytes": 8446,
+  "feature_bytes": 25492
+ },
+ {
+  "slug": "base64-encoder-decoder",
+  "name": "Base64 Encoder Decoder",
+  "category": "Developers & web",
+  "logo_bytes": 9983,
+  "feature_bytes": 28812
+ },
+ {
+  "slug": "url-encoder-decoder",
+  "name": "URL Encoder Decoder",
+  "category": "Developers & web",
+  "logo_bytes": 9420,
+  "feature_bytes": 24836
+ },
+ {
+  "slug": "html-entity-encoder",
+  "name": "HTML Entity Encoder",
+  "category": "Developers & web",
+  "logo_bytes": 7683,
+  "feature_bytes": 19002
+ },
+ {
+  "slug": "markdown-preview-tool",
+  "name": "Markdown Preview Tool",
+  "category": "Developers & web",
+  "logo_bytes": 11232,
+  "feature_bytes": 26866
+ },
+ {
+  "slug": "regex-tester-tool",
+  "name": "Regex Tester Tool",
+  "category": "Developers & web",
+  "logo_bytes": 10093,
+  "feature_bytes": 21995
+ },
+ {
+  "slug": "css-gradient-inspector",
+  "name": "CSS Gradient Inspector",
+  "category": "Developers & web",
+  "logo_bytes": 13441,
+  "feature_bytes": 31668
+ },
+ {
+  "slug": "color-contrast-tester-dev",
+  "name": "Color Contrast Tester Dev",
+  "category": "Developers & web",
+  "logo_bytes": 11245,
+  "feature_bytes": 25975
+ },
+ {
+  "slug": "px-to-rem-converter",
+  "name": "PX to REM Converter",
+  "category": "Developers & web",
+  "logo_bytes": 9122,
+  "feature_bytes": 23672
+ },
+ {
+  "slug": "px-to-em-converter",
+  "name": "PX to EM Converter",
+  "category": "Developers & web",
+  "logo_bytes": 9122,
+  "feature_bytes": 22875
+ },
+ {
+  "slug": "viewport-size-checker",
+  "name": "Viewport Size Checker",
+  "category": "Developers & web",
+  "logo_bytes": 14947,
+  "feature_bytes": 32593
+ },
+ {
+  "slug": "screen-resolution-tester",
+  "name": "Screen Resolution Tester",
+  "category": "Developers & web",
+  "logo_bytes": 14245,
+  "feature_bytes": 31037
+ },
+ {
+  "slug": "lorem-ipsum-generator",
+  "name": "Lorem Ipsum Generator",
+  "category": "Developers & web",
+  "logo_bytes": 7586,
+  "feature_bytes": 22369
+ },
+ {
+  "slug": "uuid-generator-tool",
+  "name": "UUID Generator Tool",
+  "category": "Developers & web",
+  "logo_bytes": 12628,
+  "feature_bytes": 25374
+ },
+ {
+  "slug": "timestamp-converter",
+  "name": "Timestamp Converter",
+  "category": "Developers & web",
+  "logo_bytes": 11129,
+  "feature_bytes": 26010
+ },
+ {
+  "slug": "unix-time-converter",
+  "name": "Unix Time Converter",
+  "category": "Developers & web",
+  "logo_bytes": 9395,
+  "feature_bytes": 22806
+ },
+ {
+  "slug": "cron-expression-explainer",
+  "name": "Cron Expression Explainer",
+  "category": "Developers & web",
+  "logo_bytes": 11168,
+  "feature_bytes": 29788
+ },
+ {
+  "slug": "jwt-decoder-tool",
+  "name": "JWT Decoder Tool",
+  "category": "Developers & web",
+  "logo_bytes": 10882,
+  "feature_bytes": 23912
+ },
+ {
+  "slug": "hash-generator-tool",
+  "name": "Hash Generator Tool",
+  "category": "Developers & web",
+  "logo_bytes": 11185,
+  "feature_bytes": 23302
+ },
+ {
+  "slug": "md5-sha-checksum-tool",
+  "name": "MD5 SHA Checksum Tool",
+  "category": "Developers & web",
+  "logo_bytes": 13924,
+  "feature_bytes": 30701
+ },
+ {
+  "slug": "diff-checker-text",
+  "name": "Diff Checker Text",
+  "category": "Developers & web",
+  "logo_bytes": 13565,
+  "feature_bytes": 26373
+ },
+ {
+  "slug": "text-case-converter",
+  "name": "Text Case Converter",
+  "category": "Developers & web",
+  "logo_bytes": 11129,
+  "feature_bytes": 26553
+ },
+ {
+  "slug": "slug-generator-tool",
+  "name": "Slug Generator Tool",
+  "category": "Developers & web",
+  "logo_bytes": 14876,
+  "feature_bytes": 29735
+ },
+ {
+  "slug": "sitemap-checker-guide",
+  "name": "Sitemap Checker Guide",
+  "category": "Developers & web",
+  "logo_bytes": 14925,
+  "feature_bytes": 32727
+ },
+ {
+  "slug": "robots-txt-builder",
+  "name": "Robots Txt Builder",
+  "category": "Developers & web",
+  "logo_bytes": 10093,
+  "feature_bytes": 23500
+ },
+ {
+  "slug": "htaccess-redirect-generator",
+  "name": "Htaccess Redirect Generator",
+  "category": "Developers & web",
+  "logo_bytes": 10095,
+  "feature_bytes": 28198
+ },
+ {
+  "slug": "ssl-expiry-checklist",
+  "name": "SSL Expiry Checklist",
+  "category": "Developers & web",
+  "logo_bytes": 11832,
+  "feature_bytes": 27056
+ },
+ {
+  "slug": "dns-record-checklist",
+  "name": "DNS Record Checklist",
+  "category": "Developers & web",
+  "logo_bytes": 12639,
+  "feature_bytes": 30224
+ },
+ {
+  "slug": "http-status-code-finder",
+  "name": "HTTP Status Code Finder",
+  "category": "Developers & web",
+  "logo_bytes": 11821,
+  "feature_bytes": 26148
+ },
+ {
+  "slug": "api-response-formatter",
+  "name": "API Response Formatter",
+  "category": "Developers & web",
+  "logo_bytes": 12923,
+  "feature_bytes": 29663
+ },
+ {
+  "slug": "webhook-payload-builder",
+  "name": "Webhook Payload Builder",
+  "category": "Developers & web",
+  "logo_bytes": 13195,
+  "feature_bytes": 30705
+ },
+ {
+  "slug": "curl-command-builder",
+  "name": "Curl Command Builder",
+  "category": "Developers & web",
+  "logo_bytes": 11245,
+  "feature_bytes": 25660
+ },
+ {
+  "slug": "git-cheat-sheet-interactive",
+  "name": "Git Cheat Sheet Interactive",
+  "category": "Developers & web",
+  "logo_bytes": 13441,
+  "feature_bytes": 29526
+ },
+ {
+  "slug": "gitignore-generator",
+  "name": "Gitignore Generator",
+  "category": "Developers & web",
+  "logo_bytes": 11166,
+  "feature_bytes": 26475
+ },
+ {
+  "slug": "license-picker-tool",
+  "name": "License Picker Tool",
+  "category": "Developers & web",
+  "logo_bytes": 9098,
+  "feature_bytes": 19661
+ },
+ {
+  "slug": "changelog-builder",
+  "name": "Changelog Builder",
+  "category": "Developers & web",
+  "logo_bytes": 13312,
+  "feature_bytes": 27826
+ },
+ {
+  "slug": "readme-template-builder",
+  "name": "Readme Template Builder",
+  "category": "Developers & web",
+  "logo_bytes": 10093,
+  "feature_bytes": 26568
+ },
+ {
+  "slug": "favicon-checker-tool",
+  "name": "Favicon Checker Tool",
+  "category": "Developers & web",
+  "logo_bytes": 11151,
+  "feature_bytes": 25795
+ },
+ {
+  "slug": "open-graph-preview-tool",
+  "name": "Open Graph Preview Tool",
+  "category": "Developers & web",
+  "logo_bytes": 15204,
+  "feature_bytes": 31873
+ },
+ {
+  "slug": "twitter-card-preview-tool",
+  "name": "Twitter Card Preview Tool",
+  "category": "Developers & web",
+  "logo_bytes": 11129,
+  "feature_bytes": 26917
+ },
+ {
+  "slug": "meta-tag-generator",
+  "name": "Meta Tag Generator",
+  "category": "Developers & web",
+  "logo_bytes": 9816,
+  "feature_bytes": 23970
+ },
+ {
+  "slug": "schema-markup-builder",
+  "name": "Schema Markup Builder",
+  "category": "Developers & web",
+  "logo_bytes": 13910,
+  "feature_bytes": 30183
+ },
+ {
+  "slug": "accessibility-checklist-dev",
+  "name": "Accessibility Checklist Dev",
+  "category": "Developers & web",
+  "logo_bytes": 14012,
+  "feature_bytes": 32829
+ },
+ {
+  "slug": "performance-budget-planner",
+  "name": "Performance Budget Planner",
+  "category": "Developers & web",
+  "logo_bytes": 11392,
+  "feature_bytes": 29043
+ },
+ {
+  "slug": "image-size-budget-planner",
+  "name": "Image Size Budget Planner",
+  "category": "Developers & web",
+  "logo_bytes": 11777,
+  "feature_bytes": 29539
+ },
+ {
+  "slug": "font-loading-checklist",
+  "name": "Font Loading Checklist",
+  "category": "Developers & web",
+  "logo_bytes": 7646,
+  "feature_bytes": 22059
+ },
+ {
+  "slug": "cookie-consent-text-builder",
+  "name": "Cookie Consent Text Builder",
+  "category": "Developers & web",
+  "logo_bytes": 11245,
+  "feature_bytes": 26926
+ },
+ {
+  "slug": "keyboard-shortcut-cheat-sheet",
+  "name": "Keyboard Shortcut Cheat Sheet",
+  "category": "Developers & web",
+  "logo_bytes": 14477,
+  "feature_bytes": 37276
+ },
+ {
+  "slug": "ascii-table-finder",
+  "name": "ASCII Table Finder",
+  "category": "Developers & web",
+  "logo_bytes": 10609,
+  "feature_bytes": 24610
+ },
+ {
   "slug": "csv-to-table-viewer",
   "name": "CSV to Table Viewer",
   "category": "Data & files",
   "logo_bytes": 9021,
   "feature_bytes": 26050
+ },
+ {
+  "slug": "csv-to-json-converter",
+  "name": "CSV to JSON Converter",
+  "category": "Data & files",
+  "logo_bytes": 9021,
+  "feature_bytes": 27184
+ },
+ {
+  "slug": "json-to-csv-converter",
+  "name": "JSON to CSV Converter",
+  "category": "Data & files",
+  "logo_bytes": 6215,
+  "feature_bytes": 23661
+ },
+ {
+  "slug": "csv-cleaner-tool",
+  "name": "CSV Cleaner Tool",
+  "category": "Data & files",
+  "logo_bytes": 9126,
+  "feature_bytes": 22379
+ },
+ {
+  "slug": "duplicate-finder-csv",
+  "name": "Duplicate Finder CSV",
+  "category": "Data & files",
+  "logo_bytes": 8055,
+  "feature_bytes": 24711
+ },
+ {
+  "slug": "file-renamer-bulk",
+  "name": "File Renamer Bulk",
+  "category": "Data & files",
+  "logo_bytes": 7920,
+  "feature_bytes": 19444
+ },
+ {
+  "slug": "file-size-converter",
+  "name": "File Size Converter",
+  "category": "Data & files",
+  "logo_bytes": 9646,
+  "feature_bytes": 23339
+ },
+ {
+  "slug": "pdf-page-counter-guide",
+  "name": "PDF Page Counter Guide",
+  "category": "Data & files",
+  "logo_bytes": 7007,
+  "feature_bytes": 23314
+ },
+ {
+  "slug": "pdf-merger-planner",
+  "name": "PDF Merger Planner",
+  "category": "Data & files",
+  "logo_bytes": 9122,
+  "feature_bytes": 22165
+ },
+ {
+  "slug": "pdf-splitter-planner",
+  "name": "PDF Splitter Planner",
+  "category": "Data & files",
+  "logo_bytes": 11053,
+  "feature_bytes": 25592
+ },
+ {
+  "slug": "image-to-pdf-converter",
+  "name": "Image to PDF Converter",
+  "category": "Data & files",
+  "logo_bytes": 5378,
+  "feature_bytes": 21917
+ },
+ {
+  "slug": "text-to-pdf-maker",
+  "name": "Text to PDF Maker",
+  "category": "Data & files",
+  "logo_bytes": 5355,
+  "feature_bytes": 18745
+ },
+ {
+  "slug": "spreadsheet-formula-finder",
+  "name": "Spreadsheet Formula Finder",
+  "category": "Data & files",
+  "logo_bytes": 9652,
+  "feature_bytes": 28301
+ },
+ {
+  "slug": "pivot-table-guide",
+  "name": "Pivot Table Guide",
+  "category": "Data & files",
+  "logo_bytes": 6918,
+  "feature_bytes": 21113
+ },
+ {
+  "slug": "data-cleaning-checklist",
+  "name": "Data Cleaning Checklist",
+  "category": "Data & files",
+  "logo_bytes": 11404,
+  "feature_bytes": 28418
+ },
+ {
+  "slug": "survey-results-chart-maker",
+  "name": "Survey Results Chart Maker",
+  "category": "Data & files",
+  "logo_bytes": 12077,
+  "feature_bytes": 30802
+ },
+ {
+  "slug": "attendance-percentage-calculator",
+  "name": "Attendance Percentage Calculator",
+  "category": "Data & files",
+  "logo_bytes": 9944,
+  "feature_bytes": 31734
+ },
+ {
+  "slug": "budget-tracker-spreadsheet",
+  "name": "Budget Tracker Spreadsheet",
+  "category": "Data & files",
+  "logo_bytes": 7844,
+  "feature_bytes": 27627
+ },
+ {
+  "slug": "inventory-spreadsheet-builder",
+  "name": "Inventory Spreadsheet Builder",
+  "category": "Data & files",
+  "logo_bytes": 9611,
+  "feature_bytes": 30976
+ },
+ {
+  "slug": "contact-list-organizer",
+  "name": "Contact List Organizer",
+  "category": "Data & files",
+  "logo_bytes": 9011,
+  "feature_bytes": 26190
+ },
+ {
+  "slug": "address-label-maker",
+  "name": "Address Label Maker",
+  "category": "Data & files",
+  "logo_bytes": 8545,
+  "feature_bytes": 24219
+ },
+ {
+  "slug": "envelope-address-printer",
+  "name": "Envelope Address Printer",
+  "category": "Data & files",
+  "logo_bytes": 8614,
+  "feature_bytes": 24560
+ },
+ {
+  "slug": "barcode-generator-tool",
+  "name": "Barcode Generator Tool",
+  "category": "Data & files",
+  "logo_bytes": 11226,
+  "feature_bytes": 28034
+ },
+ {
+  "slug": "file-organizer-plan",
+  "name": "File Organizer Plan",
+  "category": "Data & files",
+  "logo_bytes": 10107,
+  "feature_bytes": 23672
+ },
+ {
+  "slug": "digital-declutter-checklist",
+  "name": "Digital Declutter Checklist",
+  "category": "Data & files",
+  "logo_bytes": 8251,
+  "feature_bytes": 25657
+ },
+ {
+  "slug": "photo-organizer-plan",
+  "name": "Photo Organizer Plan",
+  "category": "Data & files",
+  "logo_bytes": 11424,
+  "feature_bytes": 26223
+ },
+ {
+  "slug": "backup-checklist-personal",
+  "name": "Backup Checklist Personal",
+  "category": "Data & files",
+  "logo_bytes": 11190,
+  "feature_bytes": 32195
+ },
+ {
+  "slug": "document-scanner-checklist",
+  "name": "Document Scanner Checklist",
+  "category": "Data & files",
+  "logo_bytes": 12053,
+  "feature_bytes": 33320
+ },
+ {
+  "slug": "receipt-organizer",
+  "name": "Receipt Organizer",
+  "category": "Data & files",
+  "logo_bytes": 12310,
+  "feature_bytes": 27729
+ },
+ {
+  "slug": "warranty-tracker-home",
+  "name": "Warranty Tracker Home",
+  "category": "Data & files",
+  "logo_bytes": 9668,
+  "feature_bytes": 25538
+ },
+ {
+  "slug": "subscription-renewal-tracker",
+  "name": "Subscription Renewal Tracker",
+  "category": "Data & files",
+  "logo_bytes": 12077,
+  "feature_bytes": 32772
+ },
+ {
+  "slug": "library-book-tracker",
+  "name": "Library Book Tracker",
+  "category": "Data & files",
+  "logo_bytes": 7812,
+  "feature_bytes": 22771
+ },
+ {
+  "slug": "movie-watchlist-tracker",
+  "name": "Movie Watchlist Tracker",
+  "category": "Data & files",
+  "logo_bytes": 11611,
+  "feature_bytes": 28818
+ },
+ {
+  "slug": "music-collection-tracker",
+  "name": "Music Collection Tracker",
+  "category": "Data & files",
+  "logo_bytes": 11135,
+  "feature_bytes": 27923
+ },
+ {
+  "slug": "vinyl-collection-tracker",
+  "name": "Vinyl Collection Tracker",
+  "category": "Data & files",
+  "logo_bytes": 12100,
+  "feature_bytes": 29066
+ },
+ {
+  "slug": "book-collection-tracker",
+  "name": "Book Collection Tracker",
+  "category": "Data & files",
+  "logo_bytes": 11190,
+  "feature_bytes": 27167
+ },
+ {
+  "slug": "stamp-collection-tracker",
+  "name": "Stamp Collection Tracker",
+  "category": "Data & files",
+  "logo_bytes": 12808,
+  "feature_bytes": 32308
+ },
+ {
+  "slug": "coin-collection-tracker",
+  "name": "Coin Collection Tracker",
+  "category": "Data & files",
+  "logo_bytes": 9126,
+  "feature_bytes": 23428
+ },
+ {
+  "slug": "trading-card-tracker",
+  "name": "Trading Card Tracker",
+  "category": "Data & files",
+  "logo_bytes": 9016,
+  "feature_bytes": 23625
+ },
+ {
+  "slug": "gift-list-tracker",
+  "name": "Gift List Tracker",
+  "category": "Data & files",
+  "logo_bytes": 9017,
+  "feature_bytes": 20900
+ },
+ {
+  "slug": "wish-list-builder",
+  "name": "Wish List Builder",
+  "category": "Data & files",
+  "logo_bytes": 9666,
+  "feature_bytes": 22032
+ },
+ {
+  "slug": "comparison-table-builder",
+  "name": "Comparison Table Builder",
+  "category": "Data & files",
+  "logo_bytes": 9021,
+  "feature_bytes": 26330
+ },
+ {
+  "slug": "pros-cons-table-builder",
+  "name": "Pros Cons Table Builder",
+  "category": "Data & files",
+  "logo_bytes": 10401,
+  "feature_bytes": 27364
+ },
+ {
+  "slug": "timeline-builder-events",
+  "name": "Timeline Builder Events",
+  "category": "Data & files",
+  "logo_bytes": 7842,
+  "feature_bytes": 21360
+ },
+ {
+  "slug": "family-tree-data-organizer",
+  "name": "Family Tree Data Organizer",
+  "category": "Data & files",
+  "logo_bytes": 5422,
+  "feature_bytes": 21762
+ },
+ {
+  "slug": "medical-records-organizer",
+  "name": "Medical Records Organizer",
+  "category": "Data & files",
+  "logo_bytes": 10059,
+  "feature_bytes": 31281
+ },
+ {
+  "slug": "vaccination-record-tracker",
+  "name": "Vaccination Record Tracker",
+  "category": "Data & files",
+  "logo_bytes": 11027,
+  "feature_bytes": 28683
+ },
+ {
+  "slug": "pet-records-organizer",
+  "name": "Pet Records Organizer",
+  "category": "Data & files",
+  "logo_bytes": 9309,
+  "feature_bytes": 27403
+ },
+ {
+  "slug": "vehicle-records-organizer",
+  "name": "Vehicle Records Organizer",
+  "category": "Data & files",
+  "logo_bytes": 11027,
+  "feature_bytes": 30700
+ },
+ {
+  "slug": "home-records-organizer",
+  "name": "Home Records Organizer",
+  "category": "Data & files",
+  "logo_bytes": 7929,
+  "feature_bytes": 25749
  },
  {
   "slug": "secure-password-generator",
@@ -133,10 +6307,696 @@
   "feature_bytes": 33953
  },
  {
+  "slug": "password-strength-checker",
+  "name": "Password Strength Checker",
+  "category": "Security & privacy",
+  "logo_bytes": 13388,
+  "feature_bytes": 33998
+ },
+ {
+  "slug": "passphrase-generator",
+  "name": "Passphrase Generator",
+  "category": "Security & privacy",
+  "logo_bytes": 12741,
+  "feature_bytes": 28146
+ },
+ {
+  "slug": "pin-generator-tool",
+  "name": "PIN Generator Tool",
+  "category": "Security & privacy",
+  "logo_bytes": 12741,
+  "feature_bytes": 25137
+ },
+ {
+  "slug": "two-factor-setup-checklist",
+  "name": "Two Factor Setup Checklist",
+  "category": "Security & privacy",
+  "logo_bytes": 7849,
+  "feature_bytes": 24833
+ },
+ {
+  "slug": "account-security-audit",
+  "name": "Account Security Audit",
+  "category": "Security & privacy",
+  "logo_bytes": 14992,
+  "feature_bytes": 31619
+ },
+ {
+  "slug": "data-breach-checklist",
+  "name": "Data Breach Checklist",
+  "category": "Security & privacy",
+  "logo_bytes": 12551,
+  "feature_bytes": 28172
+ },
+ {
+  "slug": "phishing-email-checker-guide",
+  "name": "Phishing Email Checker Guide",
+  "category": "Security & privacy",
+  "logo_bytes": 9290,
+  "feature_bytes": 25635
+ },
+ {
+  "slug": "scam-call-checklist",
+  "name": "Scam Call Checklist",
+  "category": "Security & privacy",
+  "logo_bytes": 15088,
+  "feature_bytes": 31434
+ },
+ {
+  "slug": "privacy-settings-checklist",
+  "name": "Privacy Settings Checklist",
+  "category": "Security & privacy",
+  "logo_bytes": 13388,
+  "feature_bytes": 34122
+ },
+ {
+  "slug": "social-media-privacy-audit",
+  "name": "Social Media Privacy Audit",
+  "category": "Security & privacy",
+  "logo_bytes": 14066,
+  "feature_bytes": 32352
+ },
+ {
+  "slug": "browser-privacy-checklist",
+  "name": "Browser Privacy Checklist",
+  "category": "Security & privacy",
+  "logo_bytes": 11571,
+  "feature_bytes": 31722
+ },
+ {
+  "slug": "cookie-cleanup-guide",
+  "name": "Cookie Cleanup Guide",
+  "category": "Security & privacy",
+  "logo_bytes": 11438,
+  "feature_bytes": 26665
+ },
+ {
+  "slug": "vpn-needs-checklist",
+  "name": "VPN Needs Checklist",
+  "category": "Security & privacy",
+  "logo_bytes": 12462,
+  "feature_bytes": 28420
+ },
+ {
+  "slug": "wifi-security-checklist",
+  "name": "WiFi Security Checklist",
+  "category": "Security & privacy",
+  "logo_bytes": 16095,
+  "feature_bytes": 32856
+ },
+ {
+  "slug": "public-wifi-safety-guide",
+  "name": "Public WiFi Safety Guide",
+  "category": "Security & privacy",
+  "logo_bytes": 13337,
+  "feature_bytes": 29869
+ },
+ {
+  "slug": "device-lost-checklist",
+  "name": "Device Lost Checklist",
+  "category": "Security & privacy",
+  "logo_bytes": 10339,
+  "feature_bytes": 26302
+ },
+ {
+  "slug": "phone-lockdown-guide",
+  "name": "Phone Lockdown Guide",
+  "category": "Security & privacy",
+  "logo_bytes": 9257,
+  "feature_bytes": 25527
+ },
+ {
+  "slug": "child-online-safety-guide",
+  "name": "Child Online Safety Guide",
+  "category": "Security & privacy",
+  "logo_bytes": 15370,
+  "feature_bytes": 33324
+ },
+ {
+  "slug": "parental-controls-checklist",
+  "name": "Parental Controls Checklist",
+  "category": "Security & privacy",
+  "logo_bytes": 12696,
+  "feature_bytes": 31325
+ },
+ {
+  "slug": "safe-browsing-guide-kids",
+  "name": "Safe Browsing Guide Kids",
+  "category": "Security & privacy",
+  "logo_bytes": 14307,
+  "feature_bytes": 34176
+ },
+ {
+  "slug": "email-alias-planner",
+  "name": "Email Alias Planner",
+  "category": "Security & privacy",
+  "logo_bytes": 10837,
+  "feature_bytes": 23058
+ },
+ {
+  "slug": "spam-filter-guide",
+  "name": "Spam Filter Guide",
+  "category": "Security & privacy",
+  "logo_bytes": 11977,
+  "feature_bytes": 25947
+ },
+ {
+  "slug": "identity-theft-checklist",
+  "name": "Identity Theft Checklist",
+  "category": "Security & privacy",
+  "logo_bytes": 7803,
+  "feature_bytes": 21414
+ },
+ {
+  "slug": "credit-freeze-guide",
+  "name": "Credit Freeze Guide",
+  "category": "Security & privacy",
+  "logo_bytes": 11322,
+  "feature_bytes": 24197
+ },
+ {
+  "slug": "fraud-alert-guide",
+  "name": "Fraud Alert Guide",
+  "category": "Security & privacy",
+  "logo_bytes": 10821,
+  "feature_bytes": 24270
+ },
+ {
+  "slug": "document-shredding-checklist",
+  "name": "Document Shredding Checklist",
+  "category": "Security & privacy",
+  "logo_bytes": 14359,
+  "feature_bytes": 35502
+ },
+ {
+  "slug": "safe-combination-tracker",
+  "name": "Safe Combination Tracker",
+  "category": "Security & privacy",
+  "logo_bytes": 15088,
+  "feature_bytes": 34079
+ },
+ {
+  "slug": "emergency-access-plan",
+  "name": "Emergency Access Plan",
+  "category": "Security & privacy",
+  "logo_bytes": 10837,
+  "feature_bytes": 27580
+ },
+ {
+  "slug": "digital-will-checklist",
+  "name": "Digital Will Checklist",
+  "category": "Security & privacy",
+  "logo_bytes": 14340,
+  "feature_bytes": 29142
+ },
+ {
+  "slug": "backup-encryption-guide",
+  "name": "Backup Encryption Guide",
+  "category": "Security & privacy",
+  "logo_bytes": 10156,
+  "feature_bytes": 27966
+ },
+ {
+  "slug": "file-encryption-guide",
+  "name": "File Encryption Guide",
+  "category": "Security & privacy",
+  "logo_bytes": 7825,
+  "feature_bytes": 21338
+ },
+ {
+  "slug": "secure-note-maker",
+  "name": "Secure Note Maker",
+  "category": "Security & privacy",
+  "logo_bytes": 13638,
+  "feature_bytes": 28182
+ },
+ {
+  "slug": "secure-message-drafter",
+  "name": "Secure Message Drafter",
+  "category": "Security & privacy",
+  "logo_bytes": 14066,
+  "feature_bytes": 31243
+ },
+ {
+  "slug": "anonymous-feedback-form-builder",
+  "name": "Anonymous Feedback Form Builder",
+  "category": "Security & privacy",
+  "logo_bytes": 10820,
+  "feature_bytes": 32367
+ },
+ {
+  "slug": "incognito-planning-guide",
+  "name": "Incognito Planning Guide",
+  "category": "Security & privacy",
+  "logo_bytes": 9243,
+  "feature_bytes": 24325
+ },
+ {
+  "slug": "location-sharing-audit",
+  "name": "Location Sharing Audit",
+  "category": "Security & privacy",
+  "logo_bytes": 11956,
+  "feature_bytes": 27534
+ },
+ {
+  "slug": "app-permission-audit",
+  "name": "App Permission Audit",
+  "category": "Security & privacy",
+  "logo_bytes": 12178,
+  "feature_bytes": 27221
+ },
+ {
+  "slug": "smart-device-privacy-audit",
+  "name": "Smart Device Privacy Audit",
+  "category": "Security & privacy",
+  "logo_bytes": 14345,
+  "feature_bytes": 33541
+ },
+ {
+  "slug": "home-camera-privacy-checklist",
+  "name": "Home Camera Privacy Checklist",
+  "category": "Security & privacy",
+  "logo_bytes": 11333,
+  "feature_bytes": 31219
+ },
+ {
+  "slug": "baby-monitor-security-checklist",
+  "name": "Baby Monitor Security Checklist",
+  "category": "Security & privacy",
+  "logo_bytes": 12221,
+  "feature_bytes": 33822
+ },
+ {
+  "slug": "router-password-guide",
+  "name": "Router Password Guide",
+  "category": "Security & privacy",
+  "logo_bytes": 11624,
+  "feature_bytes": 28952
+ },
+ {
+  "slug": "guest-wifi-setup-guide",
+  "name": "Guest WiFi Setup Guide",
+  "category": "Security & privacy",
+  "logo_bytes": 15353,
+  "feature_bytes": 31419
+ },
+ {
+  "slug": "password-manager-migration-plan",
+  "name": "Password Manager Migration Plan",
+  "category": "Security & privacy",
+  "logo_bytes": 11427,
+  "feature_bytes": 32552
+ },
+ {
+  "slug": "old-account-cleanup-list",
+  "name": "Old Account Cleanup List",
+  "category": "Security & privacy",
+  "logo_bytes": 15219,
+  "feature_bytes": 33064
+ },
+ {
+  "slug": "data-deletion-request-letter",
+  "name": "Data Deletion Request Letter",
+  "category": "Security & privacy",
+  "logo_bytes": 10563,
+  "feature_bytes": 24834
+ },
+ {
+  "slug": "gdpr-request-letter-template",
+  "name": "GDPR Request Letter Template",
+  "category": "Security & privacy",
+  "logo_bytes": 13556,
+  "feature_bytes": 30441
+ },
+ {
+  "slug": "credit-card-safety-guide",
+  "name": "Credit Card Safety Guide",
+  "category": "Security & privacy",
+  "logo_bytes": 11438,
+  "feature_bytes": 28547
+ },
+ {
+  "slug": "atm-safety-checklist",
+  "name": "ATM Safety Checklist",
+  "category": "Security & privacy",
+  "logo_bytes": 14992,
+  "feature_bytes": 32433
+ },
+ {
+  "slug": "travel-document-safety-guide",
+  "name": "Travel Document Safety Guide",
+  "category": "Security & privacy",
+  "logo_bytes": 10364,
+  "feature_bytes": 30983
+ },
+ {
   "slug": "unit-converter-pro",
   "name": "Unit Converter Pro",
   "category": "Everyday calculators & life tools",
   "logo_bytes": 13874,
   "feature_bytes": 26686
+ },
+ {
+  "slug": "age-calculator",
+  "name": "Age Calculator",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 15240,
+  "feature_bytes": 28856
+ },
+ {
+  "slug": "date-difference-calculator",
+  "name": "Date Difference Calculator",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 11555,
+  "feature_bytes": 25855
+ },
+ {
+  "slug": "days-until-calculator",
+  "name": "Days Until Calculator",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 13081,
+  "feature_bytes": 27824
+ },
+ {
+  "slug": "birthday-countdown-tool",
+  "name": "Birthday Countdown Tool",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 14514,
+  "feature_bytes": 30000
+ },
+ {
+  "slug": "anniversary-countdown-tool",
+  "name": "Anniversary Countdown Tool",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 15240,
+  "feature_bytes": 32995
+ },
+ {
+  "slug": "zodiac-sign-finder",
+  "name": "Zodiac Sign Finder",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 14962,
+  "feature_bytes": 30230
+ },
+ {
+  "slug": "name-day-finder",
+  "name": "Name Day Finder",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 13014,
+  "feature_bytes": 25537
+ },
+ {
+  "slug": "leap-year-checker",
+  "name": "Leap Year Checker",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 11242,
+  "feature_bytes": 24554
+ },
+ {
+  "slug": "time-zone-converter",
+  "name": "Time Zone Converter",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 10720,
+  "feature_bytes": 24426
+ },
+ {
+  "slug": "world-clock-planner",
+  "name": "World Clock Planner",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 16605,
+  "feature_bytes": 30714
+ },
+ {
+  "slug": "sunrise-sunset-planner",
+  "name": "Sunrise Sunset Planner",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 13087,
+  "feature_bytes": 26338
+ },
+ {
+  "slug": "moon-phase-calendar",
+  "name": "Moon Phase Calendar",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 12385,
+  "feature_bytes": 27542
+ },
+ {
+  "slug": "weather-outfit-planner",
+  "name": "Weather Outfit Planner",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 17506,
+  "feature_bytes": 31552
+ },
+ {
+  "slug": "clothing-size-converter",
+  "name": "Clothing Size Converter",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 16197,
+  "feature_bytes": 34132
+ },
+ {
+  "slug": "shoe-size-converter",
+  "name": "Shoe Size Converter",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 13087,
+  "feature_bytes": 27775
+ },
+ {
+  "slug": "ring-size-converter",
+  "name": "Ring Size Converter",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 15516,
+  "feature_bytes": 30938
+ },
+ {
+  "slug": "bra-size-calculator",
+  "name": "Bra Size Calculator",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 15371,
+  "feature_bytes": 30260
+ },
+ {
+  "slug": "height-converter-tool",
+  "name": "Height Converter Tool",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 12338,
+  "feature_bytes": 25438
+ },
+ {
+  "slug": "weight-converter-tool",
+  "name": "Weight Converter Tool",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 16605,
+  "feature_bytes": 30958
+ },
+ {
+  "slug": "temperature-converter-tool",
+  "name": "Temperature Converter Tool",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 12309,
+  "feature_bytes": 27374
+ },
+ {
+  "slug": "speed-converter-tool",
+  "name": "Speed Converter Tool",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 16189,
+  "feature_bytes": 31730
+ },
+ {
+  "slug": "distance-converter-tool",
+  "name": "Distance Converter Tool",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 14746,
+  "feature_bytes": 30447
+ },
+ {
+  "slug": "area-converter-tool",
+  "name": "Area Converter Tool",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 15240,
+  "feature_bytes": 29031
+ },
+ {
+  "slug": "volume-converter-tool",
+  "name": "Volume Converter Tool",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 15423,
+  "feature_bytes": 30807
+ },
+ {
+  "slug": "fuel-efficiency-converter",
+  "name": "Fuel Efficiency Converter",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 8834,
+  "feature_bytes": 22346
+ },
+ {
+  "slug": "cooking-unit-converter",
+  "name": "Cooking Unit Converter",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 13873,
+  "feature_bytes": 29613
+ },
+ {
+  "slug": "currency-tip-calculator",
+  "name": "Currency Tip Calculator",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 12316,
+  "feature_bytes": 28446
+ },
+ {
+  "slug": "percentage-calculator",
+  "name": "Percentage Calculator",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 13724,
+  "feature_bytes": 29651
+ },
+ {
+  "slug": "fraction-calculator",
+  "name": "Fraction Calculator",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 12329,
+  "feature_bytes": 26146
+ },
+ {
+  "slug": "ratio-calculator",
+  "name": "Ratio Calculator",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 14655,
+  "feature_bytes": 25612
+ },
+ {
+  "slug": "average-calculator",
+  "name": "Average Calculator",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 15240,
+  "feature_bytes": 31197
+ },
+ {
+  "slug": "grade-percentage-converter",
+  "name": "Grade Percentage Converter",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 13785,
+  "feature_bytes": 33662
+ },
+ {
+  "slug": "love-compatibility-calculator",
+  "name": "Love Compatibility Calculator",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 12304,
+  "feature_bytes": 31779
+ },
+ {
+  "slug": "friendship-compatibility-finder",
+  "name": "Friendship Compatibility Finder",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 12329,
+  "feature_bytes": 31089
+ },
+ {
+  "slug": "baby-gender-predictor-fun",
+  "name": "Baby Gender Predictor Fun",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 14584,
+  "feature_bytes": 32758
+ },
+ {
+  "slug": "lucky-number-generator",
+  "name": "Lucky Number Generator",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 10464,
+  "feature_bytes": 27044
+ },
+ {
+  "slug": "random-name-picker",
+  "name": "Random Name Picker",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 12859,
+  "feature_bytes": 27525
+ },
+ {
+  "slug": "random-number-generator",
+  "name": "Random Number Generator",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 12859,
+  "feature_bytes": 31726
+ },
+ {
+  "slug": "coin-flip-tool",
+  "name": "Coin Flip Tool",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 12334,
+  "feature_bytes": 21128
+ },
+ {
+  "slug": "dice-roller-tool",
+  "name": "Dice Roller Tool",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 13801,
+  "feature_bytes": 23513
+ },
+ {
+  "slug": "decision-coin-flip",
+  "name": "Decision Coin Flip",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 14746,
+  "feature_bytes": 27144
+ },
+ {
+  "slug": "raffle-winner-picker",
+  "name": "Raffle Winner Picker",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 15369,
+  "feature_bytes": 28478
+ },
+ {
+  "slug": "team-picker-random",
+  "name": "Team Picker Random",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 10274,
+  "feature_bytes": 24653
+ },
+ {
+  "slug": "secret-santa-generator",
+  "name": "Secret Santa Generator",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 13087,
+  "feature_bytes": 28623
+ },
+ {
+  "slug": "gift-idea-generator",
+  "name": "Gift Idea Generator",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 12324,
+  "feature_bytes": 26947
+ },
+ {
+  "slug": "excuse-generator-fun",
+  "name": "Excuse Generator Fun",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 12396,
+  "feature_bytes": 27233
+ },
+ {
+  "slug": "countdown-birthday-kids",
+  "name": "Countdown Birthday Kids",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 14488,
+  "feature_bytes": 31621
+ },
+ {
+  "slug": "wedding-countdown-tool",
+  "name": "Wedding Countdown Tool",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 16605,
+  "feature_bytes": 31892
+ },
+ {
+  "slug": "new-year-countdown-tool",
+  "name": "New Year Countdown Tool",
+  "category": "Everyday calculators & life tools",
+  "logo_bytes": 12843,
+  "feature_bytes": 28294
  }
 ]
